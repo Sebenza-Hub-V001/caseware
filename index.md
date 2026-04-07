@@ -82,7 +82,8 @@ status: active
 - [[working-papers/progress]] — Completion tracker across all four pipeline stages (57 working papers)
 
 ## Tweets
-- [[tweets/index]] — Tweet insights and Sebenza Hub recommendations
+- [[tweets/index]] — Tweet insights and Probe Project recommendations
+- [[tweets/farzapedia-personal-wiki]] — Personal wiki as agent knowledge base (Farza, 2026-04-04)
 
 ## Standards
 - [[standards/isqm-1]] — ISQM 1: Quality Management for Firms
