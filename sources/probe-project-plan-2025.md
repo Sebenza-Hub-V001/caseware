@@ -39,7 +39,7 @@ The master project plan tracking all 57 working papers across the [[concepts/fou
 
 ## Open Questions
 
-- What is the "Success Community" platform? Worth an entity page?
+- ~~What is the "Success Community" platform?~~ → Resolved: publishing platform for finalised docs and videos. See [[entities/success-community]].
 - What is the review workflow between team members?
 - Are there deadlines for the Leadsheets & Working Papers section?
 

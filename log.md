@@ -32,3 +32,8 @@
 - Pages touched: [[working-papers/progress]], [[index]], [[log]]
 - New pages created: [[sources/probe-project-plan-2025]]
 - Contradictions flagged: Project scope is 57 working papers (not 23 as initially understood). 02.xx How-To docs are in progress (not finalised as previously assumed).
+
+## [2026-04-07] update | Success Community entity + corrections
+- Created [[entities/success-community]] — publishing platform for finalised docs and videos
+- Confirmed: V5 .docx files are draft How-To documents currently in progress (02.xx Finalisation section)
+- Resolved open question about Success Community platform

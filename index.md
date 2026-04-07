@@ -9,12 +9,13 @@ status: active
 
 # Wiki Index
 
-> Last updated: 2026-04-07 | Pages: 9 | Sources: 2
+> Last updated: 2026-04-07 | Pages: 10 | Sources: 2
 
 ## Entities
 - [[entities/caseware-working-papers]] — Audit software platform for managing engagement working papers
 - [[entities/probe-audit-premium-plus]] — Audit methodology implemented within CaseWare
 - [[entities/probe-audit-manual]] — Reference manual for the Probe methodology
+- [[entities/success-community]] — Publishing platform for finalised documents and videos
 
 ## Concepts
 - [[concepts/four-stage-pipeline]] — How-To Doc → Visual Script → Visual Recording → Professional Video
