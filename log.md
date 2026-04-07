@@ -121,6 +121,13 @@
 - Key content: project description, four-stage pipeline summary, progress tables, team roster, IAASB standards coverage (50 pages), most-referenced ISAs, open areas
 - Pages touched: [[overview]]
 
+## [2026-04-07] tweet | exploraX_ — 20 Powerful Agentic Skills for Claude, ChatGPT & Gemini
+- Source: https://x.com/explorax_/status/2039269234253934811
+- Tweet page: [[tweets/explorax-20-agentic-skills]]
+- Key insight: Agentic skills packaged as .md files turn general-purpose LLMs into specialised workers — 20 skills across writing, visual, research, and coding categories
+- Relevance: High — Video Script Generator, Content Repurposing, Tone Enforcer, and Skill Creator directly map to the four-stage pipeline
+- Recommendations: 4 (Visual Script Writer skill, Tone & Style Enforcer, Skill Creator meta-pattern, caption/subtitle generation)
+
 ## [2026-04-07] lint | Wiki health check
 - Issues found: 38
 - Orphan pages: 0
