@@ -58,3 +58,11 @@
 - Moved probe-project-plan-2025.csv from raw/data/ to raw/project-plans/
 - Removed unused generic folders: raw/data/, raw/papers/, raw/transcripts/
 - Kept: raw/articles/ (project briefings), raw/screenshots/
+
+## [2026-04-07] ingest | ISA Standards from IAASB 2025 Handbook Volume 1
+- Source: `raw/iaasb-handbook/IAASB-2025-Handbook-Volume-1.pdf` (extracted text)
+- New pages created: [[standards/isa-300]], [[standards/isa-315]], [[standards/isa-320]], [[standards/isa-330]], [[standards/isa-402]], [[standards/isa-450]]
+- Pages touched: [[index]]
+- Each standard page includes: Objective, Scope, Key Requirements (all "shall" statements), Key Definitions, Application to Probe Working Papers (mapped to specific CaseWare working paper refs), Related Standards with wiki-links
+- ISA-to-working-paper mappings documented: ISA 300 (3 WPs), ISA 315 (11 WPs), ISA 320 (5 WPs), ISA 330 (6 WPs), ISA 402 (1 WP), ISA 450 (2 WPs)
+- Contradictions flagged: none
