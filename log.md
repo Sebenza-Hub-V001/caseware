@@ -95,3 +95,16 @@
 - ISA 501, 505, 520, 530, 580 have no specific Probe working paper mappings yet
 - Total standards pages now: 39 (previous 25 + 14 new)
 - Contradictions flagged: none
+
+## [2026-04-07] ingest | IAASB 2025 Handbook Volumes 2-5 (Non-ISA Standards)
+- Sources: Extracted text from Volumes 2-5 of IAASB 2025 Handbook
+- New pages created: [[standards/isa-for-lce]], [[standards/issa-5000]], [[standards/isre-2400]], [[standards/isre-2410]], [[standards/isae-3000]], [[standards/isae-3400]], [[standards/isae-3402]], [[standards/isae-3410]], [[standards/isae-3420]], [[standards/isrs-4400]], [[standards/isrs-4410]]
+- Pages touched: [[index]], [[log]]
+- Volume 2: ISA for LCE — standalone audit standard for less complex entities (effective Dec 2025)
+- Volume 3: ISSA 5000 — new sustainability assurance standard (effective Dec 2026), supersedes ISAE 3410
+- Volume 4: ISRE 2400, ISRE 2410 (review engagements); ISAE 3000, 3400, 3402, 3410, 3420 (assurance engagements); ISRS 4400, 4410 (related services)
+- Volume 5: Contains Audit Quality Framework and International Framework for Assurance Engagements (frameworks, not standards — no individual standard pages created)
+- Note: No IAPNs found in Volume 5; IAPNs may have been removed from the 2025 Handbook edition
+- Total standards pages now: 50 (added 11 new pages)
+- Cross-references established between all new standards and existing wiki pages
+- Contradictions flagged: none
