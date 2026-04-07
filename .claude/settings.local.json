@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l server/*.ts)",
+      "Bash(grep -E \"\\\\.ts$\")",
+      "Bash(git config:*)",
+      "Bash(ssh-keygen -t ed25519 -C \"116758928+algo-za@users.noreply.github.com\" -f ~/.ssh/id_ed25519 -N \"\")",
+      "Bash(ssh -T git@github.com)",
+      "Bash(git remote:*)"
+    ]
+  }
+}
