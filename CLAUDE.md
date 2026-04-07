@@ -376,3 +376,20 @@ This schema is designed to work alongside your existing `tasks/todo.md` and `tas
 - `ref`: CaseWare reference number (e.g., "02.40")
 - `isa`: Related ISA standard number (e.g., "ISA 450")
 - `pipeline-stage`: how-to-doc | visual-script | visual-recording | professional-video
+
+### Tweets Workflow (Operation #5)
+
+**Trigger:** User pastes a tweet URL.
+
+**Workflow:**
+
+1. **Fetch** the tweet content.
+2. **Extract** the core insight.
+3. **Create** a tweet page in `tweets/` with:
+   - Quoted tweet text
+   - Key insight summary
+   - **Probe Project relevance** — how it connects to existing How-To documents, visual scripts, videos, or the production pipeline
+   - **Recommendations table** — specific, actionable improvements with effort/impact ratings and links to affected wiki pages
+   - Skip justification if the tweet isn't relevant (no forced recommendations)
+4. **Cross-reference** affected wiki pages if warranted.
+5. **Update** `index.md` and `log.md`.
