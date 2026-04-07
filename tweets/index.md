@@ -26,11 +26,16 @@ status: active
 
 ## Tweets
 
-*No tweets ingested yet.*
+- [[tweets/farzapedia-personal-wiki]] — Personal wiki as agent knowledge base (Farza, 2026-04-04)
 
 ## Recommendation Summary
 
-*Recommendations will accumulate here as tweets are ingested.*
+| # | From | Recommendation | Effort | Impact |
+|---|------|---------------|--------|--------|
+| 1 | [[tweets/farzapedia-personal-wiki]] | Add more unstructured sources (notes, meetings, learnings) | Low | Medium |
+| 2 | [[tweets/farzapedia-personal-wiki]] | More aggressive auto-update on ingest across related pages | Medium | High |
+| 3 | [[tweets/farzapedia-personal-wiki]] | Add visual/media tracking (screenshots, storyboards) | Medium | Medium |
+| 4 | [[tweets/farzapedia-personal-wiki]] | Query-driven page creation in questions/ | Low | High |
 
 ## Related
 

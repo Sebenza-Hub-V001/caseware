@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-04-07] tweet | Farzapedia — Personal Wiki as Agent Knowledge Base
+- Source: https://x.com/farzatv/status/2040563939797504467
+- Tweet page: [[tweets/farzapedia-personal-wiki]]
+- Key insight: Structured wiki with index.md + backlinks beats RAG for AI agents
+- Relevance: High — our wiki already follows this exact architecture
+- Recommendations: 4 (add unstructured sources, aggressive auto-update, media tracking, query-driven pages)
+
 ## [2026-04-06] bootstrap | Wiki initialised
 - Created directory structure: raw/, entities/, concepts/, sources/, comparisons/, decisions/, questions/, tasks/
 - Created starter files: index.md, log.md, overview.md
