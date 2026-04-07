@@ -356,3 +356,40 @@ This schema is designed to work alongside your existing `tasks/todo.md` and `tas
 - When in doubt, cross-reference. Over-linking is better than under-linking.
 - Flag your uncertainty. Use confidence levels. Don't present shaky claims as settled facts.
 - The wiki is a living document. Nothing is final. Everything evolves.
+
+---
+
+## Domain: CaseWare Probe How-To Document Project
+
+### Additional Page Types
+- `standards/` — ISA standards, one page per standard with requirements and linked working papers
+- `working-papers/` — Tracking and reference pages for CaseWare working papers
+- `procedures/` — Step-by-step workflows for V1 creation, V2 enhancement, and video scripting
+
+### Additional Tags
+- isa-standard, regulatory, compliance
+- casework, methodology, procedure, probe
+- working-papers, pipeline, production
+- formatting, ooxml, docx
+
+### Additional Frontmatter
+- `ref`: CaseWare reference number (e.g., "02.40")
+- `isa`: Related ISA standard number (e.g., "ISA 450")
+- `pipeline-stage`: how-to-doc | visual-script | visual-recording | professional-video
+
+### Tweets Workflow (Operation #5)
+
+**Trigger:** User pastes a tweet URL.
+
+**Workflow:**
+
+1. **Fetch** the tweet content.
+2. **Extract** the core insight.
+3. **Create** a tweet page in `tweets/` with:
+   - Quoted tweet text
+   - Key insight summary
+   - **Probe Project relevance** — how it connects to existing How-To documents, visual scripts, videos, or the production pipeline
+   - **Recommendations table** — specific, actionable improvements with effort/impact ratings and links to affected wiki pages
+   - Skip justification if the tweet isn't relevant (no forced recommendations)
+4. **Cross-reference** affected wiki pages if warranted.
+5. **Update** `index.md` and `log.md`.
