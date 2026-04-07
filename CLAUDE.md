@@ -376,3 +376,21 @@ This schema is designed to work alongside your existing `tasks/todo.md` and `tas
 - `ref`: CaseWare reference number (e.g., "02.40")
 - `isa`: Related ISA standard number (e.g., "ISA 450")
 - `pipeline-stage`: how-to-doc | visual-script | visual-recording | professional-video
+
+### Tweets Workflow
+
+**Trigger:** User pastes a tweet URL.
+
+**Workflow:**
+
+1. **Fetch** the tweet content using WebFetch on the URL.
+2. **Save** raw content to `raw/tweets/YYYY-MM-DD-short-topic.md`.
+3. **Create** a tweet page in `tweets/` with:
+   - Tweet author, date, and content
+   - Key insight summary
+   - Tags and topic categorisation
+   - **Sebenza Hub Relevance** — how this insight could apply
+   - **Recommendation** — specific, actionable suggestion for improving Sebenza Hub (or "No action needed" if not relevant)
+4. **Update** `tweets/index.md` with the new entry and any recommendations.
+5. **Cross-reference** with existing wiki pages if the tweet relates to concepts already tracked.
+6. **Append** to `log.md`.

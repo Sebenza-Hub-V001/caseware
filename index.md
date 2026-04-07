@@ -80,6 +80,9 @@ status: active
 ### Tracking
 - [[working-papers/progress]] — Completion tracker across all four pipeline stages (57 working papers)
 
+## Tweets
+- [[tweets/index]] — Tweet insights and Sebenza Hub recommendations
+
 ## Standards
 
 ## Procedures
