@@ -15,6 +15,13 @@
 - Source: `raw/articles/caseware-probe-project-overview.md`
 - Summary: [[sources/caseware-probe-project-overview]]
 - Pages touched: [[index]], [[log]]
-- New pages created: [[sources/caseware-probe-project-overview]], [[entities/caseware-working-papers]], [[entities/probe-audit-premium-plus]], [[entities/probe-audit-manual]], [[concepts/three-stage-pipeline]], [[concepts/isa-standards]], [[concepts/ooxml-document-structure]], [[working-papers/progress]]
+- New pages created: [[sources/caseware-probe-project-overview]], [[entities/caseware-working-papers]], [[entities/probe-audit-premium-plus]], [[entities/probe-audit-manual]], [[concepts/four-stage-pipeline]], [[concepts/isa-standards]], [[concepts/ooxml-document-structure]], [[working-papers/progress]]
 - New directories created: standards/, working-papers/, procedures/
 - Contradictions flagged: none (first source)
+
+## [2026-04-07] update | Pipeline corrected to four stages
+- Corrected pipeline from three stages to four: How-To Doc → Visual Script → Visual Recording → Professional Video
+- "V5" refers to document version, not pipeline stage count
+- Renamed [[concepts/four-stage-pipeline]] (was three-stage-pipeline)
+- Updated [[working-papers/progress]] with all 23 working papers (all at How-To Doc V5)
+- Updated cross-references across 8 wiki pages

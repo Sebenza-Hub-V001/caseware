@@ -15,7 +15,7 @@ The International Standards on Auditing are the professional standards governing
 ## Role in the Project
 
 - Each working paper maps to specific ISA requirements.
-- The V2 enhancement stage of the [[concepts/three-stage-pipeline]] makes ISA alignment explicit.
+- The V2 enhancement stage of the [[concepts/four-stage-pipeline]] makes ISA alignment explicit.
 - The "Key Questions — Additional Guidance" table links critical questions to the ISA standards they address.
 
 ## Known ISA References
@@ -31,7 +31,7 @@ The International Standards on Auditing are the professional standards governing
 
 - [[entities/probe-audit-premium-plus]] — methodology implementing these standards
 - [[entities/probe-audit-manual]] — contains ISA-aligned guidance
-- [[concepts/three-stage-pipeline]] — where ISA alignment is made explicit
+- [[concepts/four-stage-pipeline]] — where ISA alignment is made explicit
 - [[working-papers/progress]] — working papers and their ISA mappings
 
 ## References

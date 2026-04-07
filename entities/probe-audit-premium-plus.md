@@ -23,7 +23,7 @@ The Probe Audit Premium+ Methodology is the audit methodology implemented within
 - [[entities/caseware-working-papers]] — the platform implementing this methodology
 - [[entities/probe-audit-manual]] — the reference manual for this methodology
 - [[concepts/isa-standards]] — the international standards it implements
-- [[concepts/three-stage-pipeline]] — how methodology content becomes training material
+- [[concepts/four-stage-pipeline]] — how methodology content becomes training material
 
 ## References
 

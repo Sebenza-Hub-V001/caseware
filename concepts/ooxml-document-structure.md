@@ -11,7 +11,7 @@ confidence: high
 
 # OOXML Document Structure
 
-The standardised document formatting used across all How-To documents produced by the [[concepts/three-stage-pipeline]]. All V1 and V2 documents are output as `.docx` files conforming to this structure.
+The standardised document formatting used across all How-To documents produced by the [[concepts/four-stage-pipeline]]. All V1 and V2 documents are output as `.docx` files conforming to this structure.
 
 ## Formatting Standards
 
@@ -37,7 +37,7 @@ The standardised document formatting used across all How-To documents produced b
 
 ## Related
 
-- [[concepts/three-stage-pipeline]] — the production workflow these standards apply to
+- [[concepts/four-stage-pipeline]] — the production workflow these standards apply to
 - [[entities/caseware-working-papers]] — the source content being formatted
 
 ## References

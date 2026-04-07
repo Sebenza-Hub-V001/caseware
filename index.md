@@ -17,7 +17,7 @@ status: active
 - [[entities/probe-audit-manual]] — Reference manual for the Probe methodology
 
 ## Concepts
-- [[concepts/three-stage-pipeline]] — V1 How-To → V2 Enhanced → Video Script production workflow
+- [[concepts/four-stage-pipeline]] — How-To Doc → Visual Script → Visual Recording → Professional Video
 - [[concepts/isa-standards]] — International Standards on Auditing
 - [[concepts/ooxml-document-structure]] — Standardised document formatting for all deliverables
 
@@ -25,7 +25,7 @@ status: active
 - [[sources/caseware-probe-project-overview]] — Project briefing, ingested 2026-04-07
 
 ## Working Papers
-- [[working-papers/progress]] — Completion tracker across all three pipeline stages
+- [[working-papers/progress]] — Completion tracker across all four pipeline stages (23 working papers)
 
 ## Standards
 

@@ -13,7 +13,7 @@ confidence: high
 
 ## Summary
 
-A comprehensive briefing on the CaseWare Probe How-To Document Project — a self-initiated effort to build a library of professional training guides for the [[entities/probe-audit-premium-plus]] methodology used within [[entities/caseware-working-papers]]. The project is structured around a [[concepts/three-stage-pipeline]] (V1 How-To → V2 Enhanced → Video Script) and aligned to [[concepts/isa-standards]].
+A comprehensive briefing on the CaseWare Probe How-To Document Project — a self-initiated effort to build a library of professional training guides for the [[entities/probe-audit-premium-plus]] methodology used within [[entities/caseware-working-papers]]. The project is structured around a [[concepts/four-stage-pipeline]] (V1 How-To → V2 Enhanced → Video Script) and aligned to [[concepts/isa-standards]].
 
 ## Key Claims
 
@@ -32,7 +32,7 @@ A comprehensive briefing on the CaseWare Probe How-To Document Project — a sel
 
 ## Concepts Mentioned
 
-- [[concepts/three-stage-pipeline]] — the V1 → V2 → Video Script workflow
+- [[concepts/four-stage-pipeline]] — the V1 → V2 → Video Script workflow
 - [[concepts/isa-standards]] — International Standards on Auditing
 - [[concepts/ooxml-document-structure]] — formatting and document standards
 

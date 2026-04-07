@@ -27,7 +27,7 @@ CaseWare Working Papers is the audit software platform used to manage and comple
 ## Related
 
 - [[entities/probe-audit-premium-plus]] — the methodology implemented within CaseWare
-- [[concepts/three-stage-pipeline]] — how working papers are turned into training material
+- [[concepts/four-stage-pipeline]] — how working papers are turned into training material
 - [[working-papers/progress]] — completion status by working paper
 
 ## References

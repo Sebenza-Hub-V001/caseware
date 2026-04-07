@@ -14,7 +14,7 @@ The Probe Audit Manual is the reference documentation for the [[entities/probe-a
 
 ## Role in the Project
 
-- Used during the **V2 enhancement stage** of the [[concepts/three-stage-pipeline]].
+- Used during the **V2 enhancement stage** of the [[concepts/four-stage-pipeline]].
 - Cross-referenced against each working paper to identify the 3–5 most critical questions.
 - Provides the ISA linkage that populates the "Key Questions — Additional Guidance" table.
 
@@ -22,7 +22,7 @@ The Probe Audit Manual is the reference documentation for the [[entities/probe-a
 
 - [[entities/probe-audit-premium-plus]] — the methodology this manual documents
 - [[concepts/isa-standards]] — standards referenced throughout the manual
-- [[concepts/three-stage-pipeline]] — where the manual is used in production
+- [[concepts/four-stage-pipeline]] — where the manual is used in production
 
 ## References
 

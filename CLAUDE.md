@@ -375,4 +375,4 @@ This schema is designed to work alongside your existing `tasks/todo.md` and `tas
 ### Additional Frontmatter
 - `ref`: CaseWare reference number (e.g., "02.40")
 - `isa`: Related ISA standard number (e.g., "ISA 450")
-- `pipeline-stage`: v1 | v2 | video-script
+- `pipeline-stage`: how-to-doc | visual-script | visual-recording | professional-video
