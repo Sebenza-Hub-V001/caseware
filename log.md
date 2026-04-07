@@ -1,5 +1,10 @@
 # Activity Log
 
+## [2026-04-07] update | Added Presentations folder
+- Created `presentations/` directory for presentation materials
+- Updated [[index]] with new Presentations section
+- Pages touched: [[index]], [[log]]
+
 ## [2026-04-07] tweet | Farzapedia — Personal Wiki as Agent Knowledge Base
 - Source: https://x.com/farzatv/status/2040563939797504467
 - Tweet page: [[tweets/farzapedia-personal-wiki]]
