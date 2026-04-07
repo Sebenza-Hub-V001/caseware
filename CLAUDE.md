@@ -389,8 +389,8 @@ This schema is designed to work alongside your existing `tasks/todo.md` and `tas
    - Tweet author, date, and content
    - Key insight summary
    - Tags and topic categorisation
-   - **Sebenza Hub Relevance** — how this insight could apply
-   - **Recommendation** — specific, actionable suggestion for improving Sebenza Hub (or "No action needed" if not relevant)
+   - **Probe Project Relevance** — how this insight could apply to the How-To documents, visual scripts, videos, or production pipeline
+   - **Recommendation** — specific, actionable suggestion for improving the Probe Project (or "No action needed" if not relevant)
 4. **Update** `tweets/index.md` with the new entry and any recommendations.
 5. **Cross-reference** with existing wiki pages if the tweet relates to concepts already tracked.
 6. **Append** to `log.md`.

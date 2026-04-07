@@ -3,20 +3,20 @@ title: "Tweet Insights Index"
 type: overview
 created: 2026-04-07
 updated: 2026-04-07
-tags: [tweets, ai, insights, sebenza-hub]
+tags: [tweets, ai, insights, probe-project]
 status: active
 ---
 
 # Tweet Insights
 
-> Ingested tweets and their implications for Sebenza Hub.
+> Ingested tweets and their implications for the Probe Project (How-To docs, visual scripts, videos).
 
 ## How This Works
 
 1. Paste a tweet URL
 2. The tweet content is saved to `raw/tweets/` and a summary page is created here
-3. Each tweet is analysed for relevance to Sebenza Hub
-4. Actionable recommendations are flagged
+3. Each tweet is analysed for relevance to the Probe Project
+4. Actionable recommendations are flagged for improving How-To documents, scripts, videos, or the production pipeline
 
 ## Tweets
 
@@ -28,4 +28,5 @@ status: active
 
 ## Related
 
-- [[entities/sebenza-hub]] — what Sebenza Hub is and where it's going
+- [[concepts/four-stage-pipeline]] — the production workflow recommendations may target
+- [[working-papers/progress]] — current project status
