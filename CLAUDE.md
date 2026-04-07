@@ -356,3 +356,23 @@ This schema is designed to work alongside your existing `tasks/todo.md` and `tas
 - When in doubt, cross-reference. Over-linking is better than under-linking.
 - Flag your uncertainty. Use confidence levels. Don't present shaky claims as settled facts.
 - The wiki is a living document. Nothing is final. Everything evolves.
+
+---
+
+## Domain: CaseWare Probe How-To Document Project
+
+### Additional Page Types
+- `standards/` — ISA standards, one page per standard with requirements and linked working papers
+- `working-papers/` — Tracking and reference pages for CaseWare working papers
+- `procedures/` — Step-by-step workflows for V1 creation, V2 enhancement, and video scripting
+
+### Additional Tags
+- isa-standard, regulatory, compliance
+- casework, methodology, procedure, probe
+- working-papers, pipeline, production
+- formatting, ooxml, docx
+
+### Additional Frontmatter
+- `ref`: CaseWare reference number (e.g., "02.40")
+- `isa`: Related ISA standard number (e.g., "ISA 450")
+- `pipeline-stage`: v1 | v2 | video-script
