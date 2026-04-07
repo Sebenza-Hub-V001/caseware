@@ -170,13 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CLAUDE"
+              "title": "Outline"
             }
           }
         ],
@@ -200,8 +199,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c05fdcf7081e78f7",
+  "active": "e46c11858fc660d6",
   "lastOpenFiles": [
+    "CLAUDE.md",
     "Welcome.md",
     "Untitled.base",
     "raw/articles/Untitled.md",
@@ -221,7 +221,6 @@
     "tasks",
     "questions",
     "decisions",
-    "CLAUDE.md",
     "CLAUDE (1).md"
   ]
 }
