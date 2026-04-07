@@ -9,7 +9,7 @@ status: active
 
 # Wiki Index
 
-> Last updated: 2026-04-07 | Pages: 98 | Sources: 3
+> Last updated: 2026-04-07 | Pages: 99 | Sources: 2
 
 ## Entities
 - [[entities/caseware-working-papers]] — Audit software platform for managing engagement working papers
@@ -143,3 +143,4 @@ status: active
 ## Decisions
 
 ## Questions
+- [[questions/wiki-health]] — Wiki health check and lint results (2026-04-07) — Status: open
