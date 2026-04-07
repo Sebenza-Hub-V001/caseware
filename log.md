@@ -25,3 +25,10 @@
 - Renamed [[concepts/four-stage-pipeline]] (was three-stage-pipeline)
 - Updated [[working-papers/progress]] with all 23 working papers (all at How-To Doc V5)
 - Updated cross-references across 8 wiki pages
+
+## [2026-04-07] ingest | Probe Documents Project Plan 2025
+- Source: `raw/data/probe-project-plan-2025.csv`
+- Summary: [[sources/probe-project-plan-2025]]
+- Pages touched: [[working-papers/progress]], [[index]], [[log]]
+- New pages created: [[sources/probe-project-plan-2025]]
+- Contradictions flagged: Project scope is 57 working papers (not 23 as initially understood). 02.xx How-To docs are in progress (not finalised as previously assumed).
