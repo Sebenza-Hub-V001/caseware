@@ -26,6 +26,7 @@ status: active
 
 ## Tweets
 
+- [[tweets/aiedge-claude-skills-guide]] — Ultimate guide to building and optimising Claude Skills (AI Edge, 2026-03-25)
 - [[tweets/explorax-20-agentic-skills]] — 20 agentic skills in .md format for Claude, ChatGPT & Gemini (m0h, 2026-04-01)
 - [[tweets/farzapedia-personal-wiki]] — Personal wiki as agent knowledge base (Farza, 2026-04-04)
 
@@ -33,14 +34,17 @@ status: active
 
 | # | From | Recommendation | Effort | Impact |
 |---|------|---------------|--------|--------|
-| 1 | [[tweets/explorax-20-agentic-skills]] | Create a "Visual Script Writer" skill for Stage 2 pipeline | Medium | High |
+| 1 | [[tweets/aiedge-claude-skills-guide]] | Follow 4-step build process for Probe skills (use Skill-Creator) | Low | High |
+| 2 | [[tweets/aiedge-claude-skills-guide]] | Apply reverse prompting when building Probe-specific skills | Low | Medium |
+| 3 | [[tweets/aiedge-claude-skills-guide]] | Use Skills 2.0 evals as quality gates for pipeline stages | Medium | High |
+| 4 | [[tweets/explorax-20-agentic-skills]] | Create a "Visual Script Writer" skill for Stage 2 pipeline | Medium | High |
 | 2 | [[tweets/explorax-20-agentic-skills]] | Create a "Tone & Style Enforcer" for Probe consistency | Low | High |
 | 3 | [[tweets/explorax-20-agentic-skills]] | Adopt the "Skill Creator" meta-pattern for project-specific skills | Low | Medium |
 | 4 | [[tweets/explorax-20-agentic-skills]] | Explore caption/subtitle generation for Stage 4 videos | Medium | Medium |
-| 5 | [[tweets/farzapedia-personal-wiki]] | Add more unstructured sources (notes, meetings, learnings) | Low | Medium |
-| 6 | [[tweets/farzapedia-personal-wiki]] | More aggressive auto-update on ingest across related pages | Medium | High |
-| 7 | [[tweets/farzapedia-personal-wiki]] | Add visual/media tracking (screenshots, storyboards) | Medium | Medium |
-| 8 | [[tweets/farzapedia-personal-wiki]] | Query-driven page creation in questions/ | Low | High |
+| 8 | [[tweets/farzapedia-personal-wiki]] | Add more unstructured sources (notes, meetings, learnings) | Low | Medium |
+| 9 | [[tweets/farzapedia-personal-wiki]] | More aggressive auto-update on ingest across related pages | Medium | High |
+| 10 | [[tweets/farzapedia-personal-wiki]] | Add visual/media tracking (screenshots, storyboards) | Medium | Medium |
+| 11 | [[tweets/farzapedia-personal-wiki]] | Query-driven page creation in questions/ | Low | High |
 
 ## Related
 

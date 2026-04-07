@@ -83,6 +83,7 @@ status: active
 
 ## Tweets
 - [[tweets/index]] — Tweet insights and Probe Project recommendations
+- [[tweets/aiedge-claude-skills-guide]] — Ultimate guide to building and optimising Claude Skills (AI Edge, 2026-03-25)
 - [[tweets/explorax-20-agentic-skills]] — 20 agentic skills in .md format for Claude, ChatGPT & Gemini (m0h, 2026-04-01)
 - [[tweets/farzapedia-personal-wiki]] — Personal wiki as agent knowledge base (Farza, 2026-04-04)
 

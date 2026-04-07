@@ -121,6 +121,13 @@
 - Key content: project description, four-stage pipeline summary, progress tables, team roster, IAASB standards coverage (50 pages), most-referenced ISAs, open areas
 - Pages touched: [[overview]]
 
+## [2026-04-07] tweet | AI Edge — Claude Skills Ultimate Guide
+- Source: https://x.com/aiedge_/status/2036815449225298369
+- Tweet page: [[tweets/aiedge-claude-skills-guide]]
+- Key insight: Claude Skills are reusable .md instruction packages — build once, invoke repeatedly. Guide covers 4-step build process, 8 optimisation strategies, and Skills 2.0 features (evals, A/B testing)
+- Relevance: High — provides the "how to build" methodology for the skills identified in the exploraX_ tweet; reverse prompting + evals directly applicable to Probe pipeline
+- Recommendations: 3 (4-step build process, reverse prompting, Skills 2.0 evals as quality gates)
+
 ## [2026-04-07] tweet | exploraX_ — 20 Powerful Agentic Skills for Claude, ChatGPT & Gemini
 - Source: https://x.com/explorax_/status/2039269234253934811
 - Tweet page: [[tweets/explorax-20-agentic-skills]]
