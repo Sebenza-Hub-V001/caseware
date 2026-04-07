@@ -45,5 +45,5 @@ The master project plan tracking all 57 working papers across the [[concepts/fou
 
 ## References
 
-- Raw data: `raw/data/probe-project-plan-2025.csv`
+- Raw data: `raw/project-plans/probe-project-plan-2025.csv`
 - Progress tracker: [[working-papers/progress]]

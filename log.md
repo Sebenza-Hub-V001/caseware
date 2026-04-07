@@ -27,7 +27,7 @@
 - Updated cross-references across 8 wiki pages
 
 ## [2026-04-07] ingest | Probe Documents Project Plan 2025
-- Source: `raw/data/probe-project-plan-2025.csv`
+- Source: `raw/project-plans/probe-project-plan-2025.csv`
 - Summary: [[sources/probe-project-plan-2025]]
 - Pages touched: [[working-papers/progress]], [[index]], [[log]]
 - New pages created: [[sources/probe-project-plan-2025]]
@@ -37,3 +37,14 @@
 - Created [[entities/success-community]] — publishing platform for finalised docs and videos
 - Confirmed: V5 .docx files are draft How-To documents currently in progress (02.xx Finalisation section)
 - Resolved open question about Success Community platform
+
+## [2026-04-07] update | Reorganise raw/ for project-specific structure
+- Created: raw/caseview-documents/ (original audit program PDFs from CaseView)
+- Created: raw/how-to-drafts/ (V5 How-To .docx drafts in progress)
+- Created: raw/visual-scripts/ (video narration scripts)
+- Created: raw/probe-manual/ (Probe Audit Manual chapters)
+- Created: raw/videos/ (recordings and final videos)
+- Created: raw/project-plans/ (project tracking spreadsheets)
+- Moved probe-project-plan-2025.csv from raw/data/ to raw/project-plans/
+- Removed unused generic folders: raw/data/, raw/papers/, raw/transcripts/
+- Kept: raw/articles/ (project briefings), raw/screenshots/
