@@ -76,3 +76,12 @@
 - ISQM 1 and ISQM 2 are firm-level quality management standards (not directly mapped to individual working papers)
 - Total standards pages now: 16 (ISQM 1-2, ISA 200, 210, 220, 230, 240, 250, 260, 265, 300, 315, 320, 330, 402, 450)
 - Contradictions flagged: none
+
+## [2026-04-07] ingest | ISA 700-810 Standards (Reporting Series)
+- Source: `raw/iaasb-handbook/IAASB-2025-Handbook-Volume-1.pdf`, pages 593-784
+- New pages created: [[standards/isa-700]], [[standards/isa-701]], [[standards/isa-705]], [[standards/isa-706]], [[standards/isa-710]], [[standards/isa-720]], [[standards/isa-800]], [[standards/isa-805]], [[standards/isa-810]]
+- Pages touched: [[index]]
+- Each standard page includes: Objective, Scope, Key Requirements, Key Definitions, Application to Probe Working Papers, Related Standards
+- ISA-to-working-paper mappings documented: ISA 700 → 02.50, 02.40; ISA 701 → 02.00, 02.55; ISA 710 → 17.10; ISA 705, 706, 720, 800, 805, 810 → none yet
+- Total standards pages now: 25 (added ISA 700, 701, 705, 706, 710, 720, 800, 805, 810)
+- Contradictions flagged: none
