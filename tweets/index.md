@@ -9,14 +9,20 @@ status: active
 
 # Tweet Insights
 
-> Ingested tweets and their implications for the Probe Project (How-To docs, visual scripts, videos).
+> Ingested tweets and their implications for the Probe Project.
 
 ## How This Works
 
-1. Paste a tweet URL
-2. The tweet content is saved to `raw/tweets/` and a summary page is created here
-3. Each tweet is analysed for relevance to the Probe Project
-4. Actionable recommendations are flagged for improving How-To documents, scripts, videos, or the production pipeline
+1. **Fetch** the tweet content
+2. **Extract** the core insight
+3. **Create** a tweet page in `tweets/` with:
+   - Quoted tweet text
+   - Key insight summary
+   - **Probe Project relevance** — how it connects to existing How-To documents, visual scripts, videos, or the production pipeline
+   - **Recommendations table** — specific, actionable improvements with effort/impact ratings and links to affected wiki pages
+   - Skip justification if the tweet isn't relevant (no forced recommendations)
+4. **Cross-reference** affected wiki pages if warranted
+5. **Update** index.md and log.md
 
 ## Tweets
 

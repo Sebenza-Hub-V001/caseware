@@ -377,20 +377,19 @@ This schema is designed to work alongside your existing `tasks/todo.md` and `tas
 - `isa`: Related ISA standard number (e.g., "ISA 450")
 - `pipeline-stage`: how-to-doc | visual-script | visual-recording | professional-video
 
-### Tweets Workflow
+### Tweets Workflow (Operation #5)
 
 **Trigger:** User pastes a tweet URL.
 
 **Workflow:**
 
-1. **Fetch** the tweet content using WebFetch on the URL.
-2. **Save** raw content to `raw/tweets/YYYY-MM-DD-short-topic.md`.
+1. **Fetch** the tweet content.
+2. **Extract** the core insight.
 3. **Create** a tweet page in `tweets/` with:
-   - Tweet author, date, and content
+   - Quoted tweet text
    - Key insight summary
-   - Tags and topic categorisation
-   - **Probe Project Relevance** — how this insight could apply to the How-To documents, visual scripts, videos, or production pipeline
-   - **Recommendation** — specific, actionable suggestion for improving the Probe Project (or "No action needed" if not relevant)
-4. **Update** `tweets/index.md` with the new entry and any recommendations.
-5. **Cross-reference** with existing wiki pages if the tweet relates to concepts already tracked.
-6. **Append** to `log.md`.
+   - **Probe Project relevance** — how it connects to existing How-To documents, visual scripts, videos, or the production pipeline
+   - **Recommendations table** — specific, actionable improvements with effort/impact ratings and links to affected wiki pages
+   - Skip justification if the tweet isn't relevant (no forced recommendations)
+4. **Cross-reference** affected wiki pages if warranted.
+5. **Update** `index.md` and `log.md`.
