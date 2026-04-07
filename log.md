@@ -108,3 +108,21 @@
 - Total standards pages now: 50 (added 11 new pages)
 - Cross-references established between all new standards and existing wiki pages
 - Contradictions flagged: none
+
+## [2026-04-07] evolve | Overview rewritten
+- Overview rewritten from placeholder to full synthesis
+- Key content: project description, four-stage pipeline summary, progress tables, team roster, IAASB standards coverage (50 pages), most-referenced ISAs, open areas
+- Pages touched: [[overview]]
+
+## [2026-04-07] lint | Wiki health check
+- Issues found: 38
+- Orphan pages: 0
+- Missing link targets: 0
+- Missing working paper pages: 18 (mostly Leadsheets section + Group audit papers without CaseView PDFs)
+- Structural backlink gaps: 3 (Success Community and OOXML pages missing backlinks from target pages)
+- Empty directories: 4 (procedures, comparisons, decisions, questions)
+- Unmapped ISA standards: 12 (standards with pages but no working paper mappings)
+- Stale content: 1 (source summary still references three-stage pipeline)
+- Results filed: [[questions/wiki-health]]
+- New pages created: [[questions/wiki-health]]
+- Pages touched: [[index]], [[log]]
