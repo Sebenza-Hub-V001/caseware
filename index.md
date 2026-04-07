@@ -83,6 +83,7 @@ status: active
 
 ## Tweets
 - [[tweets/index]] — Tweet insights and Probe Project recommendations
+- [[tweets/explorax-20-agentic-skills]] — 20 agentic skills in .md format for Claude, ChatGPT & Gemini (m0h, 2026-04-01)
 - [[tweets/farzapedia-personal-wiki]] — Personal wiki as agent knowledge base (Farza, 2026-04-04)
 
 ## Standards

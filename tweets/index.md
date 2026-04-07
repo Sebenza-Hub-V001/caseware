@@ -26,16 +26,21 @@ status: active
 
 ## Tweets
 
+- [[tweets/explorax-20-agentic-skills]] — 20 agentic skills in .md format for Claude, ChatGPT & Gemini (m0h, 2026-04-01)
 - [[tweets/farzapedia-personal-wiki]] — Personal wiki as agent knowledge base (Farza, 2026-04-04)
 
 ## Recommendation Summary
 
 | # | From | Recommendation | Effort | Impact |
 |---|------|---------------|--------|--------|
-| 1 | [[tweets/farzapedia-personal-wiki]] | Add more unstructured sources (notes, meetings, learnings) | Low | Medium |
-| 2 | [[tweets/farzapedia-personal-wiki]] | More aggressive auto-update on ingest across related pages | Medium | High |
-| 3 | [[tweets/farzapedia-personal-wiki]] | Add visual/media tracking (screenshots, storyboards) | Medium | Medium |
-| 4 | [[tweets/farzapedia-personal-wiki]] | Query-driven page creation in questions/ | Low | High |
+| 1 | [[tweets/explorax-20-agentic-skills]] | Create a "Visual Script Writer" skill for Stage 2 pipeline | Medium | High |
+| 2 | [[tweets/explorax-20-agentic-skills]] | Create a "Tone & Style Enforcer" for Probe consistency | Low | High |
+| 3 | [[tweets/explorax-20-agentic-skills]] | Adopt the "Skill Creator" meta-pattern for project-specific skills | Low | Medium |
+| 4 | [[tweets/explorax-20-agentic-skills]] | Explore caption/subtitle generation for Stage 4 videos | Medium | Medium |
+| 5 | [[tweets/farzapedia-personal-wiki]] | Add more unstructured sources (notes, meetings, learnings) | Low | Medium |
+| 6 | [[tweets/farzapedia-personal-wiki]] | More aggressive auto-update on ingest across related pages | Medium | High |
+| 7 | [[tweets/farzapedia-personal-wiki]] | Add visual/media tracking (screenshots, storyboards) | Medium | Medium |
+| 8 | [[tweets/farzapedia-personal-wiki]] | Query-driven page creation in questions/ | Low | High |
 
 ## Related
 
