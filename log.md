@@ -66,3 +66,13 @@
 - Each standard page includes: Objective, Scope, Key Requirements (all "shall" statements), Key Definitions, Application to Probe Working Papers (mapped to specific CaseWare working paper refs), Related Standards with wiki-links
 - ISA-to-working-paper mappings documented: ISA 300 (3 WPs), ISA 315 (11 WPs), ISA 320 (5 WPs), ISA 330 (6 WPs), ISA 402 (1 WP), ISA 450 (2 WPs)
 - Contradictions flagged: none
+
+## [2026-04-07] ingest | ISA Standards from IAASB 2025 Handbook Volume 1 (batch 2)
+- Source: `raw/iaasb-handbook/IAASB-2025-Handbook-Volume-1.pdf` (extracted text at /tmp/iaasb-vol1.txt)
+- New pages created: [[standards/isqm-1]], [[standards/isqm-2]], [[standards/isa-200]], [[standards/isa-210]], [[standards/isa-220]], [[standards/isa-230]], [[standards/isa-240]], [[standards/isa-250]], [[standards/isa-260]], [[standards/isa-265]]
+- Pages touched: [[index]]
+- Each standard page includes: Objective, Scope, Key Requirements, Key Definitions, Application to Probe Working Papers, Related Standards
+- ISA-to-working-paper mappings documented: ISA 200 (1 WP), ISA 210 (2 WPs), ISA 220 (6 WPs), ISA 240 (10 WPs), ISA 250 (4 WPs), ISA 260 (2 WPs), ISA 265 (0 — firm-level communication standard)
+- ISQM 1 and ISQM 2 are firm-level quality management standards (not directly mapped to individual working papers)
+- Total standards pages now: 16 (ISQM 1-2, ISA 200, 210, 220, 230, 240, 250, 260, 265, 300, 315, 320, 330, 402, 450)
+- Contradictions flagged: none
