@@ -38,6 +38,16 @@
 - Confirmed: V5 .docx files are draft How-To documents currently in progress (02.xx Finalisation section)
 - Resolved open question about Success Community platform
 
+## [2026-04-07] ingest | CaseView PDFs — all sections (40 working papers)
+- Sources: 41 PDFs + 1 .docx in `raw/caseview-documents/`
+- Created 38 new working paper wiki pages in `working-papers/`
+- Sections covered: Pre-Engagement (10.xx: 8 pages), Planning & Risk (11.xx: 7 pages), Audit Planning (12.xx: 6 pages), Finalisation (02.xx: 15 pages), Execution (16-18.xx: 3 pages)
+- Updated [[concepts/isa-standards]] with comprehensive ISA-to-working-paper map (23 ISAs mapped)
+- Updated [[index]] with full working paper listing by section
+- Key findings: ISA 315 referenced in 11 working papers, ISA 240 in 10, ISA 330 in 6
+- New section discovered: Execution (16.10, 17.10, 18.10) — not in original project plan
+- Two duplicate 11.50 PDFs confirmed identical; both referenced on single page
+
 ## [2026-04-07] update | Reorganise raw/ for project-specific structure
 - Created: raw/caseview-documents/ (original audit program PDFs from CaseView)
 - Created: raw/how-to-drafts/ (V5 How-To .docx drafts in progress)
