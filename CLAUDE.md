@@ -21,7 +21,23 @@ wiki/
 ├── log.md                 # Chronological activity log (append-only)
 ├── overview.md            # High-level synthesis (evolves over time)
 ├── 1-standards/           # ISA standards — the regulatory foundation
-├── 2-working-papers/      # Working paper pages organised by audit phase
+├── 2-working-papers/      # Working paper documents organised by audit phase
+│   ├── 1-finalisation/
+│   │   ├── index.md
+│   │   ├── 01-60-minutes/           # One folder per document
+│   │   │   ├── 01-60-minutes Wiki Page.md
+│   │   │   └── 01.60 Minutes CaseView Document.pdf
+│   │   ├── 02-40-evaluation-of-misstatements/
+│   │   │   ├── 02-40-evaluation-of-misstatements Wiki Page.md
+│   │   │   ├── 02.40 Evaluation of Misstatements CaseView Doccument.pdf
+│   │   │   └── How-To 02.40 Evaluation of Misstatements V5.docx
+│   │   └── ...            # (same pattern for every document)
+│   ├── 2-pre-engagement-planning/
+│   ├── 3-planning-risk-assessment/
+│   ├── 4-audit-planning/
+│   ├── 5-leadsheets/
+│   ├── 6-general-working-papers/
+│   └── progress.md
 ├── 3-pipeline/            # Production pipeline tracking & procedures
 ├── concepts/              # Pages for ideas, patterns, frameworks, methodologies
 ├── entities/              # Pages for specific things: people, companies, products, tools
@@ -46,6 +62,32 @@ wiki/
 - All wiki pages are markdown (`.md`).
 - All filenames use kebab-case: `whatsapp-cloud-api.md`, not `WhatsApp Cloud API.md`.
 - Every page gets YAML frontmatter (see Page Format below).
+
+### Working Paper Document Folders
+
+Each working paper document has its own folder under `2-working-papers/{phase}/`. **All files related to a document live together in one folder.** The folder naming convention is kebab-case derived from the document reference number and name (e.g., `02-40-evaluation-of-misstatements/`).
+
+**File naming conventions inside each document folder:**
+
+| File type | Naming pattern | Example |
+|-----------|---------------|---------|
+| Wiki page | `{ref-kebab} Wiki Page.md` | `02-40-evaluation-of-misstatements Wiki Page.md` |
+| CaseView source | `{ref} {Name} CaseView Document.{ext}` | `02.40 Evaluation of Misstatements CaseView Document.pdf` |
+| How-To draft | `How-To {ref} {Name} V{n}.docx` | `How-To 02.40 Evaluation of Misstatements V5.docx` |
+| Visual script | `Visual Script {ref} {Name}.md` | `Visual Script 02.40 Evaluation of Misstatements.md` |
+
+**When a new file is uploaded for an existing document** (e.g., a new CaseView PDF for 02.50, a How-To draft, a visual script), place it in the existing document folder. Update the wiki page's Probe Project / Source Documents section to reference the new file.
+
+**When a new document is uploaded that does not yet have a folder:**
+
+1. **Identify** the document reference number (e.g., `02.50`) and the phase it belongs to (finalisation, pre-engagement-planning, etc.).
+2. **Create** the document folder: `2-working-papers/{phase}/{ref-kebab-name}/` (e.g., `2-working-papers/1-finalisation/02-50-assurance-report/`).
+3. **Move** the uploaded file into that folder, applying the correct naming convention (add "CaseView Document" to CaseView sources if not present).
+4. **Create** the wiki page `{ref-kebab-name} Wiki Page.md` inside the folder using the standard working paper page template (see Working Paper Page Template below).
+5. **Update** the phase `index.md` to list the new document.
+6. **Update** `index.md` (root) to include the new document.
+7. **Cross-reference** the new page with relevant ISA standard pages, related working papers, and entity/concept pages.
+8. **Append** to `log.md`.
 
 ---
 
@@ -95,6 +137,60 @@ Content goes here. Use [[wiki-links]] to connect to other pages.
 | `sources` | No | Which raw sources informed this page |
 | `status` | No | `active` (default), `stale` (needs review), `superseded` (replaced by newer page) |
 | `confidence` | No | `high`, `medium`, `low` — how well-supported the claims are |
+
+---
+
+### Working Paper Page Template
+
+When creating a new working paper wiki page, use this template:
+
+```markdown
+---
+title: "{Ref} {Document Name}"
+type: entity
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+tags: [working-papers, {phase-tag}, probe]
+ref: "{ref}"
+isa: "ISA {number}"
+pipeline-stage: how-to-doc
+status: active
+---
+
+# {Ref} {Document Name}
+
+{Brief description of the working paper's purpose and what it covers.}
+
+## Key Sections
+
+- {List the main sections/parts of the CaseView document}
+
+## ISA Requirements Addressed
+
+- [[1-standards/2-isa/isa-{number}]] — {Brief description of relevant requirement}
+
+## Probe Project
+
+Artifacts for working paper {ref}:
+
+- CaseView source: [[2-working-papers/{phase}/{doc-folder}/{CaseView filename}]]
+- How-To V5 draft: [[2-working-papers/{phase}/{doc-folder}/{How-To filename}]]
+
+> **Status: {Draft Vn} -- due {date}**
+
+## Related
+
+- [[entities/caseware-working-papers]]
+- [[entities/probe-audit-premium-plus]]
+- [[concepts/four-stage-pipeline]]
+- {Links to related working papers with brief explanation}
+
+- [[2-working-papers/{phase}/index]]
+
+## References
+
+- CaseView source: [[2-working-papers/{phase}/{doc-folder}/{CaseView filename}]]
+```
 
 ---
 
@@ -366,8 +462,36 @@ This schema is designed to work alongside your existing `tasks/todo.md` and `tas
 
 ### Additional Page Types
 - `1-standards/` — ISA standards, one page per standard with requirements and linked working papers
-- `2-working-papers/` — Tracking and reference pages for CaseWare working papers
+- `2-working-papers/` — Working paper document folders, each containing the wiki page, CaseView source, How-To draft, and any other related files — all in one place per document
 - `3-pipeline/` — Production pipeline tracking, procedures, and progress
+
+### Working Paper Document Filing (Operation #6)
+
+**Trigger:** User uploads a CaseView PDF, How-To DOCX, visual script, or any other file belonging to a specific working paper document number.
+
+**Workflow:**
+
+1. **Identify** the document reference number from the filename (e.g., `02.50` from `02.50 Consideration of Assurance Report.pdf`).
+2. **Determine the phase** from the reference number range:
+   - `01.xx`, `02.xx` → `1-finalisation/`
+   - `10.xx` → `2-pre-engagement-planning/`
+   - `11.xx` → `3-planning-risk-assessment/`
+   - `12.xx` → `4-audit-planning/`
+   - `15.xx–26.xx` → `6-general-working-papers/`
+3. **Check if the document folder already exists** in `2-working-papers/{phase}/`.
+4. **If the folder exists:**
+   - Move the file into the existing folder.
+   - Apply naming conventions: add "CaseView Document" to CaseView sources if not already present.
+   - Update the wiki page's Probe Project section to reference the new file.
+5. **If the folder does not exist:**
+   - Create the folder: `2-working-papers/{phase}/{ref-kebab-name}/` (e.g., `02-50-assurance-report/`).
+   - Move the uploaded file into the new folder with correct naming.
+   - Create the wiki page using the Working Paper Page Template (see above), named `{ref-kebab-name} Wiki Page.md`.
+   - Update the phase `index.md` to list the new document.
+   - Update root `index.md` to include the new document.
+   - Cross-reference with relevant ISA standards and related working papers.
+   - Append to `log.md`.
+6. **Always update** all wiki links to use the full path: `[[2-working-papers/{phase}/{doc-folder}/{filename}]]`.
 
 ### Additional Tags
 - isa-standard, regulatory, compliance
