@@ -1,5 +1,10 @@
 # Activity Log
 
+## [2026-04-08] create | Links folder
+- Created `links/` directory and `links/index.md`
+- Updated root [[index]] — added Links section and corrected page count (~100 → ~120)
+- Added cross-references in `links/index.md` back to [[index]], [[Welcome]], [[tweets/index]], [[3-pipeline/index]]
+
 ## [2026-04-08] ingest | Project Plan CSV — Full Spreadsheet Import
 - Source: `raw/project-plans/probe-project-plan-2025.csv`
 - New page: [[3-pipeline/project-plan-tracker]] — Full detailed tracker with all 31 columns from master CSV

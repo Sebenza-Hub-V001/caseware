@@ -9,7 +9,7 @@ status: active
 
 # Wiki Index
 
-> Last updated: 2026-04-08 | Pages: ~100 | Sources: 3
+> Last updated: 2026-04-08 | Pages: ~120 | Sources: 3
 
 ## 1 — Standards (Know the Rules)
 
