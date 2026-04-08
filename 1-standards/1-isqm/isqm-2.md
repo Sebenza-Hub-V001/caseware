@@ -16,7 +16,7 @@ The objective of the firm, through appointing an eligible engagement quality rev
 
 ## Scope
 
-ISQM 2 deals with the appointment and eligibility of the engagement quality reviewer, and the engagement quality reviewer's responsibilities relating to the performance and documentation of an engagement quality review. It applies to all engagements for which an engagement quality review is required under [[1-standards/isqm-1]]. The standard is premised on the firm being subject to ISQM 1.
+ISQM 2 deals with the appointment and eligibility of the engagement quality reviewer, and the engagement quality reviewer's responsibilities relating to the performance and documentation of an engagement quality review. It applies to all engagements for which an engagement quality review is required under [[1-standards/1-isqm/isqm-1]]. The standard is premised on the firm being subject to ISQM 1.
 
 ## Key Requirements
 
@@ -35,12 +35,14 @@ ISQM 2 deals with the appointment and eligibility of the engagement quality revi
 
 ## Application to Probe Working Papers
 
-ISQM 2 is a firm-level standard governing the quality review process. In the Probe methodology, engagement quality reviews are facilitated through the completion and sign-off procedures in the CaseWare file. Working papers such as [[2-working-papers/1-finalisation/02-80]] (referenced by [[1-standards/isa-220]]) support the documentation of quality management including engagement quality reviews.
+ISQM 2 is a firm-level standard governing the quality review process. In the Probe methodology, engagement quality reviews are facilitated through the completion and sign-off procedures in the CaseWare file. Working papers such as [[2-working-papers/1-finalisation/02-80]] (referenced by [[1-standards/2-isa/isa-220]]) support the documentation of quality management including engagement quality reviews.
 
 ## Related Standards
 
-- [[1-standards/isqm-1]] — Quality Management for Firms (establishes when engagement quality reviews are required)
-- [[1-standards/isa-220]] — Quality Management for an Audit (engagement-level quality management)
+- [[1-standards/1-isqm/index]]
+
+- [[1-standards/1-isqm/isqm-1]] — Quality Management for Firms (establishes when engagement quality reviews are required)
+- [[1-standards/2-isa/isa-220]] — Quality Management for an Audit (engagement-level quality management)
 
 ## References
 

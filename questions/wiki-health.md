@@ -75,18 +75,18 @@ The following pages link outward to targets that do not link back. This is a kno
 
 These ISA standards have wiki pages but no specific Probe working paper mappings identified:
 
-- [ ] [[1-standards/isa-265]] — Communicating Deficiencies in Internal Control (firm-level)
-- [ ] [[1-standards/isa-501]] — Audit Evidence for Selected Items
-- [ ] [[1-standards/isa-505]] — External Confirmations
-- [ ] [[1-standards/isa-520]] — Analytical Procedures
-- [ ] [[1-standards/isa-530]] — Audit Sampling
-- [ ] [[1-standards/isa-580]] — Written Representations
-- [ ] [[1-standards/isa-705]] — Modifications to the Auditor's Opinion
-- [ ] [[1-standards/isa-706]] — Emphasis of Matter Paragraphs
-- [ ] [[1-standards/isa-720]] — Other Information
-- [ ] [[1-standards/isa-800]] — Special Purpose Frameworks
-- [ ] [[1-standards/isa-805]] — Single Financial Statements
-- [ ] [[1-standards/isa-810]] — Summary Financial Statements
+- [ ] [[1-standards/2-isa/isa-265]] — Communicating Deficiencies in Internal Control (firm-level)
+- [ ] [[1-standards/2-isa/isa-501]] — Audit Evidence for Selected Items
+- [ ] [[1-standards/2-isa/isa-505]] — External Confirmations
+- [ ] [[1-standards/2-isa/isa-520]] — Analytical Procedures
+- [ ] [[1-standards/2-isa/isa-530]] — Audit Sampling
+- [ ] [[1-standards/2-isa/isa-580]] — Written Representations
+- [ ] [[1-standards/2-isa/isa-705]] — Modifications to the Auditor's Opinion
+- [ ] [[1-standards/2-isa/isa-706]] — Emphasis of Matter Paragraphs
+- [ ] [[1-standards/2-isa/isa-720]] — Other Information
+- [ ] [[1-standards/2-isa/isa-800]] — Special Purpose Frameworks
+- [ ] [[1-standards/2-isa/isa-805]] — Single Financial Statements
+- [ ] [[1-standards/2-isa/isa-810]] — Summary Financial Statements
 
 > Some of these (ISA 501, 505, 530) likely map to Leadsheets working papers (430.xx confirmations, sampling worksheets) once those pages are created.
 

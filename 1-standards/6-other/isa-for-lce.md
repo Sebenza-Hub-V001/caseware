@@ -68,10 +68,12 @@ These standards are not currently referenced by any Probe working papers, but th
 
 ## Related Standards
 
-- [[1-standards/isqm-1]] — Firm-level quality management (required as premise)
-- [[1-standards/isqm-2]] — Engagement quality reviews (applies when required by firm policies)
-- [[1-standards/isa-200]] — Overall objectives (ISA for LCE is the LCE equivalent)
-- [[1-standards/isre-2400]] — Reviews of historical financial statements (alternative engagement type for LCEs)
+- [[1-standards/6-other/index]]
+
+- [[1-standards/1-isqm/isqm-1]] — Firm-level quality management (required as premise)
+- [[1-standards/1-isqm/isqm-2]] — Engagement quality reviews (applies when required by firm policies)
+- [[1-standards/2-isa/isa-200]] — Overall objectives (ISA for LCE is the LCE equivalent)
+- [[1-standards/3-isre/isre-2400]] — Reviews of historical financial statements (alternative engagement type for LCEs)
 
 ## References
 
