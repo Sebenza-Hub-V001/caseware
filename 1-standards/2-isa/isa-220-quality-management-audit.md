@@ -43,12 +43,12 @@ ISA 220 (Revised) deals with the specific responsibilities of the auditor regard
 
 | Working Paper | Relevance |
 |---|---|
-| [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation]] | Engagement acceptance and continuance |
-| [[2-working-papers/2-pre-engagement-planning/10-40-time-budget]] | Audit planning — resource allocation |
-| [[2-working-papers/1-finalisation/02-00-partner-sign-off]] | Completion — overall quality management |
-| [[2-working-papers/1-finalisation/02-80-eqr-execution-finalisation]] | Quality management documentation |
-| [[2-working-papers/4-audit-planning/12-10-manager-planning-checklist]] | Audit planning — engagement partner responsibilities |
-| [[2-working-papers/4-audit-planning/12-30-planning-memorandum]] | Direction, supervision and review |
+| [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation/10-20-engagement-evaluation]] | Engagement acceptance and continuance |
+| [[2-working-papers/2-pre-engagement-planning/10-40-time-budget/10-40-time-budget]] | Audit planning — resource allocation |
+| [[2-working-papers/1-finalisation/02-00-partner-sign-off/02-00-partner-sign-off]] | Completion — overall quality management |
+| [[2-working-papers/1-finalisation/02-80-eqr-execution-finalisation/02-80-eqr-execution-finalisation]] | Quality management documentation |
+| [[2-working-papers/4-audit-planning/12-10-manager-planning-checklist/12-10-manager-planning-checklist]] | Audit planning — engagement partner responsibilities |
+| [[2-working-papers/4-audit-planning/12-30-planning-memorandum/12-30-planning-memorandum]] | Direction, supervision and review |
 
 ## Related Standards
 

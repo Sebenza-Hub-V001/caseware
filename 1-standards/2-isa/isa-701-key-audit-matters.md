@@ -58,8 +58,8 @@ Communicating key audit matters is not a substitute for: disclosures required by
 
 ## Application to Probe Working Papers
 
-- [[2-working-papers/1-finalisation/02-00-partner-sign-off]] — Partner Sign-Off: References key audit matters in the context of final partner review
-- [[2-working-papers/1-finalisation/02-55-key-audit-matters]] — Key Audit Matters (ref 02.55): Directly implements the ISA 701 requirements for determining and documenting key audit matters
+- [[2-working-papers/1-finalisation/02-00-partner-sign-off/02-00-partner-sign-off]] — Partner Sign-Off: References key audit matters in the context of final partner review
+- [[2-working-papers/1-finalisation/02-55-key-audit-matters/02-55-key-audit-matters]] — Key Audit Matters (ref 02.55): Directly implements the ISA 701 requirements for determining and documenting key audit matters
 
 ## Related Standards
 

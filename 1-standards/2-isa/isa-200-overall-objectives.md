@@ -46,7 +46,7 @@ ISA 200 deals with the independent auditor's overall responsibilities when condu
 
 | Working Paper | Relevance |
 |---|---|
-| [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]] | Overall audit approach and objectives |
+| [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary/11-10-risk-analysis-summary]] | Overall audit approach and objectives |
 
 ISA 200 is the foundational standard referenced by virtually all other ISAs. Every Probe working paper implicitly relies on its requirements for professional skepticism, professional judgment, and the overall audit objective.
 

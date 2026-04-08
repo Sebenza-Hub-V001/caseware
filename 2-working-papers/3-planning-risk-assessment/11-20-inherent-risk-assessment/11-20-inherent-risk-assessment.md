@@ -1,0 +1,114 @@
+---
+title: "Inherent Risk Assessment"
+type: entity
+created: 2026-04-07
+updated: 2026-04-07
+tags: [working-papers, planning-risk, probe]
+sources: [caseview-11-20]
+how-to-draft: "2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment/How-To 11.20 Inherent Risk Assessment V5.docx"
+ref: "11.20"
+pipeline-stage: how-to-doc
+status: active
+---
+
+# Inherent Risk Assessment
+
+## Purpose
+This working paper documents the auditor's understanding of the entity and its environment to identify and assess inherent risks of material misstatement at the financial statement level. It structures the risk assessment procedures required by ISA 315 across several domains: the entity's structure, business model, industry conditions, performance measures, and financial reporting framework.
+
+## Key Fields & Sections
+
+### Risk Assessment Procedures (Item 1)
+- Selection of procedure types performed: Inquiries, Observations, Inspections
+- Description of sources from which information was obtained
+- Risk column for flagging identified risks
+
+### Understanding of Entity and Environment
+
+**Structure, Ownership and Governance (Items 2-5)**
+- Entity organisational structure and ownership — subsidiaries, joint ventures, legal vs operating structure, owner relationships
+- Governance and management structure — involvement of those charged with governance, non-executive board, audit committee, oversight of financial reporting
+- Group structure with related party transactions and relationships — identity of related parties, nature of relationships, types/purpose of transactions
+- Structure and complexity of the entity's IT environment (cross-references 10.55)
+
+**Business Model (Items 6-10)**
+- Entity's objectives and strategies
+- Business operations — revenue sources, markets, production methods, geographic dispersion, key customers/suppliers, employment arrangements, R&D
+- Names, roles and qualifications of management and key accounting staff
+- Entity investments and investment activities — acquisitions, divestitures, capital investments, non-consolidated entities
+- Entity financing and financing activities — subsidiaries, debt structure, off-balance-sheet arrangements, beneficial owners, derivatives
+
+**Industry, Regulatory and External Factors (Items 11-14)**
+- Industry conditions — market competition, cyclical activity, product technology, energy costs
+- Regulatory factors — industry-specific practices, regulatory framework, taxation, government policies, environmental requirements
+- Other external factors — economic conditions, interest rates, inflation, foreign exchange
+- Money-laundering and terrorist financing risk — geographic location, cash transactions, international receipts, client reputation
+
+**Measures to Assess Financial Performance (Items 15-16)**
+- Internal performance measures — KPIs, period-on-period analysis, budgets, variance analyses, employee performance measures
+- External performance analysis — credit agencies, providers of finance
+
+**Financial Reporting Framework and Accounting Policies (Items 17-20)**
+- FRF applied (IFRS for SMEs Accounting Standard)
+- Financial reporting practices — accounting principles, revenue recognition, fair values, foreign currency
+- Selection and application of accounting policies — significant/unusual transactions, controversial areas, changes in standards
+- Selection and application of accounting estimates (cross-references 10.51 and 10.53)
+
+### Conclusion (Items 21-22)
+- Whether results indicated risks management should have identified but failed to
+- Inherent risk at financial statement level assessment — considers industry developments, new products/services, business expansion, new accounting requirements, regulatory requirements, financing requirements, IT use, strategy implementation effects, economically unstable regions
+
+## ISA References
+- **ISA 315 (Revised)** — Understanding the entity and its environment; identifying and assessing risks of material misstatement
+- **ISA 240** — Consideration of fraud risk factors (implicit in several items)
+- Cross-references to working papers 10.51, 10.53, and 10.55
+
+## Completion Guidance
+- Each numbered item has three columns: **Procedure/Description/Risk**. The auditor must describe their understanding and flag any identified risks.
+- For each area, consider the "Consider" sub-points as prompts — they are not exhaustive but guide the inquiry.
+- The IT environment assessment at item 5 should cross-reference to 10.55 for detailed IT understanding.
+- The conclusion at item 22 requires an overall inherent risk assessment at the financial statement level, which flows to [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary/11-10-risk-analysis-summary]].
+- This is a 5-page document requiring thorough completion across all domains.
+- Header includes sign-off fields: Planning by, Reviewed by, Performed by, and Final review.
+
+## How-To Document Summary
+
+The How-To V5 draft for 11.20 Inherent Risk Assessment explains the functionality and features of this working paper within Probe Audit Premium+. It is a questionnaire-type document guiding the engagement team through risk assessment procedures and the documentation of their understanding of the entity and its environment.
+
+### Key Topics Addressed
+- **Document placement** — located in the Planning and risk assessment procedures folder in CaseWare document manager
+- **Risk assessment procedures** — selecting procedure types, describing information sources, and recording risks via the risk icon
+- **Understanding of entity and environment** — structured across five ISA 315 aspects: structure/ownership/governance, business model, industry/regulatory/external factors, performance measures, and FRF/accounting policies
+- **Inherent risk at financial statement level** — identification of inherent risk factors (complexity, subjectivity, change, uncertainty, management bias)
+- **Determination of significant SCOTABD** — significant classes of transactions, account balances, and disclosures that drive audit strategy
+- **Risk recording mechanism** — selecting the risk icon populates question 22 and the risk tables in 12.20 Audit Plan and Strategy
+- **Conclusion** — confirms whether results indicate risks management failed to identify, and assesses inherent risk at financial statement level
+- **Document outcomes** — mandatory completion requirements for risk assessment procedures, understanding, conclusion, and inherent risk assessment
+- **Group audits** — additional questions for Group Audit Single/Multiple engagement types covering component identification, component auditor involvement, and access evaluation
+- **Available features** — insert/delete comments, insert/delete rows, record risks/events, Core vs Extended, Guidance, Freeze
+
+### ISA References in the How-To
+- **ISA 315 (Revised 2019)** — understanding the entity and its environment; inherent risk factors (complexity, subjectivity, change, uncertainty, management bias)
+
+**Status:** Draft V5 — in production pipeline
+
+## Probe Project
+
+Artifacts for working paper 11.20:
+
+- CaseView source: [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment/11.20 Inherent Risk Assessment CaseView Document.pdf]]
+- How-To V5 draft: [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment/How-To 11.20 Inherent Risk Assessment V5.docx]]
+
+## Related
+- [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary/11-10-risk-analysis-summary]] — Risk Analysis Summary (receives the financial statement level assessment)
+- [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment/11-25-fraud-risk-assessment]] — Fraud Risk Assessment (complementary assessment)
+- [[2-working-papers/3-planning-risk-assessment/11-30-internal-control-evaluation/11-30-internal-control-evaluation]] — Evaluation of System of Internal Control (complementary assessment)
+- [[2-working-papers/3-planning-risk-assessment/11-60-risk-assessment-assertion-level/11-60-risk-assessment-assertion-level]] — Risk Assessment at Assertion Level (detailed assertion-level assessment)
+- [[entities/caseware-working-papers]]
+- [[entities/probe-audit-premium-plus]]
+- [[concepts/four-stage-pipeline]]
+
+- [[2-working-papers/3-planning-risk-assessment/index]]
+
+## References
+- CaseView source: [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment/11.20 Inherent Risk Assessment CaseView Document.pdf]]

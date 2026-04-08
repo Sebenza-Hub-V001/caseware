@@ -1,0 +1,128 @@
+---
+title: "Audit Plan and Strategy"
+type: entity
+created: 2026-04-07
+updated: 2026-04-07
+tags: [working-papers, audit-planning, probe]
+sources: [caseview-12-20]
+ref: "12.20"
+pipeline-stage: how-to-doc
+status: active
+---
+
+# Audit Plan and Strategy
+
+## Purpose
+
+The Audit Plan and Strategy (12.20) is the central planning working paper in the Probe audit file. It is a comprehensive 25-page document that consolidates the risk assessments from section 11 and translates them into a detailed audit plan for every material financial statement line item. It documents the assessed risks of material misstatement at the assertion level and the corresponding audit procedures planned in response.
+
+## Key Fields & Sections
+
+### Risk at Financial Statement Level (Page 1)
+- **Inherent Risk at Financial Statement Level** — pulls from 11.20, displays identified inherent risks
+- **Fraud Risk at Financial Statement Level** — pulls from 11.25, includes the presumed fraud risk of management override of controls (ISA 240.31/32) with detailed ROMM considerations and overall responses
+- **Control Risk at Financial Statement Level** — pulls from 11.30
+
+### Overall Audit Considerations (Page 1)
+Questions 4-7 address whether the audit plans to:
+- Use evidence prepared by management's expert
+- Use the work of an auditor's expert
+- Obtain external confirmations (beyond bank confirmation)
+- Place reliance on work performed by another practitioner
+
+### Risk at Assertion Level (Pages 2-25)
+For each material financial statement line item, a dedicated page includes:
+
+**Risk Assessment Table:**
+- Assertions tested: C (Completeness), EO (Existence/Occurrence), RO (Rights & Obligations), AVA (Accuracy/Valuation/Allocation), CO (Cut-off), PD (Presentation & Disclosure)
+- Risk of Material Misstatement per assertion
+- Inherent risk assessment at assertion level
+- Assertion selection for testing
+- Specific materiality
+- Desired audit risk level
+
+**Audit Considerations and Procedures:**
+- Use of management's expert (Yes/No)
+- Use of auditor's expert (Yes/No)
+- External confirmations needed (Yes/No)
+- Work of another practitioner (Yes/No)
+- Significant risk responses (ref 11.60)
+- Test of controls (ref 11.50)
+- Required procedures
+- Extended analytical review
+- Extended test of detail
+- Substantive sampling
+- Reliance on previous audits for test of controls evidence
+- Laws and regulations with direct effect (ISA 250.14)
+- Nature and timing of substantive procedures including unpredictability
+- Reasons/explanations including significant judgements made
+
+### Financial Statement Line Items Covered
+1. Property, plant and equipment (305.10)
+2. Investment property on the cost model (311.10)
+3. Prepayments (331.10)
+4. Loans to directors, managers and employees (449.10)
+5. Inventories (405.10)
+6. Cash and cash equivalents (420.10)
+7. Trade and other receivables
+8. Other financial liabilities
+9. Finance lease liabilities
+10. Bank overdraft
+11. Trade and other payables
+12. Current tax payable
+13. Revenue
+14. Cost of sales
+15. Operating gains/losses
+16. Operating expenses
+17. Finance costs
+18. Taxation
+19. Capital or contributions
+20. Retained income
+21. Related parties
+22. Commitments and contingencies
+23. Statement of cash flows
+
+**Note:** Balance sheet items use assertions C, EO, RO, AVA, PD. Income statement items use assertions C, EO, AVA, CO, PD. Related parties, commitments/contingencies, and cash flows use PD only.
+
+### Special Procedures by Line Item
+- **Inventories:** Attend the physical inventory count; obtain evidence regarding existence and condition
+- **Cash and cash equivalents:** Perform a cash count; bank confirmation needed
+
+## ISA References
+
+- ISA 240.31, ISA 240.32 — Management override of controls (presumed fraud risk)
+- ISA 250.14 — Laws and regulations with direct effect on financial statements
+- ISA 315 — Risk identification and assessment (assertions framework)
+- ISA 330.18 — Requirement to select at least one assertion for each material financial statement item
+- ISA 500 — Audit evidence (management's and auditor's experts)
+
+## Completion Guidance
+
+- This document pulls risk assessments from section 11 (11.20 inherent risk, 11.25 fraud risk, 11.30 control risk, 11.50 test of controls, 11.60 significant risk responses). Ensure those are completed first.
+- For each line item, you must select at least one assertion for testing per ISA 330.18.
+- The "Reasons/explanations" field at the bottom of each line item page should document significant judgements about the audit approach chosen.
+- The risk assessment defaults to "Medium (1)" across all assertions — adjust based on the entity-specific risk assessment.
+- Audit procedure references (e.g., 305.10, 420.10) link to the corresponding substantive testing working papers in the audit file.
+- Balance sheet items do not have a Cut-off (CO) assertion; income statement items do not have a Rights & Obligations (RO) assertion.
+
+## Probe Project
+
+Artifacts for working paper 12.20:
+
+- CaseView source: [[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy/12.20 Audit Plan and Strategy CaseView Document.pdf]]
+
+## Related
+
+- [[entities/caseware-working-papers]]
+- [[entities/probe-audit-premium-plus]]
+- [[concepts/four-stage-pipeline]]
+- [[2-working-papers/4-audit-planning/12-10-manager-planning-checklist/12-10-manager-planning-checklist]] — Manager Planning Checklist (reviews this document)
+- [[2-working-papers/4-audit-planning/12-30-planning-memorandum/12-30-planning-memorandum]] — Planning Memorandum (summarises the audit plan)
+- [[2-working-papers/4-audit-planning/12-21-using-internal-audit/12-21-using-internal-audit]] — Using Internal Audit (if internal audit work is planned)
+- [[2-working-papers/4-audit-planning/12-40-eqr-planning/12-40-eqr-planning]] — Engagement Quality Review - Planning
+
+- [[2-working-papers/4-audit-planning/index]]
+
+## References
+
+- CaseView source: [[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy/12.20 Audit Plan and Strategy CaseView Document.pdf]]

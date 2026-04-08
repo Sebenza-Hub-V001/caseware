@@ -1,0 +1,69 @@
+---
+title: "Time Budget"
+type: entity
+created: 2026-04-07
+updated: 2026-04-07
+tags: [working-papers, pre-engagement, probe]
+sources: [caseview-10-40]
+ref: "10.40"
+pipeline-stage: how-to-doc
+status: active
+---
+
+# Time Budget
+
+## Purpose
+
+This working paper records the planned time budget for the audit engagement, including planned hours, charge-out rates, and costs. It provides a comparison between the current and prior year budgets to track changes in engagement resourcing.
+
+## Key Fields & Sections
+
+### Budget Table
+- **Planned** — Planned hours/units for the current engagement
+- **Rate (R)** — Charge-out rate in Rands per unit
+- **Units** — Number of units allocated
+- **Cost (R)** — Total cost calculated from rate and units
+
+### Comparative Information
+- **Current year (2023)** — Budget amount (R50.00 shown in template)
+- **Prior year (2022)** — Budget amount for comparison
+- **% Change** — Percentage change between years
+
+### Header Fields
+- Planning by / Reviewed by / Performed by / Final review sign-off fields
+- Year end date
+- Document reference (10.40)
+
+## ISA References
+
+- ISA 300 — Planning an Audit of Financial Statements (resource planning and budgeting)
+- ISA 220 — Quality Management for an Audit of Financial Statements (engagement resource allocation)
+
+## Completion Guidance
+
+- This is a single-page document with minimal structure in the template
+- Populate the planned hours by audit area/team member based on the risk assessment and engagement complexity determined in [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation/10-20-engagement-evaluation]]
+- The budget should reflect the desired audit risk level and materiality set in [[2-working-papers/2-pre-engagement-planning/10-60-overall-materiality/10-60-overall-materiality]]
+- Compare against prior year to identify significant changes and ensure adequate resourcing
+- The fee estimate in the engagement letter ([[2-working-papers/2-pre-engagement-planning/10-21-engagement-letter/10-21-engagement-letter]]) should be consistent with this budget
+- Update if the audit plan changes materially during fieldwork
+
+## Probe Project
+
+Artifacts for working paper 10.40:
+
+- CaseView source: [[2-working-papers/2-pre-engagement-planning/10-40-time-budget/10.40 Time Budget CaseView Document.pdf]]
+
+## Related
+
+- [[entities/caseware-working-papers]]
+- [[entities/probe-audit-premium-plus]]
+- [[concepts/four-stage-pipeline]]
+- [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation/10-20-engagement-evaluation]] — Engagement evaluation (engagement complexity drives budget)
+- [[2-working-papers/2-pre-engagement-planning/10-21-engagement-letter/10-21-engagement-letter]] — Engagement letter (fee estimates should align)
+
+- [[2-working-papers/2-pre-engagement-planning/index]]
+
+## References
+
+- CaseView source: [[2-working-papers/2-pre-engagement-planning/10-40-time-budget/10.40 Time Budget CaseView Document.pdf]]
