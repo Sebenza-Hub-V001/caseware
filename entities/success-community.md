@@ -35,7 +35,7 @@ The publishing platform where finalised How-To documents and professional videos
 ## Related
 
 - [[concepts/four-stage-pipeline]] — the production workflow leading to publication
-- [[working-papers/progress]] — tracks upload status per working paper
+- [[2-working-papers/progress]] — tracks upload status per working paper
 - [[entities/caseware-working-papers]] — the source content being published
 
 ## References

@@ -55,7 +55,7 @@ The final edited and produced training video, ready for distribution.
 - [[entities/caseware-working-papers]] — the source material
 - [[entities/probe-audit-premium-plus]] — the methodology being documented
 - [[concepts/ooxml-document-structure]] — formatting standards for Stage 1 output
-- [[working-papers/progress]] — tracking completion across all four stages
+- [[2-working-papers/progress]] — tracking completion across all four stages
 
 ## References
 

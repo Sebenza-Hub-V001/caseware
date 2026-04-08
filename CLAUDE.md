@@ -16,21 +16,24 @@ You are a **wiki maintainer**. Your job is to read sources, extract knowledge, a
 ```
 wiki/
 ├── CLAUDE.md              # This file — schema and conventions
+├── Welcome.md             # Hub page — start here
 ├── index.md               # Content catalog (you maintain this)
 ├── log.md                 # Chronological activity log (append-only)
 ├── overview.md            # High-level synthesis (evolves over time)
+├── 1-standards/           # ISA standards — the regulatory foundation
+├── 2-working-papers/      # Working paper pages organised by audit phase
+├── 3-pipeline/            # Production pipeline tracking & procedures
+├── concepts/              # Pages for ideas, patterns, frameworks, methodologies
+├── entities/              # Pages for specific things: people, companies, products, tools
+├── questions/             # Open questions, research threads, things to investigate
 ├── raw/                   # Source documents (IMMUTABLE — never modify)
 │   ├── articles/
 │   ├── papers/
 │   ├── transcripts/
 │   ├── screenshots/
 │   └── data/
-├── entities/              # Pages for specific things: people, companies, products, tools
-├── concepts/              # Pages for ideas, patterns, frameworks, methodologies
 ├── sources/               # One summary page per ingested source
-├── comparisons/           # Side-by-side analyses, trade-off tables
-├── decisions/             # Decision records with context, options, rationale
-├── questions/             # Open questions, research threads, things to investigate
+├── tweets/                # External insights and recommendations
 └── tasks/
     ├── todo.md            # Current task tracking
     └── lessons.md         # Patterns and corrections (per existing workflow)
@@ -362,9 +365,9 @@ This schema is designed to work alongside your existing `tasks/todo.md` and `tas
 ## Domain: CaseWare Probe How-To Document Project
 
 ### Additional Page Types
-- `standards/` — ISA standards, one page per standard with requirements and linked working papers
-- `working-papers/` — Tracking and reference pages for CaseWare working papers
-- `procedures/` — Step-by-step workflows for V1 creation, V2 enhancement, and video scripting
+- `1-standards/` — ISA standards, one page per standard with requirements and linked working papers
+- `2-working-papers/` — Tracking and reference pages for CaseWare working papers
+- `3-pipeline/` — Production pipeline tracking, procedures, and progress
 
 ### Additional Tags
 - isa-standard, regulatory, compliance

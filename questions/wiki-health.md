@@ -21,10 +21,10 @@ No broken wiki-links found. All `[[wiki-link]]` targets resolve to existing `.md
 
 ## Missing Working Paper Wiki Pages
 
-18 working papers tracked in [[working-papers/progress]] do not have their own wiki page. These are papers that appear in the project plan but were not among the CaseView PDFs ingested.
+18 working papers tracked in [[2-working-papers/progress]] do not have their own wiki page. These are papers that appear in the project plan but were not among the CaseView PDFs ingested.
 
 ### Pre-Engagement (missing pages)
-- [ ] 10.30 — Discussions with those charged with governance (has a wiki page at [[working-papers/10-31]] but 10.30 is listed separately in progress tracker)
+- [ ] 10.30 — Discussions with those charged with governance (has a wiki page at [[2-working-papers/10-31]] but 10.30 is listed separately in progress tracker)
 - [ ] 10.50G — Plan extent of risk assessment procedures (Group)
 - [ ] 10.52 — Preliminary analytical review
 - [ ] 10.53 — Understanding of accounting estimates
@@ -49,7 +49,7 @@ No broken wiki-links found. All `[[wiki-link]]` targets resolve to existing `.md
 - [ ] 750.11 — Wage payout work program
 - [ ] 750.60 — Director's remuneration certificate
 
-> **Note:** Three additional Leadsheets items (Sections work programs, General work programs, Probe Firm settings, All Probe features, Minutes/01.60) appear in the tracker. Minutes has a page at [[working-papers/01-60]]; the others have no reference number and no wiki page.
+> **Note:** Three additional Leadsheets items (Sections work programs, General work programs, Probe Firm settings, All Probe features, Minutes/01.60) appear in the tracker. Minutes has a page at [[2-working-papers/01-60]]; the others have no reference number and no wiki page.
 
 ## One-Way Links (Missing Backlinks)
 
@@ -62,7 +62,7 @@ The following pages link outward to targets that do not link back. This is a kno
 
 ### Acceptable one-way links (hub-to-leaf pattern)
 - [[concepts/isa-standards]] links to ~30 working paper pages — these link to specific ISA standard pages instead (acceptable)
-- [[entities/success-community]] links to [[working-papers/progress]] — the progress page is a tracker, not expected to link back to every entity
+- [[entities/success-community]] links to [[2-working-papers/progress]] — the progress page is a tracker, not expected to link back to every entity
 
 ## Empty Directories / Unfiled Content Types
 
@@ -75,18 +75,18 @@ The following pages link outward to targets that do not link back. This is a kno
 
 These ISA standards have wiki pages but no specific Probe working paper mappings identified:
 
-- [ ] [[standards/isa-265]] — Communicating Deficiencies in Internal Control (firm-level)
-- [ ] [[standards/isa-501]] — Audit Evidence for Selected Items
-- [ ] [[standards/isa-505]] — External Confirmations
-- [ ] [[standards/isa-520]] — Analytical Procedures
-- [ ] [[standards/isa-530]] — Audit Sampling
-- [ ] [[standards/isa-580]] — Written Representations
-- [ ] [[standards/isa-705]] — Modifications to the Auditor's Opinion
-- [ ] [[standards/isa-706]] — Emphasis of Matter Paragraphs
-- [ ] [[standards/isa-720]] — Other Information
-- [ ] [[standards/isa-800]] — Special Purpose Frameworks
-- [ ] [[standards/isa-805]] — Single Financial Statements
-- [ ] [[standards/isa-810]] — Summary Financial Statements
+- [ ] [[1-standards/isa-265]] — Communicating Deficiencies in Internal Control (firm-level)
+- [ ] [[1-standards/isa-501]] — Audit Evidence for Selected Items
+- [ ] [[1-standards/isa-505]] — External Confirmations
+- [ ] [[1-standards/isa-520]] — Analytical Procedures
+- [ ] [[1-standards/isa-530]] — Audit Sampling
+- [ ] [[1-standards/isa-580]] — Written Representations
+- [ ] [[1-standards/isa-705]] — Modifications to the Auditor's Opinion
+- [ ] [[1-standards/isa-706]] — Emphasis of Matter Paragraphs
+- [ ] [[1-standards/isa-720]] — Other Information
+- [ ] [[1-standards/isa-800]] — Special Purpose Frameworks
+- [ ] [[1-standards/isa-805]] — Single Financial Statements
+- [ ] [[1-standards/isa-810]] — Summary Financial Statements
 
 > Some of these (ISA 501, 505, 530) likely map to Leadsheets working papers (430.xx confirmations, sampling worksheets) once those pages are created.
 
@@ -110,6 +110,6 @@ These ISA standards have wiki pages but no specific Probe working paper mappings
 ## References
 
 - [[index]]
-- [[working-papers/progress]]
+- [[2-working-papers/progress]]
 - [[concepts/isa-standards]]
 - [[overview]]

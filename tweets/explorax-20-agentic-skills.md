@@ -84,7 +84,7 @@ Agentic skills — packaged as `.md` files with structured instructions — turn
 
 | # | Recommendation | Effort | Impact | Affected Pages |
 |---|---------------|--------|--------|---------------|
-| 1 | **Create a "Visual Script Writer" skill** — Package Stage 2 conversion rules (How-To → script) as an `.md` skill file. Include cues, transitions, metadata table format from existing scripts. | Medium | High | [[concepts/four-stage-pipeline]], [[working-papers/progress]] |
+| 1 | **Create a "Visual Script Writer" skill** — Package Stage 2 conversion rules (How-To → script) as an `.md` skill file. Include cues, transitions, metadata table format from existing scripts. | Medium | High | [[concepts/four-stage-pipeline]], [[2-working-papers/progress]] |
 | 2 | **Create a "Tone & Style Enforcer" for Probe** — Define the project's writing voice (professional, instructional, concise) and formatting rules as a reusable skill to ensure consistency across 57 How-To docs. | Low | High | All working paper pages |
 | 3 | **Adopt the "Skill Creator" pattern** — Use the meta-skill concept to generate project-specific skills as the pipeline matures (e.g., ISA mapper, CaseWare field describer, caption generator). | Low | Medium | [[concepts/four-stage-pipeline]] |
 | 4 | **Explore caption/subtitle generation** — For Stage 4 videos, a caption formatter skill could automate transcript-to-subtitle conversion, improving accessibility of training videos on [[entities/success-community]]. | Medium | Medium | [[entities/success-community]], [[concepts/four-stage-pipeline]] |
@@ -97,7 +97,7 @@ Agentic skills — packaged as `.md` files with structured instructions — turn
 ## Related
 
 - [[concepts/four-stage-pipeline]] — the production workflow that several skills directly target
-- [[working-papers/progress]] — tracking where skills could accelerate throughput
+- [[2-working-papers/progress]] — tracking where skills could accelerate throughput
 - [[entities/success-community]] — publishing platform that would benefit from caption/summary skills
 - [[tweets/farzapedia-personal-wiki]] — related insight on wiki-as-knowledge-base for agents
 

@@ -37,7 +37,7 @@ The Probe wiki is essentially a domain-specific version of Farzapedia, focused o
 
 | # | Recommendation | Effort | Impact | Affected Pages |
 |---|---------------|--------|--------|---------------|
-| 1 | **Add more unstructured sources** — Farza's system thrives on diverse inputs (diary, notes, messages). Consider ingesting informal notes, meeting minutes, audit learnings, or client interaction summaries into the wiki. | Low | Medium | [[working-papers/progress]], [[tasks/lessons]] |
+| 1 | **Add more unstructured sources** — Farza's system thrives on diverse inputs (diary, notes, messages). Consider ingesting informal notes, meeting minutes, audit learnings, or client interaction summaries into the wiki. | Low | Medium | [[2-working-papers/progress]], [[tasks/lessons]] |
 | 2 | **Auto-update on ingest** — We already do this (updating 2–3 pages when a new source arrives), but could be more aggressive about cross-referencing. When a new How-To draft is added, automatically check all related standards pages and working paper pages for updates. | Medium | High | [[concepts/four-stage-pipeline]], all working paper pages |
 | 3 | **Add visual/media tracking** — Farza tracks images and inspiration. For the Probe Project, this could mean tracking screenshots of CaseWare screens, video thumbnails, or visual script storyboards as wiki-linked assets. | Medium | Medium | [[raw/screenshots/]], [[concepts/four-stage-pipeline]] |
 | 4 | **Query-driven page creation** — Farza uses his wiki to answer complex queries that span multiple topics. Consider creating a `questions/` workflow where audit questions are filed, answered from wiki content, and the answers themselves become reusable pages. | Low | High | [[questions/wiki-health]] |
@@ -45,7 +45,7 @@ The Probe wiki is essentially a domain-specific version of Farzapedia, focused o
 ## Related
 
 - [[concepts/four-stage-pipeline]] — our production pipeline that benefits from this approach
-- [[working-papers/progress]] — the structured content this wiki tracks
+- [[2-working-papers/progress]] — the structured content this wiki tracks
 
 ## References
 

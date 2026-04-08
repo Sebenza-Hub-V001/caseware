@@ -43,13 +43,13 @@ ISQM 1 deals with a firm's responsibilities to design, implement and operate a s
 
 ## Application to Probe Working Papers
 
-ISQM 1 is a firm-level standard rather than an engagement-level standard. It provides the foundation on which [[standards/isa-220]] (quality management at the engagement level) operates. The Probe methodology implements firm-level quality management through the overall file structure and engagement templates.
+ISQM 1 is a firm-level standard rather than an engagement-level standard. It provides the foundation on which [[1-standards/isa-220]] (quality management at the engagement level) operates. The Probe methodology implements firm-level quality management through the overall file structure and engagement templates.
 
 ## Related Standards
 
-- [[standards/isqm-2]] — Engagement Quality Reviews (a specified response under ISQM 1)
-- [[standards/isa-220]] — Quality Management for an Audit (engagement-level quality management)
-- [[standards/isa-230]] — Audit Documentation (documentation requirements)
+- [[1-standards/isqm-2]] — Engagement Quality Reviews (a specified response under ISQM 1)
+- [[1-standards/isa-220]] — Quality Management for an Audit (engagement-level quality management)
+- [[1-standards/isa-230]] — Audit Documentation (documentation requirements)
 
 ## References
 

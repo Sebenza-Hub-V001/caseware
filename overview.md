@@ -40,7 +40,7 @@ Each of the 57 working papers in scope moves through the [[concepts/four-stage-p
 - **Finalisation (02.xx)** — all 14 How-To docs are in progress, assigned to Wes, with a **deadline of 30 April 2026**. This is the current active workfront. No scripts, recordings, or videos started.
 - **Leadsheets & Working Papers (misc)** — 14 items, all not started. No deadlines set.
 
-Full detail: [[working-papers/progress]]
+Full detail: [[2-working-papers/progress]]
 
 ## The Team
 
@@ -70,11 +70,11 @@ Each standard page includes objectives, key requirements, definitions, and mappi
 
 ### Most-Referenced ISAs Across Working Papers
 
-1. **[[standards/isa-315]]** — Identifying and Assessing Risks (11 working papers)
-2. **[[standards/isa-240]]** — Fraud Responsibilities (10 working papers)
-3. **[[standards/isa-330]]** — Auditor's Responses to Assessed Risks (6 working papers)
-4. **[[standards/isa-220]]** — Quality Management for an Audit (6 working papers)
-5. **[[standards/isa-320]]** — Materiality (5 working papers)
+1. **[[1-standards/isa-315]]** — Identifying and Assessing Risks (11 working papers)
+2. **[[1-standards/isa-240]]** — Fraud Responsibilities (10 working papers)
+3. **[[1-standards/isa-330]]** — Auditor's Responses to Assessed Risks (6 working papers)
+4. **[[1-standards/isa-220]]** — Quality Management for an Audit (6 working papers)
+5. **[[1-standards/isa-320]]** — Materiality (5 working papers)
 
 ISA 315 and ISA 240 together touch nearly every planning and risk assessment working paper, reflecting how pervasive risk identification and fraud awareness are throughout the audit process.
 
@@ -101,7 +101,7 @@ Additionally, 41 CaseView PDF exports of original working papers were ingested t
 
 ## References
 
-- [[working-papers/progress]]
+- [[2-working-papers/progress]]
 - [[concepts/four-stage-pipeline]]
 - [[concepts/isa-standards]]
 - [[sources/caseware-probe-project-overview]]

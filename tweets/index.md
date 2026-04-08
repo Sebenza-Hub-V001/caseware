@@ -49,4 +49,4 @@ status: active
 ## Related
 
 - [[concepts/four-stage-pipeline]] — the production workflow recommendations may target
-- [[working-papers/progress]] — current project status
+- [[2-working-papers/progress]] — current project status

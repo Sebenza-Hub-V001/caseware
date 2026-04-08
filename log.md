@@ -1,5 +1,15 @@
 # Activity Log
 
+## [2026-04-08] restructure | Lifecycle folder layout
+- Renamed `standards/` → `1-standards/` (50 standard pages)
+- Renamed `working-papers/` → `2-working-papers/` (39 working paper pages)
+- Created `3-pipeline/` with [[3-pipeline/index]] — production pipeline dashboard
+- Removed empty folders: `comparisons/`, `decisions/`, `presentations/`, `procedures/`
+- Removed junk files: `2026-04-06.md`, `Untitled.base`, `README.md`
+- Rewrote [[Welcome]] as project hub page
+- Updated ~650 wiki links across all files
+- Reorganised [[index]] to follow audit lifecycle flow: Standards → Working Papers → Pipeline → Reference → Research
+
 ## [2026-04-07] update | Added Presentations folder
 - Created `presentations/` directory for presentation materials
 - Updated [[index]] with new Presentations section
@@ -27,7 +37,7 @@
 - Source: `raw/articles/caseware-probe-project-overview.md`
 - Summary: [[sources/caseware-probe-project-overview]]
 - Pages touched: [[index]], [[log]]
-- New pages created: [[sources/caseware-probe-project-overview]], [[entities/caseware-working-papers]], [[entities/probe-audit-premium-plus]], [[entities/probe-audit-manual]], [[concepts/four-stage-pipeline]], [[concepts/isa-standards]], [[concepts/ooxml-document-structure]], [[working-papers/progress]]
+- New pages created: [[sources/caseware-probe-project-overview]], [[entities/caseware-working-papers]], [[entities/probe-audit-premium-plus]], [[entities/probe-audit-manual]], [[concepts/four-stage-pipeline]], [[concepts/isa-standards]], [[concepts/ooxml-document-structure]], [[2-working-papers/progress]]
 - New directories created: standards/, working-papers/, procedures/
 - Contradictions flagged: none (first source)
 
@@ -35,13 +45,13 @@
 - Corrected pipeline from three stages to four: How-To Doc → Visual Script → Visual Recording → Professional Video
 - "V5" refers to document version, not pipeline stage count
 - Renamed [[concepts/four-stage-pipeline]] (was three-stage-pipeline)
-- Updated [[working-papers/progress]] with all 23 working papers (all at How-To Doc V5)
+- Updated [[2-working-papers/progress]] with all 23 working papers (all at How-To Doc V5)
 - Updated cross-references across 8 wiki pages
 
 ## [2026-04-07] ingest | Probe Documents Project Plan 2025
 - Source: `raw/project-plans/probe-project-plan-2025.csv`
 - Summary: [[sources/probe-project-plan-2025]]
-- Pages touched: [[working-papers/progress]], [[index]], [[log]]
+- Pages touched: [[2-working-papers/progress]], [[index]], [[log]]
 - New pages created: [[sources/probe-project-plan-2025]]
 - Contradictions flagged: Project scope is 57 working papers (not 23 as initially understood). 02.xx How-To docs are in progress (not finalised as previously assumed).
 
@@ -73,7 +83,7 @@
 
 ## [2026-04-07] ingest | ISA Standards from IAASB 2025 Handbook Volume 1
 - Source: `raw/iaasb-handbook/IAASB-2025-Handbook-Volume-1.pdf` (extracted text)
-- New pages created: [[standards/isa-300]], [[standards/isa-315]], [[standards/isa-320]], [[standards/isa-330]], [[standards/isa-402]], [[standards/isa-450]]
+- New pages created: [[1-standards/isa-300]], [[1-standards/isa-315]], [[1-standards/isa-320]], [[1-standards/isa-330]], [[1-standards/isa-402]], [[1-standards/isa-450]]
 - Pages touched: [[index]]
 - Each standard page includes: Objective, Scope, Key Requirements (all "shall" statements), Key Definitions, Application to Probe Working Papers (mapped to specific CaseWare working paper refs), Related Standards with wiki-links
 - ISA-to-working-paper mappings documented: ISA 300 (3 WPs), ISA 315 (11 WPs), ISA 320 (5 WPs), ISA 330 (6 WPs), ISA 402 (1 WP), ISA 450 (2 WPs)
@@ -81,7 +91,7 @@
 
 ## [2026-04-07] ingest | ISA Standards from IAASB 2025 Handbook Volume 1 (batch 2)
 - Source: `raw/iaasb-handbook/IAASB-2025-Handbook-Volume-1.pdf` (extracted text at /tmp/iaasb-vol1.txt)
-- New pages created: [[standards/isqm-1]], [[standards/isqm-2]], [[standards/isa-200]], [[standards/isa-210]], [[standards/isa-220]], [[standards/isa-230]], [[standards/isa-240]], [[standards/isa-250]], [[standards/isa-260]], [[standards/isa-265]]
+- New pages created: [[1-standards/isqm-1]], [[1-standards/isqm-2]], [[1-standards/isa-200]], [[1-standards/isa-210]], [[1-standards/isa-220]], [[1-standards/isa-230]], [[1-standards/isa-240]], [[1-standards/isa-250]], [[1-standards/isa-260]], [[1-standards/isa-265]]
 - Pages touched: [[index]]
 - Each standard page includes: Objective, Scope, Key Requirements, Key Definitions, Application to Probe Working Papers, Related Standards
 - ISA-to-working-paper mappings documented: ISA 200 (1 WP), ISA 210 (2 WPs), ISA 220 (6 WPs), ISA 240 (10 WPs), ISA 250 (4 WPs), ISA 260 (2 WPs), ISA 265 (0 — firm-level communication standard)
@@ -91,7 +101,7 @@
 
 ## [2026-04-07] ingest | ISA 700-810 Standards (Reporting Series)
 - Source: `raw/iaasb-handbook/IAASB-2025-Handbook-Volume-1.pdf`, pages 593-784
-- New pages created: [[standards/isa-700]], [[standards/isa-701]], [[standards/isa-705]], [[standards/isa-706]], [[standards/isa-710]], [[standards/isa-720]], [[standards/isa-800]], [[standards/isa-805]], [[standards/isa-810]]
+- New pages created: [[1-standards/isa-700]], [[1-standards/isa-701]], [[1-standards/isa-705]], [[1-standards/isa-706]], [[1-standards/isa-710]], [[1-standards/isa-720]], [[1-standards/isa-800]], [[1-standards/isa-805]], [[1-standards/isa-810]]
 - Pages touched: [[index]]
 - Each standard page includes: Objective, Scope, Key Requirements, Key Definitions, Application to Probe Working Papers, Related Standards
 - ISA-to-working-paper mappings documented: ISA 700 → 02.50, 02.40; ISA 701 → 02.00, 02.55; ISA 710 → 17.10; ISA 705, 706, 720, 800, 805, 810 → none yet
@@ -100,7 +110,7 @@
 
 ## [2026-04-07] ingest | ISA 500-620 Standards (Evidence, Estimates, Going Concern, Group Audits)
 - Source: `raw/iaasb-handbook/IAASB-2025-Handbook-Volume-1.pdf`, pages 363-592
-- New pages created: [[standards/isa-500]], [[standards/isa-501]], [[standards/isa-505]], [[standards/isa-510]], [[standards/isa-520]], [[standards/isa-530]], [[standards/isa-540]], [[standards/isa-550]], [[standards/isa-560]], [[standards/isa-570]], [[standards/isa-580]], [[standards/isa-600]], [[standards/isa-610]], [[standards/isa-620]]
+- New pages created: [[1-standards/isa-500]], [[1-standards/isa-501]], [[1-standards/isa-505]], [[1-standards/isa-510]], [[1-standards/isa-520]], [[1-standards/isa-530]], [[1-standards/isa-540]], [[1-standards/isa-550]], [[1-standards/isa-560]], [[1-standards/isa-570]], [[1-standards/isa-580]], [[1-standards/isa-600]], [[1-standards/isa-610]], [[1-standards/isa-620]]
 - Pages touched: [[index]]
 - Each standard page includes: Objective, Scope, Key Requirements (all "shall" statements), Key Definitions, Application to Probe Working Papers, Related Standards with wiki-links
 - ISA-to-working-paper mappings documented: ISA 500 (12.20), ISA 510 (17.10), ISA 540 (10.31, 10.51), ISA 550 (10.51, 12.10, 12.30, 18.10), ISA 560 (02.10), ISA 570 (02.20, 02.22), ISA 600 (11.20G), ISA 610 (12.21), ISA 620 (10.55, 12.10)
@@ -110,7 +120,7 @@
 
 ## [2026-04-07] ingest | IAASB 2025 Handbook Volumes 2-5 (Non-ISA Standards)
 - Sources: Extracted text from Volumes 2-5 of IAASB 2025 Handbook
-- New pages created: [[standards/isa-for-lce]], [[standards/issa-5000]], [[standards/isre-2400]], [[standards/isre-2410]], [[standards/isae-3000]], [[standards/isae-3400]], [[standards/isae-3402]], [[standards/isae-3410]], [[standards/isae-3420]], [[standards/isrs-4400]], [[standards/isrs-4410]]
+- New pages created: [[1-standards/isa-for-lce]], [[1-standards/issa-5000]], [[1-standards/isre-2400]], [[1-standards/isre-2410]], [[1-standards/isae-3000]], [[1-standards/isae-3400]], [[1-standards/isae-3402]], [[1-standards/isae-3410]], [[1-standards/isae-3420]], [[1-standards/isrs-4400]], [[1-standards/isrs-4410]]
 - Pages touched: [[index]], [[log]]
 - Volume 2: ISA for LCE — standalone audit standard for less complex entities (effective Dec 2025)
 - Volume 3: ISSA 5000 — new sustainability assurance standard (effective Dec 2026), supersedes ISAE 3410
