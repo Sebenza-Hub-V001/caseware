@@ -30,6 +30,7 @@ status: active
 - [[tweets/explorax-20-agentic-skills]] — 20 agentic skills in .md format for Claude, ChatGPT & Gemini (m0h, 2026-04-01)
 - [[tweets/farzapedia-personal-wiki]] — Personal wiki as agent knowledge base (Farza, 2026-04-04)
 - [[tweets/coreyganim-claude-code-hidden-features]] — 5 hidden Claude Code features: /batch, agent teams, TaskCompleted hook, /loop + skills, channels (Corey Ganim, 2026-04-07)
+- [[tweets/roundtablespace-debugging-prompt]] — 8-step structured debugging methodology prompt (0xMarioNawfal, 2026-03-22)
 
 ## Recommendation Summary
 
@@ -51,6 +52,8 @@ status: active
 | 14 | [[tweets/coreyganim-claude-code-hidden-features]] | Set up `/loop` with wiki lint skill for continuous health checks | Low | High |
 | 15 | [[tweets/coreyganim-claude-code-hidden-features]] | Design agent team workflow for multi-agent How-To document review | High | Very High |
 | 16 | [[tweets/coreyganim-claude-code-hidden-features]] | Combine `/batch` + `TaskCompleted` hook for quality-gated batch generation | High | Very High |
+| 17 | [[tweets/roundtablespace-debugging-prompt]] | Adapt as a "Pipeline Debugger" skill for automated error handling | Low | Medium |
+| 18 | [[tweets/roundtablespace-debugging-prompt]] | Incorporate "verify before fixing" into `TaskCompleted` hooks | Low | High |
 
 ## Related
 
