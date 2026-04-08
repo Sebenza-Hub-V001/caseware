@@ -1,5 +1,13 @@
 # Activity Log
 
+## [2026-04-08] restructure | CaseWare Document Manager subfolder structure
+- Mirrored CaseWare Document Manager hierarchy into `2-working-papers/` and `raw/` directories
+- Created subfolders: `finalisation/`, `pre-engagement-planning/`, `planning-risk-assessment/`, `audit-planning/`, `general-working-papers/`, `leadsheets/` (with 7 subsections)
+- Moved 39 wiki pages, 41 CaseView PDFs, 23 How-To V5 drafts into correct subfolders
+- Updated 345 wiki links + 127 raw artifact links across 93 files
+- Empty `leadsheets/` subfolders created for future content (300-900 series)
+- Document map saved to memory for future upload routing
+
 ## [2026-04-08] restructure | Lifecycle folder layout
 - Renamed `standards/` → `1-standards/` (50 standard pages)
 - Renamed `working-papers/` → `2-working-papers/` (39 working paper pages)
