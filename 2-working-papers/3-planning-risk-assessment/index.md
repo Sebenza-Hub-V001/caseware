@@ -16,13 +16,13 @@ Risk analysis, inherent risk, fraud risk, internal controls evaluation, informat
 
 ## Working Papers
 
-- [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]]
-- [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment]]
-- [[2-working-papers/3-planning-risk-assessment/11-20g-identification-of-components]]
-- [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment]]
-- [[2-working-papers/3-planning-risk-assessment/11-30-internal-control-evaluation]]
-- [[2-working-papers/3-planning-risk-assessment/11-50-information-system-controls]]
-- [[2-working-papers/3-planning-risk-assessment/11-60-risk-assessment-assertion-level]]
+- [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary/11-10-risk-analysis-summary Wiki Page]]
+- [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment/11-20-inherent-risk-assessment Wiki Page]]
+- [[2-working-papers/3-planning-risk-assessment/11-20g-identification-of-components/11-20g-identification-of-components Wiki Page]]
+- [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment/11-25-fraud-risk-assessment Wiki Page]]
+- [[2-working-papers/3-planning-risk-assessment/11-30-internal-control-evaluation/11-30-internal-control-evaluation Wiki Page]]
+- [[2-working-papers/3-planning-risk-assessment/11-50-information-system-controls/11-50-information-system-controls Wiki Page]]
+- [[2-working-papers/3-planning-risk-assessment/11-60-risk-assessment-assertion-level/11-60-risk-assessment-assertion-level Wiki Page]]
 
 ## Other Sections
 

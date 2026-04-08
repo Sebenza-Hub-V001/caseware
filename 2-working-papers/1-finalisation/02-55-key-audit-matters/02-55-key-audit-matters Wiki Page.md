@@ -1,0 +1,93 @@
+---
+title: "Key Audit Matters"
+type: entity
+created: 2026-04-07
+updated: 2026-04-07
+tags: [working-papers, finalisation, probe, how-to-draft]
+sources: [caseview-02-55, howto-02-55-v5]
+ref: "02.55"
+isa: "ISA 701"
+pipeline-stage: how-to-doc
+how-to-draft: "2-working-papers/1-finalisation/02-55-key-audit-matters/How-To 02.55 Key Audit Matters V5.docx"
+status: active
+---
+
+# Key Audit Matters
+
+## Purpose
+
+The Key Audit Matters (02.55) working paper documents the process of determining which matters communicated with those charged with governance were of most significance in the audit of the current period's financial statements. These KAMs are then reported in the independent auditor's report for Public Interest Entities or where otherwise required.
+
+## Key Fields & Sections
+
+### Procedures (Exceptions, Initials/Date, Ref)
+
+1. **Determine significant matters** -- From the matters communicated with directors, identify those that required significant auditor attention during the audit
+2. **Consider KAM factors** -- Take into account:
+   - (a) Areas of higher assessed risk of material misstatement, or significant risks
+   - (b) Significant judgments relating to areas involving significant management judgment, including accounting estimates with high estimation uncertainty
+   - (c) The effect on the audit of significant events or transactions that occurred during the period
+
+### Conclusion
+- Standard conclusion: "No key audit matters were identified"
+- Alternative: listing of identified KAMs with descriptions
+
+## ISA References
+
+- **ISA 701** -- Communicating Key Audit Matters in the Independent Auditor's Report
+- **ISA 701.9** -- Determining key audit matters from matters communicated with those charged with governance
+- **ISA 701.10** -- Factors to consider in determining KAMs
+
+## Completion Guidance
+
+- This is a single-page document -- concise by design
+- KAMs are only reported for Public Interest Entities or where the engagement team determines it appropriate
+- The determination process must consider all three factors listed in procedure 2 -- do not limit consideration to just one
+- If KAMs are identified, the descriptions must be specific to the entity (not generic boilerplate)
+- The conclusion here drives the KAM section of the auditor's report reviewed in 02.50
+- Even where no KAMs are identified, the document must evidence that the determination process was performed
+
+## How-To Document Summary
+
+The How-To V5 document for 02.55 Key Audit Matters explains the functionality and features of this CaseView checklist document within Probe Audit Premium+. It describes how the engagement team determines key audit matters from the matters communicated with those charged with governance.
+
+### Key Topics Addressed
+
+- **Document placement** -- located in the Finalisation folder in CaseWare document manager
+- **Procedures** -- pre-populated steps guiding the engagement team to determine KAMs from matters communicated with those charged with governance, considering: areas of higher assessed risk of material misstatement or significant risks, significant management judgments relating to areas in the financial statements, and the effect of significant events or transactions during the period
+- **Input columns** -- Exceptions, Initials and date, and Ref for each procedure
+- **Conclusion** -- pre-populated default: "No key audit matters were identified"; where KAMs are identified, they must be documented and communicated in the auditor's report per ISA 701
+- **Document outcomes** -- engagement team performs the determination procedures and documents the conclusion; KAMs apply primarily to public interest entities
+- **Group audits** -- KAM determination applies to the group financial statements and includes references to component auditors where applicable
+
+### ISA References in How-To
+
+- ISA 701 (Communicating Key Audit Matters in the Independent Auditor's Report)
+
+### Document Features
+
+- Insert or delete a comment, guidance pop-ups, freeze functionality
+
+> **Status: Draft V5 -- due 30-Apr-26**
+
+## Probe Project
+
+Artifacts for working paper 02.55:
+
+- CaseView source: [[2-working-papers/1-finalisation/02-55-key-audit-matters/02.55 Key Audit Matters CaseView Documents.pdf]]
+- How-To V5 draft: [[2-working-papers/1-finalisation/02-55-key-audit-matters/How-To 02.55 Key Audit Matters V5.docx]]
+
+## Related
+
+- [[entities/caseware-working-papers]]
+- [[entities/probe-audit-premium-plus]]
+- [[concepts/four-stage-pipeline]]
+- [[2-working-papers/1-finalisation/02-50-assurance-report/02-50-assurance-report Wiki Page]] -- Consideration of Assurance Report (KAM section of the report)
+- [[2-working-papers/1-finalisation/02-00-partner-sign-off/02-00-partner-sign-off Wiki Page]] -- Partner Sign-Off
+- [[2-working-papers/1-finalisation/02-90-report-to-management/02-90-report-to-management Wiki Page]] -- Report to Management (potential KAMs section)
+
+- [[2-working-papers/1-finalisation/index]]
+
+## References
+
+- CaseView source: [[2-working-papers/1-finalisation/02-55-key-audit-matters/02.55 Key Audit Matters CaseView Documents.pdf]]

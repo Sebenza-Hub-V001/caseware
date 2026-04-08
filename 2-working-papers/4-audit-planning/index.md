@@ -16,12 +16,12 @@ Manager planning checklists, audit plan and strategy, internal audit usage, reso
 
 ## Working Papers
 
-- [[2-working-papers/4-audit-planning/12-10-manager-planning-checklist]]
-- [[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy]]
-- [[2-working-papers/4-audit-planning/12-21-using-internal-audit]]
-- [[2-working-papers/4-audit-planning/12-22-use-of-resources]]
-- [[2-working-papers/4-audit-planning/12-30-planning-memorandum]]
-- [[2-working-papers/4-audit-planning/12-40-eqr-planning]]
+- [[2-working-papers/4-audit-planning/12-10-manager-planning-checklist/12-10-manager-planning-checklist Wiki Page]]
+- [[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy/12-20-audit-plan-and-strategy Wiki Page]]
+- [[2-working-papers/4-audit-planning/12-21-using-internal-audit/12-21-using-internal-audit Wiki Page]]
+- [[2-working-papers/4-audit-planning/12-22-use-of-resources/12-22-use-of-resources Wiki Page]]
+- [[2-working-papers/4-audit-planning/12-30-planning-memorandum/12-30-planning-memorandum Wiki Page]]
+- [[2-working-papers/4-audit-planning/12-40-eqr-planning/12-40-eqr-planning Wiki Page]]
 
 ## Other Sections
 

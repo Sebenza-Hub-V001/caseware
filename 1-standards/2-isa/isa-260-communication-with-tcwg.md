@@ -44,8 +44,8 @@ ISA 260 (Revised) deals with the auditor's responsibility to communicate with th
 
 | Working Paper | Relevance |
 |---|---|
-| [[2-working-papers/2-pre-engagement-planning/10-31-discussions-with-tcwg]] | Planning — communication with those charged with governance |
-| [[2-working-papers/4-audit-planning/12-30-planning-memorandum]] | Direction, supervision and review — governance communications |
+| [[2-working-papers/2-pre-engagement-planning/10-31-discussions-with-tcwg/10-31-discussions-with-tcwg Wiki Page]] | Planning — communication with those charged with governance |
+| [[2-working-papers/4-audit-planning/12-30-planning-memorandum/12-30-planning-memorandum Wiki Page]] | Direction, supervision and review — governance communications |
 
 ## Related Standards
 

@@ -35,7 +35,7 @@ ISQM 2 deals with the appointment and eligibility of the engagement quality revi
 
 ## Application to Probe Working Papers
 
-ISQM 2 is a firm-level standard governing the quality review process. In the Probe methodology, engagement quality reviews are facilitated through the completion and sign-off procedures in the CaseWare file. Working papers such as [[2-working-papers/1-finalisation/02-80-eqr-execution-finalisation]] (referenced by [[1-standards/2-isa/isa-220-quality-management-audit]]) support the documentation of quality management including engagement quality reviews.
+ISQM 2 is a firm-level standard governing the quality review process. In the Probe methodology, engagement quality reviews are facilitated through the completion and sign-off procedures in the CaseWare file. Working papers such as [[2-working-papers/1-finalisation/02-80-eqr-execution-finalisation/02-80-eqr-execution-finalisation Wiki Page]] (referenced by [[1-standards/2-isa/isa-220-quality-management-audit]]) support the documentation of quality management including engagement quality reviews.
 
 ## Related Standards
 

@@ -41,10 +41,10 @@ ISA 250 (Revised) deals with the auditor's responsibility to consider laws and r
 
 | Working Paper | Relevance |
 |---|---|
-| [[2-working-papers/2-pre-engagement-planning/10-31-discussions-with-tcwg]] | Planning — laws and regulations considerations |
-| [[2-working-papers/4-audit-planning/12-10-manager-planning-checklist]] | Audit planning — compliance procedures |
-| [[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy]] | Audit execution — compliance testing |
-| [[2-working-papers/4-audit-planning/12-30-planning-memorandum]] | Direction, supervision and review — laws and regulations |
+| [[2-working-papers/2-pre-engagement-planning/10-31-discussions-with-tcwg/10-31-discussions-with-tcwg Wiki Page]] | Planning — laws and regulations considerations |
+| [[2-working-papers/4-audit-planning/12-10-manager-planning-checklist/12-10-manager-planning-checklist Wiki Page]] | Audit planning — compliance procedures |
+| [[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy/12-20-audit-plan-and-strategy Wiki Page]] | Audit execution — compliance testing |
+| [[2-working-papers/4-audit-planning/12-30-planning-memorandum/12-30-planning-memorandum Wiki Page]] | Direction, supervision and review — laws and regulations |
 
 ## Related Standards
 

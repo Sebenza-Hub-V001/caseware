@@ -47,16 +47,16 @@ ISA 240 deals with the auditor's responsibilities relating to fraud in an audit 
 
 | Working Paper | Relevance |
 |---|---|
-| [[2-working-papers/1-finalisation/02-00-partner-sign-off]] | Completion — fraud considerations at conclusion |
-| [[2-working-papers/2-pre-engagement-planning/10-31-discussions-with-tcwg]] | Planning — fraud risk assessment |
-| [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]] | Overall risk assessment — fraud factors |
-| [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment]] | Entity-level risk assessment — fraud risk factors |
-| [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment]] | Fraud risk discussion and assessment |
-| [[2-working-papers/3-planning-risk-assessment/11-50-information-system-controls]] | Significant risks — fraud-related risks |
-| [[2-working-papers/4-audit-planning/12-10-manager-planning-checklist]] | Audit planning — fraud procedures |
-| [[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy]] | Audit execution — fraud response procedures |
-| [[2-working-papers/4-audit-planning/12-30-planning-memorandum]] | Direction, supervision and review — fraud |
-| [[2-working-papers/6-general-working-papers/16-10-accounting-records]] | Journal entry testing |
+| [[2-working-papers/1-finalisation/02-00-partner-sign-off/02-00-partner-sign-off Wiki Page]] | Completion — fraud considerations at conclusion |
+| [[2-working-papers/2-pre-engagement-planning/10-31-discussions-with-tcwg/10-31-discussions-with-tcwg Wiki Page]] | Planning — fraud risk assessment |
+| [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary/11-10-risk-analysis-summary Wiki Page]] | Overall risk assessment — fraud factors |
+| [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment/11-20-inherent-risk-assessment Wiki Page]] | Entity-level risk assessment — fraud risk factors |
+| [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment/11-25-fraud-risk-assessment Wiki Page]] | Fraud risk discussion and assessment |
+| [[2-working-papers/3-planning-risk-assessment/11-50-information-system-controls/11-50-information-system-controls Wiki Page]] | Significant risks — fraud-related risks |
+| [[2-working-papers/4-audit-planning/12-10-manager-planning-checklist/12-10-manager-planning-checklist Wiki Page]] | Audit planning — fraud procedures |
+| [[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy/12-20-audit-plan-and-strategy Wiki Page]] | Audit execution — fraud response procedures |
+| [[2-working-papers/4-audit-planning/12-30-planning-memorandum/12-30-planning-memorandum Wiki Page]] | Direction, supervision and review — fraud |
+| [[2-working-papers/6-general-working-papers/16-10-accounting-records/16-10-accounting-records Wiki Page]] | Journal entry testing |
 
 ISA 240 is one of the most heavily referenced standards across the Probe working papers (10 working papers).
 

@@ -56,7 +56,7 @@ The essential reporting difference: for corresponding figures, the auditor's opi
 
 ## Application to Probe Working Papers
 
-- [[2-working-papers/6-general-working-papers/17-10-opening-balances-comparatives]] — Opening Balances and Comparatives Work Program (ref 17.10): Directly implements ISA 710 requirements for auditing comparative information and opening balances
+- [[2-working-papers/6-general-working-papers/17-10-opening-balances-comparatives/17-10-opening-balances-comparatives Wiki Page]] — Opening Balances and Comparatives Work Program (ref 17.10): Directly implements ISA 710 requirements for auditing comparative information and opening balances
 
 ## Related Standards
 

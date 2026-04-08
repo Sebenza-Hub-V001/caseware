@@ -16,9 +16,9 @@ Accounting records, opening balances and comparatives, financial statement prepa
 
 ## Working Papers
 
-- [[2-working-papers/6-general-working-papers/16-10-accounting-records]]
-- [[2-working-papers/6-general-working-papers/17-10-opening-balances-comparatives]]
-- [[2-working-papers/6-general-working-papers/18-10-financial-statement-preparation]]
+- [[2-working-papers/6-general-working-papers/16-10-accounting-records/16-10-accounting-records Wiki Page]]
+- [[2-working-papers/6-general-working-papers/17-10-opening-balances-comparatives/17-10-opening-balances-comparatives Wiki Page]]
+- [[2-working-papers/6-general-working-papers/18-10-financial-statement-preparation/18-10-financial-statement-preparation Wiki Page]]
 
 ## Other Sections
 

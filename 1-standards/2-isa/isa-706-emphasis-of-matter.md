@@ -60,7 +60,7 @@ When the auditor includes a Key Audit Matters section per [[1-standards/2-isa/is
 
 ## Application to Probe Working Papers
 
-No specific Probe working papers are currently mapped to ISA 706. The standard's requirements would be applied through [[2-working-papers/1-finalisation/02-50-assurance-report]] (Consideration of Assurance Report) when additional paragraphs are needed in the auditor's report.
+No specific Probe working papers are currently mapped to ISA 706. The standard's requirements would be applied through [[2-working-papers/1-finalisation/02-50-assurance-report/02-50-assurance-report Wiki Page]] (Consideration of Assurance Report) when additional paragraphs are needed in the auditor's report.
 
 ## Related Standards
 

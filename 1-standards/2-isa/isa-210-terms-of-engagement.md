@@ -37,8 +37,8 @@ ISA 210 deals with the auditor's responsibilities in agreeing the terms of the a
 
 | Working Paper | Relevance |
 |---|---|
-| [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation]] | Engagement acceptance and continuance |
-| [[2-working-papers/4-audit-planning/12-10-manager-planning-checklist]] | Audit planning — terms of engagement |
+| [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation/10-20-engagement-evaluation Wiki Page]] | Engagement acceptance and continuance |
+| [[2-working-papers/4-audit-planning/12-10-manager-planning-checklist/12-10-manager-planning-checklist Wiki Page]] | Audit planning — terms of engagement |
 
 ## Related Standards
 
