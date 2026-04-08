@@ -1,5 +1,13 @@
 # Activity Log
 
+## [2026-04-08] ingest | Project Plan CSV — Full Spreadsheet Import
+- Source: `raw/project-plans/probe-project-plan-2025.csv`
+- New page: [[3-pipeline/project-plan-tracker]] — Full detailed tracker with all 31 columns from master CSV
+- Organised by audit phase (5 sections) with sub-tables per pipeline stage (4 stages)
+- Includes team assignments summary and key deadlines table
+- Pages touched: [[3-pipeline/index]], [[index]]
+- Cross-referenced: [[2-working-papers/progress]], [[concepts/four-stage-pipeline]], [[sources/probe-project-plan-2025]]
+
 ## [2026-04-08] restructure | CaseWare Document Manager subfolder structure
 - Mirrored CaseWare Document Manager hierarchy into `2-working-papers/` and `raw/` directories
 - Created subfolders: `finalisation/`, `pre-engagement-planning/`, `planning-risk-assessment/`, `audit-planning/`, `general-working-papers/`, `leadsheets/` (with 7 subsections)
