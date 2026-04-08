@@ -1,5 +1,13 @@
 # Activity Log
 
+## [2026-04-08] tweet | Corey Ganim — Claude Code Hidden Features (5 That Change Everything)
+- Source: https://x.com/coreyganim/status/2041596621591629915
+- Tweet page: [[tweets/coreyganim-claude-code-hidden-features]]
+- Key insight: Claude Code has advanced orchestration features — /batch (parallel agents in worktrees), agent teams (lateral agent communication), TaskCompleted hook (quality gates), /loop + skills (scheduled automation), and channels (messaging platform integration)
+- Relevance: Very high — /batch could parallelise working paper processing across 57 documents; TaskCompleted hook is the enforcement mechanism for pipeline quality gates; /loop enables continuous wiki health checks
+- Recommendations: 5 (batch processing for pipeline stages, TaskCompleted quality gates, /loop wiki linting, agent team review workflow, combined batch + hook pattern)
+- Pages touched: [[tweets/index]], [[index]], [[log]]
+
 ## [2026-04-08] ingest | Project Plan CSV — Full Spreadsheet Import
 - Source: `raw/project-plans/probe-project-plan-2025.csv`
 - New page: [[3-pipeline/project-plan-tracker]] — Full detailed tracker with all 31 columns from master CSV
