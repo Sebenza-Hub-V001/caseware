@@ -125,6 +125,7 @@ status: active
 
 ## 3 — Pipeline (Produce the Content)
 - [[3-pipeline/index]] — Production pipeline dashboard and progress snapshot
+- [[3-pipeline/project-plan-tracker]] — Full detailed spreadsheet — all tracking columns by phase and stage
 - [[concepts/four-stage-pipeline]] — How-To Doc → Visual Script → Visual Recording → Professional Video
 - [[concepts/ooxml-document-structure]] — Standardised document formatting for all deliverables
 

@@ -41,7 +41,8 @@ This folder tracks the **four-stage production pipeline** for turning CaseWare w
 
 ## Full Progress Tracker
 
-- [[2-working-papers/progress]] — Completion tracker across all 57 working papers
+- [[3-pipeline/project-plan-tracker]] — **Detailed spreadsheet** — all 31 columns from the master CSV, organised by phase and pipeline stage
+- [[2-working-papers/progress]] — Summary completion tracker across all 57 working papers
 
 ## References
 
