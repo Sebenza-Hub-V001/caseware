@@ -1,2 +1,8 @@
 .obsidian/
 .claude/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
