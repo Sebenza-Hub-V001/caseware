@@ -97,6 +97,8 @@ Specific applications to the [[concepts/four-stage-pipeline]]:
 - [[concepts/ooxml-document-structure]] — formatting standards that a quality-gate skill could enforce
 - [[entities/success-community]] — publishing platform where skill-generated summaries would land
 
+- [[tweets/index]]
+
 ## References
 
 - Source: [x.com/aiedge_/status/2036815449225298369](https://x.com/aiedge_/status/2036815449225298369)

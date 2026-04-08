@@ -101,6 +101,8 @@ Agentic skills — packaged as `.md` files with structured instructions — turn
 - [[entities/success-community]] — publishing platform that would benefit from caption/summary skills
 - [[tweets/farzapedia-personal-wiki]] — related insight on wiki-as-knowledge-base for agents
 
+- [[tweets/index]]
+
 ## References
 
 - Source: [x.com/explorax_/status/2039269234253934811](https://x.com/explorax_/status/2039269234253934811)

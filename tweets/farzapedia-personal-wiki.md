@@ -47,6 +47,8 @@ The Probe wiki is essentially a domain-specific version of Farzapedia, focused o
 - [[concepts/four-stage-pipeline]] — our production pipeline that benefits from this approach
 - [[2-working-papers/progress]] — the structured content this wiki tracks
 
+- [[tweets/index]]
+
 ## References
 
 - Raw: `raw/tweets/2026-04-04-farzapedia-personal-wiki.md`
