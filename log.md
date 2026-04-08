@@ -1,5 +1,13 @@
 # Activity Log
 
+## [2026-04-08] tweet | RoundtableSpace — The Most Important Prompt for Debugging
+- Source: https://x.com/RoundtableSpace/status/2035631314691387534
+- Tweet page: [[tweets/roundtablespace-debugging-prompt]]
+- Key insight: Structured 8-step debugging methodology (understand → hypothesise → isolate → verify → fix minimally → test → prevent → reason like a detective) with explicit rules against hallucination and premature solutions
+- Relevance: Moderate — debugging skill applicable to pipeline automation errors; "verify before fixing" principle maps to TaskCompleted hook design
+- Recommendations: 2 (Pipeline Debugger skill, verify-before-fixing in TaskCompleted hooks)
+- Pages touched: [[tweets/index]], [[index]], [[log]]
+
 ## [2026-04-08] audit | Welcome.md — Remove Sebenza Hub references
 - File: [[Welcome]]
 - Issue: Welcome page title and heading referenced "Sebenza Hub" instead of the CaseWare Probe Project
