@@ -147,6 +147,9 @@ status: active
 - [[sources/probe-project-plan-2025]] — Master project plan with all 57 working papers, ingested 2026-04-07
 - [[sources/iaasb-2025-handbook]] — IAASB 2025 Handbook (5 volumes, 50 standards), ingested 2026-04-07
 
+## Links
+- [[links/index]] — Curated external links and resources
+
 ## Research & Ideas
 
 ### Tweets
