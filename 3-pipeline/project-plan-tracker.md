@@ -20,19 +20,19 @@ status: active
 
 ### Stage 1 — How-To Document
 
-| V# | Doc# | Video Title | Written | Draft Due | Review | Rev# | Review Due | On SC | Published | With |
-|----|------|-------------|---------|-----------|--------|------|------------|-------|-----------|------|
-| 1 | 10.20 | Engagement evaluation | Finalised | 12-Aug-24 | Finalised | 1x | 12-Aug-25 | Yes | Yes | - |
-| 2 | 10.21 | Engagement letter | Finalised | 12-Aug-24 | Finalised | 1x | 12-Aug-25 | Yes | Yes | - |
-| 3 | 10.30 | Discussions with those charged with governance | Finalised | 14-Nov-24 | Finalised | 1x | 14-Nov-24 | Yes | Yes | - |
-| 4 | 10.40 | Time budget | Finalised | 14-Nov-24 | Finalised | 1x | 14-Nov-24 | Yes | Yes | - |
-| 5 | 10.50 | Gathering information | Finalised | 21-Nov-25 | Finalised | 1x | 12-Dec-25 | Yes | Yes | Nonku |
-| 56 | 10.50G | Plan extent of risk assessment procedures | Finalised | 11-Nov-24 | Finalised | 1x | 11-Nov-24 | Yes | Yes | - |
-| 6 | 10.51 | Types and volumes of transactions | Finalised | 23-Jul-24 | Finalised | 1x | 23-Jul-24 | Yes | Yes | - |
-| 8 | 10.52 | Preliminary analytical review | Finalised | 13-Jun-25 | Finalised | 1x | 13-Jun-25 | Yes | Yes | - |
-| 9 | 10.53 | Understanding of accounting estimates | Finalised | 13-Jun-25 | Finalised | 1x | 13-Jun-25 | Yes | Yes | - |
-| 10 | 10.55 | Understanding the IT environment | Finalised | 22-Jul-25 | Finalised | 1x | 22-Jul-25 | Yes | Yes | - |
-| 11 | 10.60 | Overall materiality assessment | Finalised | 24-Jul-25 | Finalised | 1x | 24-Jul-25 | Yes | Yes | - |
+| V#  | Doc#   | Video Title                                    | Written   | Draft Due | Review    | Rev# | Review Due | On SC | Published | With  |
+| --- | ------ | ---------------------------------------------- | --------- | --------- | --------- | ---- | ---------- | ----- | --------- | ----- |
+| 1   | 10.20  | Engagement evaluation                          | Finalised | 12-Aug-24 | Finalised | 1x   | 12-Aug-25  | Yes   | Yes       | -     |
+| 2   | 10.21  | Engagement letter                              | Finalised | 12-Aug-24 | Finalised | 1x   | 12-Aug-25  | Yes   | Yes       | -     |
+| 3   | 10.30  | Discussions with those charged with governance | Finalised | 14-Nov-24 | Finalised | 1x   | 14-Nov-24  | Yes   | Yes       | -     |
+| 4   | 10.40  | Time budget                                    | Finalised | 14-Nov-24 | Finalised | 1x   | 14-Nov-24  | Yes   | Yes       | -     |
+| 5   | 10.50  | Gathering information                          | Finalised | 21-Nov-25 | Finalised | 1x   | 12-Dec-25  | Yes   | Yes       | Nonku |
+| 56  | 10.50G | Plan extent of risk assessment procedures      | Finalised | 11-Nov-24 | Finalised | 1x   | 11-Nov-24  | Yes   | Yes       | -     |
+| 6   | 10.51  | Types and volumes of transactions              | Finalised | 23-Jul-24 | Finalised | 1x   | 23-Jul-24  | Yes   | Yes       | -     |
+| 8   | 10.52  | Preliminary analytical review                  | Finalised | 13-Jun-25 | Finalised | 1x   | 13-Jun-25  | Yes   | Yes       | -     |
+| 9   | 10.53  | Understanding of accounting estimates          | Finalised | 13-Jun-25 | Finalised | 1x   | 13-Jun-25  | Yes   | Yes       | -     |
+| 10  | 10.55  | Understanding the IT environment               | Finalised | 22-Jul-25 | Finalised | 1x   | 22-Jul-25  | Yes   | Yes       | -     |
+| 11  | 10.60  | Overall materiality assessment                 | Finalised | 24-Jul-25 | Finalised | 1x   | 24-Jul-25  | Yes   | Yes       | -     |
 
 ### Stage 2 — Visual Script
 
