@@ -1,2 +1,0 @@
-# caseware
-CaseWare Probe Project
