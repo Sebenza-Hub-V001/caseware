@@ -70,10 +70,10 @@ Artifacts for working paper 12.10:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/4-audit-planning/12-20]] — Audit Plan and Strategy (the detailed plan this checklist reviews)
-- [[2-working-papers/4-audit-planning/12-30]] — Planning Memorandum (supports many checklist items)
-- [[2-working-papers/4-audit-planning/12-22]] — Use of Resources (supports Q5-6 on resource sufficiency)
-- [[2-working-papers/4-audit-planning/12-40]] — Engagement Quality Review - Planning
+- [[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy]] — Audit Plan and Strategy (the detailed plan this checklist reviews)
+- [[2-working-papers/4-audit-planning/12-30-planning-memorandum]] — Planning Memorandum (supports many checklist items)
+- [[2-working-papers/4-audit-planning/12-22-use-of-resources]] — Use of Resources (supports Q5-6 on resource sufficiency)
+- [[2-working-papers/4-audit-planning/12-40-eqr-planning]] — Engagement Quality Review - Planning
 
 - [[2-working-papers/4-audit-planning/index]]
 

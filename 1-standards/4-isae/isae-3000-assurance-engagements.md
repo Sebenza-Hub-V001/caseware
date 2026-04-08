@@ -27,12 +27,12 @@ ISAE 3000 (Revised) covers **assurance engagements other than audits or reviews 
 Key scope points:
 - Covers both **attestation engagements** (third party measures/evaluates) and **direct engagements** (practitioner measures/evaluates), though specific requirements focus on attestation engagements
 - Covers both **reasonable assurance** and **limited assurance** engagements
-- Where a subject-matter specific ISAE exists (e.g., [[1-standards/4-isae/isae-3402]], [[1-standards/4-isae/isae-3410]], [[1-standards/4-isae/isae-3420]]), that ISAE applies **in addition** to this ISAE
-- Does **not** cover: agreed-upon procedures ([[1-standards/5-isrs/isrs-4400]]), compilation engagements ([[1-standards/5-isrs/isrs-4410]]), tax return preparation, consulting/advisory engagements, legal testimony
+- Where a subject-matter specific ISAE exists (e.g., [[1-standards/4-isae/isae-3402-service-org-controls]], [[1-standards/4-isae/isae-3410-greenhouse-gas]], [[1-standards/4-isae/isae-3420-pro-forma-financial-info]]), that ISAE applies **in addition** to this ISAE
+- Does **not** cover: agreed-upon procedures ([[1-standards/5-isrs/isrs-4400-agreed-upon-procedures]]), compilation engagements ([[1-standards/5-isrs/isrs-4410-compilation-engagements]]), tax return preparation, consulting/advisory engagements, legal testimony
 
 Effective for assurance reports dated on or after **December 15, 2015**.
 
-Note: For sustainability assurance engagements, [[1-standards/6-other/issa-5000]] is a standalone standard and practitioners are not required to apply ISAE 3000 (Revised).
+Note: For sustainability assurance engagements, [[1-standards/6-other/issa-5000-sustainability-assurance]] is a standalone standard and practitioners are not required to apply ISAE 3000 (Revised).
 
 ## Key Requirements
 
@@ -68,12 +68,12 @@ This standard is not currently referenced by any Probe working papers, which foc
 
 - [[1-standards/4-isae/index]]
 
-- [[1-standards/4-isae/isae-3400]] — Examination of prospective financial information (subject-specific, applies with ISAE 3000)
-- [[1-standards/4-isae/isae-3402]] — Assurance reports on controls at a service organization (subject-specific, applies with ISAE 3000)
-- [[1-standards/4-isae/isae-3410]] — Assurance on greenhouse gas statements (withdrawn December 2026, subject-specific)
-- [[1-standards/4-isae/isae-3420]] — Pro forma financial information in prospectus (subject-specific, applies with ISAE 3000)
-- [[1-standards/6-other/issa-5000]] — Sustainability assurance (standalone, does not require ISAE 3000)
-- [[1-standards/1-isqm/isqm-1]] — Firm-level quality management
+- [[1-standards/4-isae/isae-3400-prospective-financial-info]] — Examination of prospective financial information (subject-specific, applies with ISAE 3000)
+- [[1-standards/4-isae/isae-3402-service-org-controls]] — Assurance reports on controls at a service organization (subject-specific, applies with ISAE 3000)
+- [[1-standards/4-isae/isae-3410-greenhouse-gas]] — Assurance on greenhouse gas statements (withdrawn December 2026, subject-specific)
+- [[1-standards/4-isae/isae-3420-pro-forma-financial-info]] — Pro forma financial information in prospectus (subject-specific, applies with ISAE 3000)
+- [[1-standards/6-other/issa-5000-sustainability-assurance]] — Sustainability assurance (standalone, does not require ISAE 3000)
+- [[1-standards/1-isqm/isqm-1-quality-management-firms]] — Firm-level quality management
 
 ## References
 

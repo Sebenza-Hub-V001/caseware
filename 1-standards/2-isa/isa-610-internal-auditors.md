@@ -58,9 +58,9 @@ The ISA does not apply if the entity does not have an internal audit function, o
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-500]] — Audit evidence
-- [[1-standards/2-isa/isa-600]] — Group financial statements (internal audit work in group context)
-- [[1-standards/2-isa/isa-620]] — Using the work of an auditor's expert
+- [[1-standards/2-isa/isa-500-audit-evidence]] — Audit evidence
+- [[1-standards/2-isa/isa-600-group-audits]] — Group financial statements (internal audit work in group context)
+- [[1-standards/2-isa/isa-620-auditors-expert]] — Using the work of an auditor's expert
 
 ## References
 

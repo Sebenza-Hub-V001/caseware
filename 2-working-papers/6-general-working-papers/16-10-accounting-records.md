@@ -98,8 +98,8 @@ Artifacts for working paper 16.10:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/6-general-working-papers/18-10]] — Financial Statement Preparation Work Program (uses the records verified here)
-- [[2-working-papers/6-general-working-papers/17-10]] — Opening Balances and Comparatives Work Program (relies on prior year records)
+- [[2-working-papers/6-general-working-papers/18-10-financial-statement-preparation]] — Financial Statement Preparation Work Program (uses the records verified here)
+- [[2-working-papers/6-general-working-papers/17-10-opening-balances-comparatives]] — Opening Balances and Comparatives Work Program (relies on prior year records)
 
 - [[2-working-papers/6-general-working-papers/index]]
 

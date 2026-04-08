@@ -41,18 +41,18 @@ ISA 250 (Revised) deals with the auditor's responsibility to consider laws and r
 
 | Working Paper | Relevance |
 |---|---|
-| [[2-working-papers/2-pre-engagement-planning/10-31]] | Planning — laws and regulations considerations |
-| [[2-working-papers/4-audit-planning/12-10]] | Audit planning — compliance procedures |
-| [[2-working-papers/4-audit-planning/12-20]] | Audit execution — compliance testing |
-| [[2-working-papers/4-audit-planning/12-30]] | Direction, supervision and review — laws and regulations |
+| [[2-working-papers/2-pre-engagement-planning/10-31-discussions-with-tcwg]] | Planning — laws and regulations considerations |
+| [[2-working-papers/4-audit-planning/12-10-manager-planning-checklist]] | Audit planning — compliance procedures |
+| [[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy]] | Audit execution — compliance testing |
+| [[2-working-papers/4-audit-planning/12-30-planning-memorandum]] | Direction, supervision and review — laws and regulations |
 
 ## Related Standards
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-200]] — Overall Objectives (inherent limitations and professional skepticism)
-- [[1-standards/2-isa/isa-240]] — Fraud (fraud may involve non-compliance with laws)
-- [[1-standards/2-isa/isa-260]] — Communication with Those Charged with Governance (reporting non-compliance)
+- [[1-standards/2-isa/isa-200-overall-objectives]] — Overall Objectives (inherent limitations and professional skepticism)
+- [[1-standards/2-isa/isa-240-fraud]] — Fraud (fraud may involve non-compliance with laws)
+- [[1-standards/2-isa/isa-260-communication-with-tcwg]] — Communication with Those Charged with Governance (reporting non-compliance)
 
 ## References
 

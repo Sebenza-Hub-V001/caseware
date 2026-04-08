@@ -79,7 +79,7 @@ Covers 23 line items: Property/plant/equipment, Investment property, Prepayments
 
 - Only complete this working paper if the entity has an internal audit function and the external auditor plans to use its work or obtain direct assistance.
 - The evaluation of objectivity, competence, and systematic approach (Q1-2) must be documented before any reliance decisions are made.
-- The audit strategy table on page 2 should align with the line items and risk assessments in [[2-working-papers/4-audit-planning/12-20]].
+- The audit strategy table on page 2 should align with the line items and risk assessments in [[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy]].
 - Obtain the written agreement (Q26) before internal auditors begin any direct assistance work.
 - All internal audit staff providing assistance must sign the declaration on page 3.
 - Consider whether reliance on internal audit for higher-risk areas is appropriate — ISA 610.30 cautions against this.
@@ -117,9 +117,9 @@ Artifacts for working paper 12.21:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/4-audit-planning/12-20]] — Audit Plan and Strategy (contains the overall assertion-level plan)
-- [[2-working-papers/4-audit-planning/12-30]] — Planning Memorandum (references internal audit use)
-- [[2-working-papers/4-audit-planning/12-22]] — Use of Resources (team and resource planning)
+- [[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy]] — Audit Plan and Strategy (contains the overall assertion-level plan)
+- [[2-working-papers/4-audit-planning/12-30-planning-memorandum]] — Planning Memorandum (references internal audit use)
+- [[2-working-papers/4-audit-planning/12-22-use-of-resources]] — Use of Resources (team and resource planning)
 
 - [[2-working-papers/4-audit-planning/index]]
 

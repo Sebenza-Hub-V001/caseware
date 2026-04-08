@@ -73,9 +73,9 @@ This standard is not currently referenced by any Probe working papers. However, 
 
 - [[1-standards/5-isrs/index]]
 
-- [[1-standards/5-isrs/isrs-4410]] — Compilation engagements (other type of related service)
-- [[1-standards/4-isae/isae-3000]] — Assurance engagements (distinguished from AUP, which is not assurance)
-- [[1-standards/1-isqm/isqm-1]] — Firm-level quality management
+- [[1-standards/5-isrs/isrs-4410-compilation-engagements]] — Compilation engagements (other type of related service)
+- [[1-standards/4-isae/isae-3000-assurance-engagements]] — Assurance engagements (distinguished from AUP, which is not assurance)
+- [[1-standards/1-isqm/isqm-1-quality-management-firms]] — Firm-level quality management
 
 ## References
 

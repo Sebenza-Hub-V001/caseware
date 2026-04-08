@@ -97,10 +97,10 @@ Artifacts for working paper 02.40:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/1-finalisation/02-50]] -- Consideration of Assurance Report (misstatements affect opinion)
-- [[2-working-papers/1-finalisation/02-90]] -- Report to Management (uncorrected misstatements communicated)
-- [[2-working-papers/1-finalisation/02-92]] -- Letter of Representation (section 9 on uncorrected misstatements)
-- [[2-working-papers/1-finalisation/02-60]] -- Senior's Final Checklist (question 17 on uncorrected differences)
+- [[2-working-papers/1-finalisation/02-50-assurance-report]] -- Consideration of Assurance Report (misstatements affect opinion)
+- [[2-working-papers/1-finalisation/02-90-report-to-management]] -- Report to Management (uncorrected misstatements communicated)
+- [[2-working-papers/1-finalisation/02-92-letter-of-representation]] -- Letter of Representation (section 9 on uncorrected misstatements)
+- [[2-working-papers/1-finalisation/02-60-seniors-final-checklist]] -- Senior's Final Checklist (question 17 on uncorrected differences)
 
 - [[2-working-papers/1-finalisation/index]]
 

@@ -59,8 +59,8 @@ Artifacts for working paper 11.20G:
 - CaseView source: [[raw/caseview-documents/3-planning-risk-assessment/11.20G Identification of Components CaseView Document.pdf]]
 
 ## Related
-- [[2-working-papers/3-planning-risk-assessment/11-20]] — Inherent Risk Assessment (single entity equivalent)
-- [[2-working-papers/3-planning-risk-assessment/11-10]] — Risk Analysis Summary
+- [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment]] — Inherent Risk Assessment (single entity equivalent)
+- [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]] — Risk Analysis Summary
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]

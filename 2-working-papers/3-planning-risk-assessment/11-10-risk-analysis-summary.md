@@ -25,7 +25,7 @@ Three high-level risk assessments:
 - **Fraud risk at financial statement level** — Overall fraud risk assessment
 
 ### Performance Materiality
-- Performance materiality amount (R) — derived from [[2-working-papers/2-pre-engagement-planning/10-60]]
+- Performance materiality amount (R) — derived from [[2-working-papers/2-pre-engagement-planning/10-60-overall-materiality]]
 
 ### Risk at Assertion Level
 A matrix for each COTABD with the following columns representing assertions:
@@ -100,13 +100,13 @@ A matrix for each COTABD with the following columns representing assertions:
 ## Completion Guidance
 
 - This is a summary document that aggregates risk assessments from multiple sources — complete it after:
-  - [[2-working-papers/2-pre-engagement-planning/10-20]] (desired audit risk)
-  - [[2-working-papers/2-pre-engagement-planning/10-50]] and [[2-working-papers/2-pre-engagement-planning/10-51]] (understanding of transactions and balances)
-  - [[2-working-papers/2-pre-engagement-planning/10-55]] (IT environment complexity)
-  - [[2-working-papers/2-pre-engagement-planning/10-60]] (materiality and performance materiality)
-  - [[2-working-papers/3-planning-risk-assessment/11-20]] (inherent risk assessment per COTABD)
-  - [[2-working-papers/3-planning-risk-assessment/11-25]] (fraud risk assessment)
-  - [[2-working-papers/3-planning-risk-assessment/11-30]] (internal control evaluation)
+  - [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation]] (desired audit risk)
+  - [[2-working-papers/2-pre-engagement-planning/10-50-gathering-information]] and [[2-working-papers/2-pre-engagement-planning/10-51-types-volumes-transactions]] (understanding of transactions and balances)
+  - [[2-working-papers/2-pre-engagement-planning/10-55-understanding-it-environment]] (IT environment complexity)
+  - [[2-working-papers/2-pre-engagement-planning/10-60-overall-materiality]] (materiality and performance materiality)
+  - [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment]] (inherent risk assessment per COTABD)
+  - [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment]] (fraud risk assessment)
+  - [[2-working-papers/3-planning-risk-assessment/11-30-internal-control-evaluation]] (internal control evaluation)
 - The Risk of Material Misstatement = f(Inherent Risk, Control Risk) per the audit risk model
 - Default ROMM is "Medium (1)" when no specific inherent risk is identified ("No IR")
 - Review the assertion applicability: balance sheet items use C/EO/RO/AVA/PD; income statement items use C/EO/AVA/CO/PD; disclosure items use PD only
@@ -125,14 +125,14 @@ Artifacts for working paper 11.10:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/2-pre-engagement-planning/10-20]] — Engagement evaluation (desired audit risk)
-- [[2-working-papers/2-pre-engagement-planning/10-50]] — Gathering information (entity understanding)
-- [[2-working-papers/2-pre-engagement-planning/10-51]] — Types and volumes of transactions (COTABD details and ROMM)
-- [[2-working-papers/2-pre-engagement-planning/10-55]] — IT environment (IT-related risks)
-- [[2-working-papers/2-pre-engagement-planning/10-60]] — Overall materiality (performance materiality)
-- [[2-working-papers/3-planning-risk-assessment/11-20]] — Inherent risk assessment (feeds inherent risk per assertion)
-- [[2-working-papers/3-planning-risk-assessment/11-25]] — Fraud risk assessment (feeds fraud risk)
-- [[2-working-papers/3-planning-risk-assessment/11-30]] — Evaluation of system of internal control (feeds control risk)
+- [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation]] — Engagement evaluation (desired audit risk)
+- [[2-working-papers/2-pre-engagement-planning/10-50-gathering-information]] — Gathering information (entity understanding)
+- [[2-working-papers/2-pre-engagement-planning/10-51-types-volumes-transactions]] — Types and volumes of transactions (COTABD details and ROMM)
+- [[2-working-papers/2-pre-engagement-planning/10-55-understanding-it-environment]] — IT environment (IT-related risks)
+- [[2-working-papers/2-pre-engagement-planning/10-60-overall-materiality]] — Overall materiality (performance materiality)
+- [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment]] — Inherent risk assessment (feeds inherent risk per assertion)
+- [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment]] — Fraud risk assessment (feeds fraud risk)
+- [[2-working-papers/3-planning-risk-assessment/11-30-internal-control-evaluation]] — Evaluation of system of internal control (feeds control risk)
 
 - [[2-working-papers/3-planning-risk-assessment/index]]
 

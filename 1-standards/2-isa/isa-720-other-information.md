@@ -81,9 +81,9 @@ No specific Probe working papers are currently mapped to ISA 720. The standard's
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-700]] — Forming an Opinion and Reporting (para 32 requires reporting per ISA 720 where applicable)
-- [[1-standards/2-isa/isa-706]] — Emphasis of Matter and Other Matter Paragraphs
-- [[1-standards/2-isa/isa-805]] — Single Financial Statements (references ISA 720 for other information considerations)
+- [[1-standards/2-isa/isa-700-forming-an-opinion]] — Forming an Opinion and Reporting (para 32 requires reporting per ISA 720 where applicable)
+- [[1-standards/2-isa/isa-706-emphasis-of-matter]] — Emphasis of Matter and Other Matter Paragraphs
+- [[1-standards/2-isa/isa-805-single-financial-statements]] — Single Financial Statements (references ISA 720 for other information considerations)
 - [[concepts/isa-standards]] — Overview of ISA standards mapped to working papers
 
 ## References

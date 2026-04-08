@@ -55,9 +55,9 @@ No specific Probe working paper mappings identified yet.
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-500]] — General audit evidence requirements
-- [[1-standards/2-isa/isa-501]] — Specific considerations for litigation and claims (not covered here)
-- [[1-standards/2-isa/isa-330]] — Auditor's responses to assessed risks
+- [[1-standards/2-isa/isa-500-audit-evidence]] — General audit evidence requirements
+- [[1-standards/2-isa/isa-501-specific-audit-evidence]] — Specific considerations for litigation and claims (not covered here)
+- [[1-standards/2-isa/isa-330-responses-to-assessed-risks]] — Auditor's responses to assessed risks
 
 ## References
 

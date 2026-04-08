@@ -191,12 +191,12 @@ Artifacts for working paper 02.92:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/1-finalisation/02-60]] -- Senior's Final Checklist (questions 12-16 on representations)
-- [[2-working-papers/1-finalisation/02-70]] -- Manager's Final Checklist (ISA 580 questions 34-35)
-- [[2-working-papers/1-finalisation/02-40]] -- Evaluation of Misstatements (uncorrected misstatements list)
-- [[2-working-papers/1-finalisation/02-90]] -- Report to Management (representations requested)
-- [[2-working-papers/1-finalisation/02-10]] -- Subsequent Events (section 7 cross-reference)
-- [[2-working-papers/1-finalisation/02-20]] -- Going Concern (section 6 cross-reference)
+- [[2-working-papers/1-finalisation/02-60-seniors-final-checklist]] -- Senior's Final Checklist (questions 12-16 on representations)
+- [[2-working-papers/1-finalisation/02-70-managers-final-checklist]] -- Manager's Final Checklist (ISA 580 questions 34-35)
+- [[2-working-papers/1-finalisation/02-40-evaluation-of-misstatements]] -- Evaluation of Misstatements (uncorrected misstatements list)
+- [[2-working-papers/1-finalisation/02-90-report-to-management]] -- Report to Management (representations requested)
+- [[2-working-papers/1-finalisation/02-10-subsequent-events]] -- Subsequent Events (section 7 cross-reference)
+- [[2-working-papers/1-finalisation/02-20-going-concern]] -- Going Concern (section 6 cross-reference)
 
 - [[2-working-papers/1-finalisation/index]]
 

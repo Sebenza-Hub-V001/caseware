@@ -70,11 +70,11 @@ Each standard page includes objectives, key requirements, definitions, and mappi
 
 ### Most-Referenced ISAs Across Working Papers
 
-1. **[[1-standards/2-isa/isa-315]]** — Identifying and Assessing Risks (11 working papers)
-2. **[[1-standards/2-isa/isa-240]]** — Fraud Responsibilities (10 working papers)
-3. **[[1-standards/2-isa/isa-330]]** — Auditor's Responses to Assessed Risks (6 working papers)
-4. **[[1-standards/2-isa/isa-220]]** — Quality Management for an Audit (6 working papers)
-5. **[[1-standards/2-isa/isa-320]]** — Materiality (5 working papers)
+1. **[[1-standards/2-isa/isa-315-risk-identification]]** — Identifying and Assessing Risks (11 working papers)
+2. **[[1-standards/2-isa/isa-240-fraud]]** — Fraud Responsibilities (10 working papers)
+3. **[[1-standards/2-isa/isa-330-responses-to-assessed-risks]]** — Auditor's Responses to Assessed Risks (6 working papers)
+4. **[[1-standards/2-isa/isa-220-quality-management-audit]]** — Quality Management for an Audit (6 working papers)
+5. **[[1-standards/2-isa/isa-320-materiality]]** — Materiality (5 working papers)
 
 ISA 315 and ISA 240 together touch nearly every planning and risk assessment working paper, reflecting how pervasive risk identification and fraud awareness are throughout the audit process.
 

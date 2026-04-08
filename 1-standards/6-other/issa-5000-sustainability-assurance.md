@@ -31,7 +31,7 @@ Key scope points:
 - Sustainability information is reported in accordance with criteria; framework criteria established by authorized bodies following transparent due process are presumed suitable
 - The scope may cover all sustainability information reported by the entity or only part of it
 - Does **not** address sustainability information required to be included in financial statements (that falls under ISAs)
-- This is an **overarching standard** — practitioners are not required to also apply [[1-standards/4-isae/isae-3000]] when performing the engagement
+- This is an **overarching standard** — practitioners are not required to also apply [[1-standards/4-isae/isae-3000-assurance-engagements]] when performing the engagement
 - Scalable for entities of all sizes and complexity
 
 ## Key Requirements
@@ -66,15 +66,15 @@ Requirements differentiated by "L" suffix apply only to limited assurance engage
 
 This standard is not currently referenced by any Probe working papers, as sustainability assurance is a new area (effective December 2026). However, as sustainability reporting mandates expand globally, CaseWare may need to develop Probe working papers for sustainability assurance engagements. This standard would be the foundational reference for any such working papers.
 
-Note: ISSA 5000 supersedes [[1-standards/4-isae/isae-3410]] (GHG Statements) with effect from December 15, 2026.
+Note: ISSA 5000 supersedes [[1-standards/4-isae/isae-3410-greenhouse-gas]] (GHG Statements) with effect from December 15, 2026.
 
 ## Related Standards
 
 - [[1-standards/6-other/index]]
 
-- [[1-standards/4-isae/isae-3000]] — ISSA 5000 is a standalone standard; practitioners do not need to apply ISAE 3000 (Revised) when performing sustainability assurance under ISSA 5000
-- [[1-standards/4-isae/isae-3410]] — Withdrawn with effect from December 15, 2026, replaced by ISSA 5000
-- [[1-standards/1-isqm/isqm-1]] — Firm-level quality management (required as premise)
+- [[1-standards/4-isae/isae-3000-assurance-engagements]] — ISSA 5000 is a standalone standard; practitioners do not need to apply ISAE 3000 (Revised) when performing sustainability assurance under ISSA 5000
+- [[1-standards/4-isae/isae-3410-greenhouse-gas]] — Withdrawn with effect from December 15, 2026, replaced by ISSA 5000
+- [[1-standards/1-isqm/isqm-1-quality-management-firms]] — Firm-level quality management (required as premise)
 
 ## References
 

@@ -21,7 +21,7 @@ ISA 315 deals with the auditor's responsibility to identify and assess the risks
 ## Key Requirements
 
 ### Risk Assessment Procedures and Related Activities (Para. 13-18)
-- The auditor shall design and perform risk assessment procedures to obtain audit evidence that provides an appropriate basis for the identification and assessment of risks of material misstatement and the design of further audit procedures in accordance with [[1-standards/2-isa/isa-330]].
+- The auditor shall design and perform risk assessment procedures to obtain audit evidence that provides an appropriate basis for the identification and assessment of risks of material misstatement and the design of further audit procedures in accordance with [[1-standards/2-isa/isa-330-responses-to-assessed-risks]].
 - Risk assessment procedures shall not be biased towards corroborative or contradictory evidence.
 - Risk assessment procedures shall include:
   - Inquiries of management and other appropriate individuals within the entity
@@ -96,10 +96,10 @@ The following CaseWare Probe working papers reference ISA 315:
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-300]] — Planning an Audit of Financial Statements (risk assessment informs the audit plan)
-- [[1-standards/2-isa/isa-320]] — Materiality in Planning and Performing an Audit
-- [[1-standards/2-isa/isa-330]] — The Auditor's Responses to Assessed Risks (responds to the risks identified under ISA 315)
-- [[1-standards/2-isa/isa-402]] — Audit Considerations Relating to an Entity Using a Service Organization (extends understanding of internal control)
+- [[1-standards/2-isa/isa-300-planning-an-audit]] — Planning an Audit of Financial Statements (risk assessment informs the audit plan)
+- [[1-standards/2-isa/isa-320-materiality]] — Materiality in Planning and Performing an Audit
+- [[1-standards/2-isa/isa-330-responses-to-assessed-risks]] — The Auditor's Responses to Assessed Risks (responds to the risks identified under ISA 315)
+- [[1-standards/2-isa/isa-402-service-organisations]] — Audit Considerations Relating to an Entity Using a Service Organization (extends understanding of internal control)
 - ISA 200 — Overall Objectives of the Independent Auditor
 - ISA 240 — The Auditor's Responsibilities Relating to Fraud
 - ISA 550 — Related Parties

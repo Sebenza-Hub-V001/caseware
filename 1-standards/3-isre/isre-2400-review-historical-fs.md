@@ -25,9 +25,9 @@ This ISRE deals with:
 - The practitioner's responsibilities when engaged to perform a review of historical financial statements, **when the practitioner is not the auditor of the entity's financial statements**
 - The form and content of the practitioner's report
 
-It does **not** address reviews of financial statements or interim financial information performed by the independent auditor of the entity (see [[1-standards/3-isre/isre-2410]] for that).
+It does **not** address reviews of financial statements or interim financial information performed by the independent auditor of the entity (see [[1-standards/3-isre/isre-2410-review-interim-info]] for that).
 
-The ISRE may be applied, adapted as necessary, to reviews of other historical financial information. Limited assurance engagements other than reviews of historical financial information are performed under [[1-standards/4-isae/isae-3000]].
+The ISRE may be applied, adapted as necessary, to reviews of other historical financial information. Limited assurance engagements other than reviews of historical financial information are performed under [[1-standards/4-isae/isae-3000-assurance-engagements]].
 
 Effective for reviews of financial statements for periods ending on or after **December 31, 2013**.
 
@@ -64,10 +64,10 @@ This standard is not currently referenced by any Probe working papers, which are
 
 - [[1-standards/3-isre/index]]
 
-- [[1-standards/3-isre/isre-2410]] — Reviews by the independent auditor of the entity (interim financial information)
-- [[1-standards/4-isae/isae-3000]] — Assurance engagements other than audits or reviews
-- [[1-standards/1-isqm/isqm-1]] — Firm-level quality management
-- [[1-standards/6-other/isa-for-lce]] — Alternative for less complex entity audits (audit rather than review)
+- [[1-standards/3-isre/isre-2410-review-interim-info]] — Reviews by the independent auditor of the entity (interim financial information)
+- [[1-standards/4-isae/isae-3000-assurance-engagements]] — Assurance engagements other than audits or reviews
+- [[1-standards/1-isqm/isqm-1-quality-management-firms]] — Firm-level quality management
+- [[1-standards/6-other/isa-for-lce-less-complex-entities]] — Alternative for less complex entity audits (audit rather than review)
 
 ## References
 

@@ -201,8 +201,8 @@ Artifacts for working paper 18.10:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/6-general-working-papers/16-10]] — Accounting Records Work Program (underlying records verified)
-- [[2-working-papers/6-general-working-papers/17-10]] — Opening Balances and Comparatives Work Program (comparatives verified)
+- [[2-working-papers/6-general-working-papers/16-10-accounting-records]] — Accounting Records Work Program (underlying records verified)
+- [[2-working-papers/6-general-working-papers/17-10-opening-balances-comparatives]] — Opening Balances and Comparatives Work Program (comparatives verified)
 
 - [[2-working-papers/6-general-working-papers/index]]
 

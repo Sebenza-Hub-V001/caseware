@@ -99,7 +99,7 @@ Ends with: EQ Reviewer comment, name, signature, and date.
 - Q12 is the core evaluation — each sub-question requires careful consideration of the planning documentation.
 - Q14 addresses the perception of objectivity — if discussions have been too frequent or directive, the EQ Reviewer may appear to be making decisions rather than reviewing them.
 - A separate EQR working paper exists for the completion/reporting phase of the audit; this one covers planning only.
-- Cross-reference to [[2-working-papers/4-audit-planning/12-22]] for EQ Reviewer appointment and eligibility documentation.
+- Cross-reference to [[2-working-papers/4-audit-planning/12-22-use-of-resources]] for EQ Reviewer appointment and eligibility documentation.
 
 ## How-To Document Summary
 
@@ -138,10 +138,10 @@ Artifacts for working paper 12.40:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/4-audit-planning/12-10]] — Manager Planning Checklist (reviewed before EQR)
-- [[2-working-papers/4-audit-planning/12-20]] — Audit Plan and Strategy (key document under EQ review)
-- [[2-working-papers/4-audit-planning/12-22]] — Use of Resources (EQ Reviewer appointment documented here)
-- [[2-working-papers/4-audit-planning/12-30]] — Planning Memorandum (engagement partner declaration reviewed)
+- [[2-working-papers/4-audit-planning/12-10-manager-planning-checklist]] — Manager Planning Checklist (reviewed before EQR)
+- [[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy]] — Audit Plan and Strategy (key document under EQ review)
+- [[2-working-papers/4-audit-planning/12-22-use-of-resources]] — Use of Resources (EQ Reviewer appointment documented here)
+- [[2-working-papers/4-audit-planning/12-30-planning-memorandum]] — Planning Memorandum (engagement partner declaration reviewed)
 
 - [[2-working-papers/4-audit-planning/index]]
 

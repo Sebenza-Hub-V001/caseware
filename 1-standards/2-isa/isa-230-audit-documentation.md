@@ -47,9 +47,9 @@ ISA 230 underpins the entire CaseWare working papers structure. Every working pa
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-200]] — Overall Objectives (documentation supports the auditor's conclusion)
-- [[1-standards/2-isa/isa-220]] — Quality Management for an Audit (documentation of quality management)
-- [[1-standards/1-isqm/isqm-2]] — Engagement Quality Reviews (documentation of the review)
+- [[1-standards/2-isa/isa-200-overall-objectives]] — Overall Objectives (documentation supports the auditor's conclusion)
+- [[1-standards/2-isa/isa-220-quality-management-audit]] — Quality Management for an Audit (documentation of quality management)
+- [[1-standards/1-isqm/isqm-2-engagement-quality-reviews]] — Engagement Quality Reviews (documentation of the review)
 
 ## References
 

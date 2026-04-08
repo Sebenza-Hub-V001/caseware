@@ -59,11 +59,11 @@ No specific Probe working paper mappings identified yet.
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-500]] — Audit evidence (written representations as audit evidence)
-- [[1-standards/2-isa/isa-540]] — Accounting estimates (representations about significant assumptions)
-- [[1-standards/2-isa/isa-550]] — Related parties (representations about completeness of related party disclosures)
-- [[1-standards/2-isa/isa-560]] — Subsequent events (representations about subsequent events)
-- [[1-standards/2-isa/isa-570]] — Going concern (representations about plans and feasibility)
+- [[1-standards/2-isa/isa-500-audit-evidence]] — Audit evidence (written representations as audit evidence)
+- [[1-standards/2-isa/isa-540-accounting-estimates]] — Accounting estimates (representations about significant assumptions)
+- [[1-standards/2-isa/isa-550-related-parties]] — Related parties (representations about completeness of related party disclosures)
+- [[1-standards/2-isa/isa-560-subsequent-events]] — Subsequent events (representations about subsequent events)
+- [[1-standards/2-isa/isa-570-going-concern]] — Going concern (representations about plans and feasibility)
 
 ## References
 

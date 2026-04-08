@@ -96,11 +96,11 @@ This working paper captures the results of risk assessment procedures performed 
 
 ## Completion Guidance
 
-- Complete after [[2-working-papers/2-pre-engagement-planning/10-20]] and [[2-working-papers/2-pre-engagement-planning/10-21]] but before detailed risk assessment
-- Answers drive the activation of specific COTABDs on [[2-working-papers/2-pre-engagement-planning/10-51]]
+- Complete after [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation]] and [[2-working-papers/2-pre-engagement-planning/10-21-engagement-letter]] but before detailed risk assessment
+- Answers drive the activation of specific COTABDs on [[2-working-papers/2-pre-engagement-planning/10-51-types-volumes-transactions]]
 - Q7 determines whether 10.51 documentation is per-COTABD or consolidated
 - Q8 determines whether 10.52 analytical procedures are used instead of simple comparisons
-- Q15-16 on key audit matters only apply if Q26 in [[2-working-papers/2-pre-engagement-planning/10-20]] is "Yes"
+- Q15-16 on key audit matters only apply if Q26 in [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation]] is "Yes"
 - Entity-level questions (Q19-43) identify transactions and events that require specific audit attention
 - Accounting questions (Q44-52) determine which accounting-related working papers are activated
 
@@ -115,12 +115,12 @@ Artifacts for working paper 10.50:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/2-pre-engagement-planning/10-20]] — Engagement evaluation (precondition)
-- [[2-working-papers/2-pre-engagement-planning/10-31]] — Discussions with those charged with governance (complementary inquiries)
-- [[2-working-papers/2-pre-engagement-planning/10-51]] — Types and volumes of transactions (detailed analysis driven by this document)
-- [[2-working-papers/2-pre-engagement-planning/10-55]] — IT environment (IT-related considerations)
-- [[2-working-papers/2-pre-engagement-planning/10-60]] — Overall materiality (materiality feeds into risk assessment)
-- [[2-working-papers/3-planning-risk-assessment/11-10]] — Risk analysis summary (aggregates risk from this document)
+- [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation]] — Engagement evaluation (precondition)
+- [[2-working-papers/2-pre-engagement-planning/10-31-discussions-with-tcwg]] — Discussions with those charged with governance (complementary inquiries)
+- [[2-working-papers/2-pre-engagement-planning/10-51-types-volumes-transactions]] — Types and volumes of transactions (detailed analysis driven by this document)
+- [[2-working-papers/2-pre-engagement-planning/10-55-understanding-it-environment]] — IT environment (IT-related considerations)
+- [[2-working-papers/2-pre-engagement-planning/10-60-overall-materiality]] — Overall materiality (materiality feeds into risk assessment)
+- [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]] — Risk analysis summary (aggregates risk from this document)
 
 - [[2-working-papers/2-pre-engagement-planning/index]]
 

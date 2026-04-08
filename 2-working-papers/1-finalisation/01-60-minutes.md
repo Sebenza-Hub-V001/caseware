@@ -69,9 +69,9 @@ Artifacts for working paper 01.60:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/1-finalisation/02-60]] -- Senior's Final Checklist (questions 51-52 on board approval)
-- [[2-working-papers/1-finalisation/02-50]] -- Consideration of Assurance Report (report date requirements)
-- [[2-working-papers/1-finalisation/02-92]] -- Letter of Representation (management responsibilities)
+- [[2-working-papers/1-finalisation/02-60-seniors-final-checklist]] -- Senior's Final Checklist (questions 51-52 on board approval)
+- [[2-working-papers/1-finalisation/02-50-assurance-report]] -- Consideration of Assurance Report (report date requirements)
+- [[2-working-papers/1-finalisation/02-92-letter-of-representation]] -- Letter of Representation (management responsibilities)
 
 - [[2-working-papers/1-finalisation/index]]
 

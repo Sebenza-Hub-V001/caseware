@@ -13,8 +13,8 @@ International Standards on Quality Management. Firm-level standards governing qu
 
 ## Standards
 
-- [[1-standards/1-isqm/isqm-1]]
-- [[1-standards/1-isqm/isqm-2]]
+- [[1-standards/1-isqm/isqm-1-quality-management-firms]]
+- [[1-standards/1-isqm/isqm-2-engagement-quality-reviews]]
 
 ## Other Standard Types
 

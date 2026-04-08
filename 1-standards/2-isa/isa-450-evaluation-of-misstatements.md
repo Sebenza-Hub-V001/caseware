@@ -18,7 +18,7 @@ The objective of the auditor is to evaluate: (Para. 3)
 
 ## Scope
 
-ISA 450 deals with the auditor's responsibility to evaluate the effect of identified misstatements on the audit and of uncorrected misstatements, if any, on the financial statements. It works in conjunction with [[1-standards/2-isa/isa-320]], which deals with the application of materiality in planning and performing the audit, and ISA 700 (Revised), which deals with forming the audit opinion. The auditor's conclusion under ISA 700 (Revised) takes into account the evaluation of uncorrected misstatements in accordance with this standard.
+ISA 450 deals with the auditor's responsibility to evaluate the effect of identified misstatements on the audit and of uncorrected misstatements, if any, on the financial statements. It works in conjunction with [[1-standards/2-isa/isa-320-materiality]], which deals with the application of materiality in planning and performing the audit, and ISA 700 (Revised), which deals with forming the audit opinion. The auditor's conclusion under ISA 700 (Revised) takes into account the evaluation of uncorrected misstatements in accordance with this standard.
 
 ## Key Requirements
 
@@ -29,7 +29,7 @@ ISA 450 deals with the auditor's responsibility to evaluate the effect of identi
 ### Consideration of Identified Misstatements as the Audit Progresses (Para. 6-7)
 - The auditor shall determine whether the overall audit strategy and audit plan need to be revised if:
   - The nature of identified misstatements indicates other misstatements may exist that, when aggregated, could be material; or
-  - The aggregate of accumulated misstatements approaches materiality determined in accordance with [[1-standards/2-isa/isa-320]]
+  - The aggregate of accumulated misstatements approaches materiality determined in accordance with [[1-standards/2-isa/isa-320-materiality]]
 - If management has examined a class of transactions, account balance or disclosure and corrected misstatements, the auditor shall perform additional procedures to determine whether misstatements remain.
 
 ### Communication and Correction of Misstatements (Para. 8-9)
@@ -37,7 +37,7 @@ ISA 450 deals with the auditor's responsibility to evaluate the effect of identi
 - If management refuses to correct some or all misstatements, the auditor shall obtain an understanding of management's reasons and take that into account when evaluating whether the financial statements are free from material misstatement.
 
 ### Evaluating the Effect of Uncorrected Misstatements (Para. 10-13)
-- Prior to evaluation, the auditor shall reassess materiality per [[1-standards/2-isa/isa-320]] to confirm it remains appropriate in the context of actual financial results.
+- Prior to evaluation, the auditor shall reassess materiality per [[1-standards/2-isa/isa-320-materiality]] to confirm it remains appropriate in the context of actual financial results.
 - The auditor shall determine whether uncorrected misstatements are material, individually or in aggregate, considering:
   - The size and nature of misstatements, both in relation to particular items and the financial statements as a whole, and the circumstances of their occurrence
   - The effect of uncorrected misstatements related to prior periods
@@ -71,10 +71,10 @@ The following CaseWare Probe working papers reference ISA 450:
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-320]] — Materiality in Planning and Performing an Audit (ISA 450 applies materiality in evaluating misstatements)
-- [[1-standards/2-isa/isa-300]] — Planning an Audit of Financial Statements (audit strategy may need revision based on misstatements)
-- [[1-standards/2-isa/isa-315]] — Identifying and Assessing the Risks of Material Misstatement
-- [[1-standards/2-isa/isa-330]] — The Auditor's Responses to Assessed Risks
+- [[1-standards/2-isa/isa-320-materiality]] — Materiality in Planning and Performing an Audit (ISA 450 applies materiality in evaluating misstatements)
+- [[1-standards/2-isa/isa-300-planning-an-audit]] — Planning an Audit of Financial Statements (audit strategy may need revision based on misstatements)
+- [[1-standards/2-isa/isa-315-risk-identification]] — Identifying and Assessing the Risks of Material Misstatement
+- [[1-standards/2-isa/isa-330-responses-to-assessed-risks]] — The Auditor's Responses to Assessed Risks
 - ISA 200 — Overall Objectives of the Independent Auditor
 - ISA 230 — Audit Documentation
 - ISA 240 — The Auditor's Responsibilities Relating to Fraud

@@ -88,8 +88,8 @@ Noted as a section but without pre-populated risks in the template.
 
 ## Completion Guidance
 - This is a 5-page document with distinct sections for the information system and for control activities.
-- The journal entry controls documented here are referenced by [[2-working-papers/3-planning-risk-assessment/11-25]] (fraud risk assessment) for the management override of controls risk.
-- For each revenue stream (up to 3), the auditor must either document the control addressing the presumed fraud risk or rebut the presumption with documented reasons (rebuttal is recorded on [[2-working-papers/3-planning-risk-assessment/11-60]]).
+- The journal entry controls documented here are referenced by [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment]] (fraud risk assessment) for the management override of controls risk.
+- For each revenue stream (up to 3), the auditor must either document the control addressing the presumed fraud risk or rebut the presumption with documented reasons (rebuttal is recorded on [[2-working-papers/3-planning-risk-assessment/11-60-risk-assessment-assertion-level]]).
 - The "Reliance intended?" column determines whether control testing will be performed, which flows into the audit strategy.
 - Two versions of this document exist in the source files (dated Dec 2025 and Mar 2026) — they are structurally identical. A third version exists as a Probe Audit Premium screenshot showing the working paper in its CaseWare interface context.
 
@@ -101,10 +101,10 @@ Artifacts for working paper 11.50:
 - CaseView source: [[raw/caseview-documents/3-planning-risk-assessment/11.50 Information System and Control Activities.pdf]]
 
 ## Related
-- [[2-working-papers/3-planning-risk-assessment/11-10]] — Risk Analysis Summary
-- [[2-working-papers/3-planning-risk-assessment/11-25]] — Fraud Risk Assessment (references journal entry controls documented here)
-- [[2-working-papers/3-planning-risk-assessment/11-30]] — Evaluation of System of Internal Control (broader control assessment)
-- [[2-working-papers/3-planning-risk-assessment/11-60]] — Risk Assessment at Assertion Level (revenue fraud risk rebuttal recorded there)
+- [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]] — Risk Analysis Summary
+- [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment]] — Fraud Risk Assessment (references journal entry controls documented here)
+- [[2-working-papers/3-planning-risk-assessment/11-30-internal-control-evaluation]] — Evaluation of System of Internal Control (broader control assessment)
+- [[2-working-papers/3-planning-risk-assessment/11-60-risk-assessment-assertion-level]] — Risk Assessment at Assertion Level (revenue fraud risk rebuttal recorded there)
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]

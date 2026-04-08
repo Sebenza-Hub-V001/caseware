@@ -149,7 +149,7 @@ This working paper is the standard engagement letter template used to formalise 
 
 - The letter is largely a template with merge fields populated from the Info Store (entity name, framework, etc.)
 - Customise the addressee, entity name, and financial reporting framework references
-- Ensure alignment with decisions made in [[2-working-papers/2-pre-engagement-planning/10-20]] (engagement type, PIE status, services scope)
+- Ensure alignment with decisions made in [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation]] (engagement type, PIE status, services scope)
 - Key audit matters paragraph only applies if Q26 in 10.20 is "Yes" (PIE entities)
 - Replace all "Name of practice / firm" placeholders with the actual firm name
 - Obtain signed copy from client before commencing substantive work
@@ -166,8 +166,8 @@ Artifacts for working paper 10.21:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/2-pre-engagement-planning/10-20]] — Engagement evaluation (drives terms and scope)
-- [[2-working-papers/2-pre-engagement-planning/10-31]] — Discussions with those charged with governance
+- [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation]] — Engagement evaluation (drives terms and scope)
+- [[2-working-papers/2-pre-engagement-planning/10-31-discussions-with-tcwg]] — Discussions with those charged with governance
 
 - [[2-working-papers/2-pre-engagement-planning/index]]
 

@@ -72,11 +72,11 @@ The degree of estimation uncertainty varies substantially across accounting esti
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-500]] — Audit evidence
-- [[1-standards/2-isa/isa-520]] — Analytical procedures
-- [[1-standards/2-isa/isa-540]] — (Self)
-- [[1-standards/2-isa/isa-580]] — Written representations
-- [[1-standards/2-isa/isa-620]] — Using the work of an auditor's expert
+- [[1-standards/2-isa/isa-500-audit-evidence]] — Audit evidence
+- [[1-standards/2-isa/isa-520-analytical-procedures]] — Analytical procedures
+- [[1-standards/2-isa/isa-540-accounting-estimates]] — (Self)
+- [[1-standards/2-isa/isa-580-written-representations]] — Written representations
+- [[1-standards/2-isa/isa-620-auditors-expert]] — Using the work of an auditor's expert
 
 ## References
 

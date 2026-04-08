@@ -15,7 +15,7 @@ status: active
 
 ## Purpose
 
-The Planning Memorandum (12.30) is the narrative backbone of the audit planning phase. This 7-page document consolidates entity information, the audit strategy, a summary audit plan by line item, planning meeting notes, other significant discussions, and the engagement partner's declaration. It provides the context and rationale behind the audit approach documented in [[2-working-papers/4-audit-planning/12-20]].
+The Planning Memorandum (12.30) is the narrative backbone of the audit planning phase. This 7-page document consolidates entity information, the audit strategy, a summary audit plan by line item, planning meeting notes, other significant discussions, and the engagement partner's declaration. It provides the context and rationale behind the audit approach documented in [[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy]].
 
 ## Key Fields & Sections
 
@@ -109,7 +109,7 @@ Ends with: Firm mandatory items, engagement partner name, signature, and date.
 
 ## Completion Guidance
 
-- This document is best completed after the risk assessment (section 11) and the audit plan and strategy ([[2-working-papers/4-audit-planning/12-20]]) are substantially done, as it draws on those outputs.
+- This document is best completed after the risk assessment (section 11) and the audit plan and strategy ([[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy]]) are substantially done, as it draws on those outputs.
 - The entity information section (Q1-8) should be reviewed and updated each year — do not simply roll forward prior year information.
 - The planning meeting notes (Q40-55) should be documented contemporaneously during or immediately after the planning meeting.
 - The engagement partner declaration (Q57-73) is a critical sign-off — the partner must personally review and sign, not delegate this.
@@ -151,11 +151,11 @@ Artifacts for working paper 12.30:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/4-audit-planning/12-10]] — Manager Planning Checklist (reviews all planning working papers)
-- [[2-working-papers/4-audit-planning/12-20]] — Audit Plan and Strategy (detailed assertion-level plan)
-- [[2-working-papers/4-audit-planning/12-21]] — Using Internal Audit (referenced in Q56)
-- [[2-working-papers/4-audit-planning/12-22]] — Use of Resources (referenced in Q66)
-- [[2-working-papers/4-audit-planning/12-40]] — Engagement Quality Review - Planning
+- [[2-working-papers/4-audit-planning/12-10-manager-planning-checklist]] — Manager Planning Checklist (reviews all planning working papers)
+- [[2-working-papers/4-audit-planning/12-20-audit-plan-and-strategy]] — Audit Plan and Strategy (detailed assertion-level plan)
+- [[2-working-papers/4-audit-planning/12-21-using-internal-audit]] — Using Internal Audit (referenced in Q56)
+- [[2-working-papers/4-audit-planning/12-22-use-of-resources]] — Use of Resources (referenced in Q66)
+- [[2-working-papers/4-audit-planning/12-40-eqr-planning]] — Engagement Quality Review - Planning
 
 - [[2-working-papers/4-audit-planning/index]]
 

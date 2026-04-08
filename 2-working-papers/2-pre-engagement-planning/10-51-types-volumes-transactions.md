@@ -103,9 +103,9 @@ Each COTABD section follows a consistent format:
 - Review each COTABD systematically; do not skip sections even if balances are zero (new transactions may arise)
 - The "Identify possible ROMM" steps are standardised but the comments should be entity-specific
 - Estimated value of transactions should be populated based on inquiries and analytical review
-- Decision on whether to document per-COTABD or consolidated is made at Q7 in [[2-working-papers/2-pre-engagement-planning/10-50]]
-- Q8 in [[2-working-papers/2-pre-engagement-planning/10-50]] determines whether 10.52 analytical procedures supplement or replace this document
-- Risk indicators from this document feed into [[2-working-papers/3-planning-risk-assessment/11-10]] and the inherent risk assessment at [[2-working-papers/3-planning-risk-assessment/11-20]]
+- Decision on whether to document per-COTABD or consolidated is made at Q7 in [[2-working-papers/2-pre-engagement-planning/10-50-gathering-information]]
+- Q8 in [[2-working-papers/2-pre-engagement-planning/10-50-gathering-information]] determines whether 10.52 analytical procedures supplement or replace this document
+- Risk indicators from this document feed into [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]] and the inherent risk assessment at [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment]]
 - Focus attention on COTABDs with large percentage changes, unusual accounts, or new categories
 
 ## Probe Project
@@ -119,10 +119,10 @@ Artifacts for working paper 10.51:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/2-pre-engagement-planning/10-50]] — Gathering information (drives scope and documentation approach)
-- [[2-working-papers/2-pre-engagement-planning/10-60]] — Overall materiality (materiality benchmarks for significance)
-- [[2-working-papers/3-planning-risk-assessment/11-10]] — Risk analysis summary (ROMM identified here flows to risk analysis)
-- [[2-working-papers/3-planning-risk-assessment/11-20]] — Inherent risk assessment (inherent risk per COTABD)
+- [[2-working-papers/2-pre-engagement-planning/10-50-gathering-information]] — Gathering information (drives scope and documentation approach)
+- [[2-working-papers/2-pre-engagement-planning/10-60-overall-materiality]] — Overall materiality (materiality benchmarks for significance)
+- [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]] — Risk analysis summary (ROMM identified here flows to risk analysis)
+- [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment]] — Inherent risk assessment (inherent risk per COTABD)
 
 - [[2-working-papers/2-pre-engagement-planning/index]]
 

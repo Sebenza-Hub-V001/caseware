@@ -116,10 +116,10 @@ Artifacts for working paper 12.20:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/4-audit-planning/12-10]] — Manager Planning Checklist (reviews this document)
-- [[2-working-papers/4-audit-planning/12-30]] — Planning Memorandum (summarises the audit plan)
-- [[2-working-papers/4-audit-planning/12-21]] — Using Internal Audit (if internal audit work is planned)
-- [[2-working-papers/4-audit-planning/12-40]] — Engagement Quality Review - Planning
+- [[2-working-papers/4-audit-planning/12-10-manager-planning-checklist]] — Manager Planning Checklist (reviews this document)
+- [[2-working-papers/4-audit-planning/12-30-planning-memorandum]] — Planning Memorandum (summarises the audit plan)
+- [[2-working-papers/4-audit-planning/12-21-using-internal-audit]] — Using Internal Audit (if internal audit work is planned)
+- [[2-working-papers/4-audit-planning/12-40-eqr-planning]] — Engagement Quality Review - Planning
 
 - [[2-working-papers/4-audit-planning/index]]
 

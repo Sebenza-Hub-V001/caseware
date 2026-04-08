@@ -90,13 +90,13 @@ This working paper is a structured questionnaire used to document discussions wi
 
 ## Completion Guidance
 
-- This questionnaire should be completed during the planning phase, ideally before or alongside [[2-working-papers/2-pre-engagement-planning/10-50]]
-- The interviewee should be a director or member of the board (Those Charged with Governance as defined in [[2-working-papers/2-pre-engagement-planning/10-20]])
+- This questionnaire should be completed during the planning phase, ideally before or alongside [[2-working-papers/2-pre-engagement-planning/10-50-gathering-information]]
+- The interviewee should be a director or member of the board (Those Charged with Governance as defined in [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation]])
 - Can be completed electronically; the interviewee's responses are recorded in the Response column
 - The auditor must document their own assessment in the Auditor's Response column
-- Risk indicators should be flagged for items that feed into [[2-working-papers/3-planning-risk-assessment/11-10]] and [[2-working-papers/3-planning-risk-assessment/11-20]]
-- Fraud section responses feed directly into the fraud risk assessment at [[2-working-papers/3-planning-risk-assessment/11-25]]
-- IT environment responses inform [[2-working-papers/2-pre-engagement-planning/10-55]]
+- Risk indicators should be flagged for items that feed into [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]] and [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment]]
+- Fraud section responses feed directly into the fraud risk assessment at [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment]]
+- IT environment responses inform [[2-working-papers/2-pre-engagement-planning/10-55-understanding-it-environment]]
 - This is a .docx document (not CaseView) and lives outside the CaseWare file structure
 
 ## Probe Project
@@ -110,10 +110,10 @@ Artifacts for working paper 10.31:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/2-pre-engagement-planning/10-20]] — Engagement evaluation (defines who "those charged with governance" are)
-- [[2-working-papers/2-pre-engagement-planning/10-50]] — Gathering information (complementary risk assessment procedures)
-- [[2-working-papers/2-pre-engagement-planning/10-55]] — IT environment (IT section feeds into this)
-- [[2-working-papers/3-planning-risk-assessment/11-10]] — Risk analysis summary (risk indicators flow here)
+- [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation]] — Engagement evaluation (defines who "those charged with governance" are)
+- [[2-working-papers/2-pre-engagement-planning/10-50-gathering-information]] — Gathering information (complementary risk assessment procedures)
+- [[2-working-papers/2-pre-engagement-planning/10-55-understanding-it-environment]] — IT environment (IT section feeds into this)
+- [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]] — Risk analysis summary (risk indicators flow here)
 
 - [[2-working-papers/2-pre-engagement-planning/index]]
 

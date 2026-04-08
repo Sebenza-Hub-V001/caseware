@@ -44,17 +44,17 @@ ISA 260 (Revised) deals with the auditor's responsibility to communicate with th
 
 | Working Paper | Relevance |
 |---|---|
-| [[2-working-papers/2-pre-engagement-planning/10-31]] | Planning — communication with those charged with governance |
-| [[2-working-papers/4-audit-planning/12-30]] | Direction, supervision and review — governance communications |
+| [[2-working-papers/2-pre-engagement-planning/10-31-discussions-with-tcwg]] | Planning — communication with those charged with governance |
+| [[2-working-papers/4-audit-planning/12-30-planning-memorandum]] | Direction, supervision and review — governance communications |
 
 ## Related Standards
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-200]] — Overall Objectives (the overall framework)
-- [[1-standards/2-isa/isa-240]] — Fraud (communication of fraud matters to those charged with governance)
-- [[1-standards/2-isa/isa-250]] — Laws and Regulations (communication of non-compliance)
-- [[1-standards/2-isa/isa-265]] — Communicating Deficiencies in Internal Control
+- [[1-standards/2-isa/isa-200-overall-objectives]] — Overall Objectives (the overall framework)
+- [[1-standards/2-isa/isa-240-fraud]] — Fraud (communication of fraud matters to those charged with governance)
+- [[1-standards/2-isa/isa-250-laws-and-regulations]] — Laws and Regulations (communication of non-compliance)
+- [[1-standards/2-isa/isa-265-internal-control-deficiencies]] — Communicating Deficiencies in Internal Control
 
 ## References
 

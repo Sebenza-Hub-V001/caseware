@@ -120,10 +120,10 @@ Artifacts for working paper 02.50:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/1-finalisation/02-55]] -- Key Audit Matters (detailed KAM determination)
-- [[2-working-papers/1-finalisation/02-20]] -- Going Concern Conclusion (feeds into questions 14-15)
-- [[2-working-papers/1-finalisation/02-40]] -- Evaluation of Misstatements (feeds into question 1)
-- [[2-working-papers/1-finalisation/02-00]] -- Partner Sign-Off
+- [[2-working-papers/1-finalisation/02-55-key-audit-matters]] -- Key Audit Matters (detailed KAM determination)
+- [[2-working-papers/1-finalisation/02-20-going-concern]] -- Going Concern Conclusion (feeds into questions 14-15)
+- [[2-working-papers/1-finalisation/02-40-evaluation-of-misstatements]] -- Evaluation of Misstatements (feeds into question 1)
+- [[2-working-papers/1-finalisation/02-00-partner-sign-off]] -- Partner Sign-Off
 
 - [[2-working-papers/1-finalisation/index]]
 

@@ -13,8 +13,8 @@ Standards for review engagements including historical financial statements (ISRE
 
 ## Standards
 
-- [[1-standards/3-isre/isre-2400]]
-- [[1-standards/3-isre/isre-2410]]
+- [[1-standards/3-isre/isre-2400-review-historical-fs]]
+- [[1-standards/3-isre/isre-2410-review-interim-info]]
 
 ## Other Standard Types
 

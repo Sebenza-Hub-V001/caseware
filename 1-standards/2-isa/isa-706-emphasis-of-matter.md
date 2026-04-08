@@ -21,15 +21,15 @@ The objective of the auditor, having formed an opinion on the financial statemen
 
 ISA 706 (Revised) deals with additional communication in the auditor's report beyond what is required by other ISAs. It addresses Emphasis of Matter paragraphs (drawing attention to matters in the financial statements) and Other Matter paragraphs (drawing attention to matters not in the financial statements but relevant to understanding the audit or report).
 
-When the auditor includes a Key Audit Matters section per [[1-standards/2-isa/isa-701]], this ISA addresses the relationship between key audit matters and these additional paragraphs. Several other ISAs contain specific requirements for Emphasis of Matter or Other Matter paragraphs (listed in Appendices 1 and 2 of the standard).
+When the auditor includes a Key Audit Matters section per [[1-standards/2-isa/isa-701-key-audit-matters]], this ISA addresses the relationship between key audit matters and these additional paragraphs. Several other ISAs contain specific requirements for Emphasis of Matter or Other Matter paragraphs (listed in Appendices 1 and 2 of the standard).
 
 ## Key Requirements
 
 ### Emphasis of Matter Paragraphs (paras 8-9)
 
 - **When to include:** If the auditor considers it necessary to draw users' attention to a matter presented or disclosed in the financial statements that is fundamental to users' understanding, provided:
-  - The matter would not require a modified opinion under [[1-standards/2-isa/isa-705]]; and
-  - When [[1-standards/2-isa/isa-701]] applies, the matter has not been determined to be a key audit matter.
+  - The matter would not require a modified opinion under [[1-standards/2-isa/isa-705-modified-opinions]]; and
+  - When [[1-standards/2-isa/isa-701-key-audit-matters]] applies, the matter has not been determined to be a key audit matter.
 - **Form requirements:**
   - Include in a separate section with a heading that includes the term "Emphasis of Matter"
   - Include a clear reference to the matter being emphasised and to relevant disclosures in the financial statements
@@ -40,7 +40,7 @@ When the auditor includes a Key Audit Matters section per [[1-standards/2-isa/is
 
 - **When to include:** If the auditor considers it necessary to communicate a matter other than those presented or disclosed in the financial statements that is relevant to users' understanding of the audit, the auditor's responsibilities, or the auditor's report, provided:
   - Not prohibited by law or regulation; and
-  - When [[1-standards/2-isa/isa-701]] applies, the matter has not been determined to be a key audit matter.
+  - When [[1-standards/2-isa/isa-701-key-audit-matters]] applies, the matter has not been determined to be a key audit matter.
 - **Form requirements:** Include in a separate section with the heading "Other Matter" or other appropriate heading.
 
 ### Communication with Those Charged with Governance (para 12)
@@ -60,17 +60,17 @@ When the auditor includes a Key Audit Matters section per [[1-standards/2-isa/is
 
 ## Application to Probe Working Papers
 
-No specific Probe working papers are currently mapped to ISA 706. The standard's requirements would be applied through [[2-working-papers/1-finalisation/02-50]] (Consideration of Assurance Report) when additional paragraphs are needed in the auditor's report.
+No specific Probe working papers are currently mapped to ISA 706. The standard's requirements would be applied through [[2-working-papers/1-finalisation/02-50-assurance-report]] (Consideration of Assurance Report) when additional paragraphs are needed in the auditor's report.
 
 ## Related Standards
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-700]] — Forming an Opinion and Reporting (base reporting requirements)
-- [[1-standards/2-isa/isa-701]] — Key Audit Matters (relationship between KAM and EOM/OM paragraphs)
-- [[1-standards/2-isa/isa-705]] — Modifications to the Opinion (EOM not used when modification required)
-- [[1-standards/2-isa/isa-800]] — Special Purpose Frameworks (requires EOM paragraph alerting readers)
-- [[1-standards/2-isa/isa-810]] — Summary Financial Statements
+- [[1-standards/2-isa/isa-700-forming-an-opinion]] — Forming an Opinion and Reporting (base reporting requirements)
+- [[1-standards/2-isa/isa-701-key-audit-matters]] — Key Audit Matters (relationship between KAM and EOM/OM paragraphs)
+- [[1-standards/2-isa/isa-705-modified-opinions]] — Modifications to the Opinion (EOM not used when modification required)
+- [[1-standards/2-isa/isa-800-special-purpose-frameworks]] — Special Purpose Frameworks (requires EOM paragraph alerting readers)
+- [[1-standards/2-isa/isa-810-summary-financial-statements]] — Summary Financial Statements
 - [[concepts/isa-standards]] — Overview of ISA standards mapped to working papers
 
 ## References

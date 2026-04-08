@@ -82,8 +82,8 @@ Artifacts for working paper 02.05:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/1-finalisation/02-00]] -- Partner Sign-Off (includes engagement partner declaration)
-- [[2-working-papers/1-finalisation/02-80]] -- Engagement Quality Review
+- [[2-working-papers/1-finalisation/02-00-partner-sign-off]] -- Partner Sign-Off (includes engagement partner declaration)
+- [[2-working-papers/1-finalisation/02-80-eqr-execution-finalisation]] -- Engagement Quality Review
 
 - [[2-working-papers/1-finalisation/index]]
 

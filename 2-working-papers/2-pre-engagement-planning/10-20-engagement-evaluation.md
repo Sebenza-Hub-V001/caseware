@@ -104,8 +104,8 @@ This working paper documents the evaluation of whether to accept or continue an 
 ## Completion Guidance
 
 - Work through all questions sequentially; answers to earlier questions (e.g. PIE status at Q25) drive later requirements (e.g. key audit matters at Q26)
-- The going concern assessment here is preliminary (planning stage); it feeds into the more detailed assessment at [[2-working-papers/1-finalisation/02-20]]
-- The desired audit risk set in the conclusion flows through to [[2-working-papers/2-pre-engagement-planning/10-60]] (materiality) and [[2-working-papers/3-planning-risk-assessment/11-10]] (risk analysis)
+- The going concern assessment here is preliminary (planning stage); it feeds into the more detailed assessment at [[2-working-papers/1-finalisation/02-20-going-concern]]
+- The desired audit risk set in the conclusion flows through to [[2-working-papers/2-pre-engagement-planning/10-60-overall-materiality]] (materiality) and [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]] (risk analysis)
 - Ethical requirements section should be completed in conjunction with the firm's independence register
 - EQR decision triggers additional sign-off roles throughout the file
 
@@ -120,9 +120,9 @@ Artifacts for working paper 10.20:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/2-pre-engagement-planning/10-21]] — Engagement letter (terms referenced in Q31-32)
-- [[2-working-papers/2-pre-engagement-planning/10-60]] — Overall materiality (uses desired audit risk from this document)
-- [[2-working-papers/3-planning-risk-assessment/11-10]] — Risk analysis summary (uses risk settings from this document)
+- [[2-working-papers/2-pre-engagement-planning/10-21-engagement-letter]] — Engagement letter (terms referenced in Q31-32)
+- [[2-working-papers/2-pre-engagement-planning/10-60-overall-materiality]] — Overall materiality (uses desired audit risk from this document)
+- [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]] — Risk analysis summary (uses risk settings from this document)
 
 - [[2-working-papers/2-pre-engagement-planning/index]]
 

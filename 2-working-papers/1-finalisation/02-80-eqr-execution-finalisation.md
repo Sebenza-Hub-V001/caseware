@@ -121,10 +121,10 @@ Artifacts for working paper 02.80:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/1-finalisation/02-00]] -- Partner Sign-Off (includes EQR-related questions for the partner)
-- [[2-working-papers/1-finalisation/02-05]] -- Engagement Team Declaration
-- [[2-working-papers/1-finalisation/02-70]] -- Manager's Final Checklist
-- [[2-working-papers/1-finalisation/02-50]] -- Consideration of Assurance Report
+- [[2-working-papers/1-finalisation/02-00-partner-sign-off]] -- Partner Sign-Off (includes EQR-related questions for the partner)
+- [[2-working-papers/1-finalisation/02-05-engagement-team-declaration]] -- Engagement Team Declaration
+- [[2-working-papers/1-finalisation/02-70-managers-final-checklist]] -- Manager's Final Checklist
+- [[2-working-papers/1-finalisation/02-50-assurance-report]] -- Consideration of Assurance Report
 
 - [[2-working-papers/1-finalisation/index]]
 

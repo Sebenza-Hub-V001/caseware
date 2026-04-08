@@ -82,9 +82,9 @@ Artifacts for working paper 02.55:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/1-finalisation/02-50]] -- Consideration of Assurance Report (KAM section of the report)
-- [[2-working-papers/1-finalisation/02-00]] -- Partner Sign-Off
-- [[2-working-papers/1-finalisation/02-90]] -- Report to Management (potential KAMs section)
+- [[2-working-papers/1-finalisation/02-50-assurance-report]] -- Consideration of Assurance Report (KAM section of the report)
+- [[2-working-papers/1-finalisation/02-00-partner-sign-off]] -- Partner Sign-Off
+- [[2-working-papers/1-finalisation/02-90-report-to-management]] -- Report to Management (potential KAMs section)
 
 - [[2-working-papers/1-finalisation/index]]
 

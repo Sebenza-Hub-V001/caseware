@@ -23,7 +23,7 @@ The objectives of the service auditor are to obtain reasonable assurance about w
 This ISAE deals with assurance engagements undertaken by a service auditor to provide a report for use by **user entities and their auditors** on the controls at a service organization that provides a service likely to be relevant to user entities' internal control as it relates to financial reporting.
 
 Key scope points:
-- Complements [[1-standards/2-isa/isa-315]] and ISA 402, as reports under this ISAE provide evidence usable under ISA 402
+- Complements [[1-standards/2-isa/isa-315-risk-identification]] and ISA 402, as reports under this ISAE provide evidence usable under ISA 402
 - Deals only with **reasonable assurance attestation engagements**
 - Applies only when the service organization is responsible for, or able to make a statement about, the suitable design of controls
 - Does **not** deal with:
@@ -76,9 +76,9 @@ This standard is not currently referenced by Probe working papers directly, but 
 
 - [[1-standards/4-isae/index]]
 
-- [[1-standards/4-isae/isae-3000]] — Overarching assurance standard (applies alongside this ISAE)
-- [[1-standards/2-isa/isa-315]] — Identifying and assessing risks of material misstatement (user auditor perspective)
-- [[1-standards/1-isqm/isqm-1]] — Firm-level quality management
+- [[1-standards/4-isae/isae-3000-assurance-engagements]] — Overarching assurance standard (applies alongside this ISAE)
+- [[1-standards/2-isa/isa-315-risk-identification]] — Identifying and assessing risks of material misstatement (user auditor perspective)
+- [[1-standards/1-isqm/isqm-1-quality-management-firms]] — Firm-level quality management
 
 ## References
 

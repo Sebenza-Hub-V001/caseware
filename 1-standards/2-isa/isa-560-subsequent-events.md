@@ -54,8 +54,8 @@ This ISA deals with the auditor's responsibilities relating to subsequent events
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-570]] — Going concern (subsequent events may affect going concern assessment)
-- [[1-standards/2-isa/isa-580]] — Written representations (required for subsequent events)
+- [[1-standards/2-isa/isa-570-going-concern]] — Going concern (subsequent events may affect going concern assessment)
+- [[1-standards/2-isa/isa-580-written-representations]] — Written representations (required for subsequent events)
 
 ## References
 

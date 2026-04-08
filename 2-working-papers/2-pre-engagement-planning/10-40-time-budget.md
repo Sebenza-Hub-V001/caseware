@@ -42,10 +42,10 @@ This working paper records the planned time budget for the audit engagement, inc
 ## Completion Guidance
 
 - This is a single-page document with minimal structure in the template
-- Populate the planned hours by audit area/team member based on the risk assessment and engagement complexity determined in [[2-working-papers/2-pre-engagement-planning/10-20]]
-- The budget should reflect the desired audit risk level and materiality set in [[2-working-papers/2-pre-engagement-planning/10-60]]
+- Populate the planned hours by audit area/team member based on the risk assessment and engagement complexity determined in [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation]]
+- The budget should reflect the desired audit risk level and materiality set in [[2-working-papers/2-pre-engagement-planning/10-60-overall-materiality]]
 - Compare against prior year to identify significant changes and ensure adequate resourcing
-- The fee estimate in the engagement letter ([[2-working-papers/2-pre-engagement-planning/10-21]]) should be consistent with this budget
+- The fee estimate in the engagement letter ([[2-working-papers/2-pre-engagement-planning/10-21-engagement-letter]]) should be consistent with this budget
 - Update if the audit plan changes materially during fieldwork
 
 ## Probe Project
@@ -59,8 +59,8 @@ Artifacts for working paper 10.40:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/2-pre-engagement-planning/10-20]] — Engagement evaluation (engagement complexity drives budget)
-- [[2-working-papers/2-pre-engagement-planning/10-21]] — Engagement letter (fee estimates should align)
+- [[2-working-papers/2-pre-engagement-planning/10-20-engagement-evaluation]] — Engagement evaluation (engagement complexity drives budget)
+- [[2-working-papers/2-pre-engagement-planning/10-21-engagement-letter]] — Engagement letter (fee estimates should align)
 
 - [[2-working-papers/2-pre-engagement-planning/index]]
 

@@ -33,15 +33,15 @@ ISA 265 deals with the auditor's responsibility to communicate appropriately to 
 
 ## Application to Probe Working Papers
 
-ISA 265 is not explicitly mapped to specific Probe working papers in the current ISA-to-working-paper map, but its requirements are relevant wherever the auditor documents internal control deficiencies. It connects to the control evaluation work performed in working papers related to ISA 315 and ISA 330, and the governance communications documented under [[1-standards/2-isa/isa-260]].
+ISA 265 is not explicitly mapped to specific Probe working papers in the current ISA-to-working-paper map, but its requirements are relevant wherever the auditor documents internal control deficiencies. It connects to the control evaluation work performed in working papers related to ISA 315 and ISA 330, and the governance communications documented under [[1-standards/2-isa/isa-260-communication-with-tcwg]].
 
 ## Related Standards
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-200]] — Overall Objectives
-- [[1-standards/2-isa/isa-260]] — Communication with Those Charged with Governance (broader communication framework)
-- [[1-standards/2-isa/isa-240]] — Fraud (fraud-related control deficiencies)
+- [[1-standards/2-isa/isa-200-overall-objectives]] — Overall Objectives
+- [[1-standards/2-isa/isa-260-communication-with-tcwg]] — Communication with Those Charged with Governance (broader communication framework)
+- [[1-standards/2-isa/isa-240-fraud]] — Fraud (fraud-related control deficiencies)
 
 ## References
 

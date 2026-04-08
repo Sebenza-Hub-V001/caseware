@@ -16,7 +16,7 @@ The objective of the auditor is to apply the concept of materiality appropriatel
 
 ## Scope
 
-ISA 320 deals with the auditor's responsibility to apply the concept of materiality in planning and performing an audit of financial statements. It covers the determination of materiality for the financial statements as a whole, materiality levels for particular classes of transactions, account balances or disclosures, and performance materiality. The standard works in conjunction with [[1-standards/2-isa/isa-450]], which explains how materiality is applied in evaluating identified misstatements. The auditor's determination of materiality is a matter of professional judgment, affected by the auditor's perception of the financial information needs of users.
+ISA 320 deals with the auditor's responsibility to apply the concept of materiality in planning and performing an audit of financial statements. It covers the determination of materiality for the financial statements as a whole, materiality levels for particular classes of transactions, account balances or disclosures, and performance materiality. The standard works in conjunction with [[1-standards/2-isa/isa-450-evaluation-of-misstatements]], which explains how materiality is applied in evaluating identified misstatements. The auditor's determination of materiality is a matter of professional judgment, affected by the auditor's perception of the financial information needs of users.
 
 ## Key Requirements
 
@@ -56,10 +56,10 @@ The following CaseWare Probe working papers reference ISA 320:
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-300]] — Planning an Audit of Financial Statements (materiality determination is part of planning)
-- [[1-standards/2-isa/isa-315]] — Identifying and Assessing the Risks of Material Misstatement (materiality informs risk identification)
-- [[1-standards/2-isa/isa-330]] — The Auditor's Responses to Assessed Risks (materiality affects the nature, timing and extent of further procedures)
-- [[1-standards/2-isa/isa-450]] — Evaluation of Misstatements Identified during the Audit (applies materiality in evaluating misstatements)
+- [[1-standards/2-isa/isa-300-planning-an-audit]] — Planning an Audit of Financial Statements (materiality determination is part of planning)
+- [[1-standards/2-isa/isa-315-risk-identification]] — Identifying and Assessing the Risks of Material Misstatement (materiality informs risk identification)
+- [[1-standards/2-isa/isa-330-responses-to-assessed-risks]] — The Auditor's Responses to Assessed Risks (materiality affects the nature, timing and extent of further procedures)
+- [[1-standards/2-isa/isa-450-evaluation-of-misstatements]] — Evaluation of Misstatements Identified during the Audit (applies materiality in evaluating misstatements)
 - ISA 200 — Overall Objectives of the Independent Auditor
 - ISA 700 (Revised) — Forming an Opinion and Reporting on Financial Statements
 

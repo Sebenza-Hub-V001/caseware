@@ -99,9 +99,9 @@ Artifacts for working paper 02.22:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/1-finalisation/02-20]] -- Going Concern Conclusion
-- [[2-working-papers/1-finalisation/02-40]] -- Evaluation of Misstatements (solvency impact)
-- [[2-working-papers/1-finalisation/02-50]] -- Consideration of Assurance Report (opinion implications)
+- [[2-working-papers/1-finalisation/02-20-going-concern]] -- Going Concern Conclusion
+- [[2-working-papers/1-finalisation/02-40-evaluation-of-misstatements]] -- Evaluation of Misstatements (solvency impact)
+- [[2-working-papers/1-finalisation/02-50-assurance-report]] -- Consideration of Assurance Report (opinion implications)
 
 - [[2-working-papers/1-finalisation/index]]
 

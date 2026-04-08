@@ -90,11 +90,11 @@ Artifacts for working paper 02.20:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/1-finalisation/02-10]] -- Subsequent Events Work Program (procedure 3 on going concern beyond initial assessment)
-- [[2-working-papers/1-finalisation/02-22]] -- Subordination Agreement Work Program (going concern implications)
-- [[2-working-papers/1-finalisation/02-30]] -- Overall Analytical Review (cash flow / liquidity indicators)
-- [[2-working-papers/1-finalisation/02-50]] -- Consideration of Assurance Report (going concern impact on opinion)
-- [[2-working-papers/1-finalisation/02-92]] -- Letter of Representation (section 6 on going concern)
+- [[2-working-papers/1-finalisation/02-10-subsequent-events]] -- Subsequent Events Work Program (procedure 3 on going concern beyond initial assessment)
+- [[2-working-papers/1-finalisation/02-22-subordination-agreement]] -- Subordination Agreement Work Program (going concern implications)
+- [[2-working-papers/1-finalisation/02-30-overall-analytical-review]] -- Overall Analytical Review (cash flow / liquidity indicators)
+- [[2-working-papers/1-finalisation/02-50-assurance-report]] -- Consideration of Assurance Report (going concern impact on opinion)
+- [[2-working-papers/1-finalisation/02-92-letter-of-representation]] -- Letter of Representation (section 6 on going concern)
 
 - [[2-working-papers/1-finalisation/index]]
 

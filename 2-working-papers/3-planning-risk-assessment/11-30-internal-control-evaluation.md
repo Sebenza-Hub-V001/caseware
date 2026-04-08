@@ -93,7 +93,7 @@ Each item has columns for: Description of processes, Explanation of how understa
 - The control environment assessment at items 13-16 provides critical conclusions that affect the overall audit approach.
 - The risk assessment process section (items 17-26) specifically addresses how management deals with accounting estimates and fraud risk.
 - The monitoring section (items 27-31) covers both manual and IT-based controls.
-- The overall conclusion at item 33 provides the control risk at financial statement level, which flows to [[2-working-papers/3-planning-risk-assessment/11-10]].
+- The overall conclusion at item 33 provides the control risk at financial statement level, which flows to [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]].
 
 ## How-To Document Summary
 
@@ -127,11 +127,11 @@ Artifacts for working paper 11.30:
 - How-To V5 draft: [[raw/how-to-drafts/3-planning-risk-assessment/How-To 11.30 Evaluation of System of Internal Control V5_new.docx]]
 
 ## Related
-- [[2-working-papers/3-planning-risk-assessment/11-10]] — Risk Analysis Summary (receives the control risk assessment)
-- [[2-working-papers/3-planning-risk-assessment/11-20]] — Inherent Risk Assessment (complementary — entity understanding)
-- [[2-working-papers/3-planning-risk-assessment/11-25]] — Fraud Risk Assessment (items 23-25 here address fraud risk processes)
-- [[2-working-papers/3-planning-risk-assessment/11-50]] — Information System and Control Activities (detailed information system assessment)
-- [[2-working-papers/3-planning-risk-assessment/11-60]] — Risk Assessment at Assertion Level (control assessments inform assertion-level risks)
+- [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]] — Risk Analysis Summary (receives the control risk assessment)
+- [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment]] — Inherent Risk Assessment (complementary — entity understanding)
+- [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment]] — Fraud Risk Assessment (items 23-25 here address fraud risk processes)
+- [[2-working-papers/3-planning-risk-assessment/11-50-information-system-controls]] — Information System and Control Activities (detailed information system assessment)
+- [[2-working-papers/3-planning-risk-assessment/11-60-risk-assessment-assertion-level]] — Risk Assessment at Assertion Level (control assessments inform assertion-level risks)
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]

@@ -51,9 +51,9 @@ No specific Probe working paper mappings identified yet.
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-500]] — General audit evidence requirements
-- [[1-standards/2-isa/isa-505]] — External confirmations
-- [[1-standards/2-isa/isa-580]] — Written representations (for litigation and claims representations)
+- [[1-standards/2-isa/isa-500-audit-evidence]] — General audit evidence requirements
+- [[1-standards/2-isa/isa-505-external-confirmations]] — External confirmations
+- [[1-standards/2-isa/isa-580-written-representations]] — Written representations (for litigation and claims representations)
 
 ## References
 

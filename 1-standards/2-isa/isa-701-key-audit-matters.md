@@ -58,16 +58,16 @@ Communicating key audit matters is not a substitute for: disclosures required by
 
 ## Application to Probe Working Papers
 
-- [[2-working-papers/1-finalisation/02-00]] — Partner Sign-Off: References key audit matters in the context of final partner review
-- [[2-working-papers/1-finalisation/02-55]] — Key Audit Matters (ref 02.55): Directly implements the ISA 701 requirements for determining and documenting key audit matters
+- [[2-working-papers/1-finalisation/02-00-partner-sign-off]] — Partner Sign-Off: References key audit matters in the context of final partner review
+- [[2-working-papers/1-finalisation/02-55-key-audit-matters]] — Key Audit Matters (ref 02.55): Directly implements the ISA 701 requirements for determining and documenting key audit matters
 
 ## Related Standards
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-700]] — Forming an Opinion and Reporting (paras 30-31 require KAM for listed entities)
-- [[1-standards/2-isa/isa-705]] — Modifications to the Opinion (modified opinion matters excluded from KAM section)
-- [[1-standards/2-isa/isa-706]] — Emphasis of Matter and Other Matter Paragraphs (relationship with KAM)
+- [[1-standards/2-isa/isa-700-forming-an-opinion]] — Forming an Opinion and Reporting (paras 30-31 require KAM for listed entities)
+- [[1-standards/2-isa/isa-705-modified-opinions]] — Modifications to the Opinion (modified opinion matters excluded from KAM section)
+- [[1-standards/2-isa/isa-706-emphasis-of-matter]] — Emphasis of Matter and Other Matter Paragraphs (relationship with KAM)
 - [[concepts/isa-standards]] — Overview of ISA standards mapped to working papers
 
 ## References

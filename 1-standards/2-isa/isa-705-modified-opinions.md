@@ -19,7 +19,7 @@ The objective of the auditor is to express clearly an appropriately modified opi
 
 ## Scope
 
-ISA 705 (Revised) deals with the auditor's responsibility to issue an appropriate report when a modification to the opinion is necessary. It establishes three types of modified opinions and addresses how the form and content of the auditor's report is affected. All reporting requirements in [[1-standards/2-isa/isa-700]] continue to apply alongside this standard.
+ISA 705 (Revised) deals with the auditor's responsibility to issue an appropriate report when a modification to the opinion is necessary. It establishes three types of modified opinions and addresses how the form and content of the auditor's report is affected. All reporting requirements in [[1-standards/2-isa/isa-700-forming-an-opinion]] continue to apply alongside this standard.
 
 The decision on which type of modified opinion is appropriate depends on: the nature of the matter (material misstatement vs. inability to obtain evidence) and the auditor's judgment about the pervasiveness of the effects on the financial statements.
 
@@ -66,17 +66,17 @@ The decision on which type of modified opinion is appropriate depends on: the na
 
 ## Application to Probe Working Papers
 
-No specific Probe working papers are currently mapped to ISA 705. The standard's requirements would be applied through [[2-working-papers/1-finalisation/02-50]] (Consideration of Assurance Report) when a modification to the opinion is necessary.
+No specific Probe working papers are currently mapped to ISA 705. The standard's requirements would be applied through [[2-working-papers/1-finalisation/02-50-assurance-report]] (Consideration of Assurance Report) when a modification to the opinion is necessary.
 
 ## Related Standards
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-700]] — Forming an Opinion and Reporting (base reporting requirements)
-- [[1-standards/2-isa/isa-701]] — Key Audit Matters (interaction with modified opinions)
-- [[1-standards/2-isa/isa-706]] — Emphasis of Matter and Other Matter Paragraphs
-- [[1-standards/2-isa/isa-800]] — Special Purpose Frameworks
-- [[1-standards/2-isa/isa-805]] — Single Financial Statements (restrictions on unmodified opinions when adverse/disclaimer issued)
+- [[1-standards/2-isa/isa-700-forming-an-opinion]] — Forming an Opinion and Reporting (base reporting requirements)
+- [[1-standards/2-isa/isa-701-key-audit-matters]] — Key Audit Matters (interaction with modified opinions)
+- [[1-standards/2-isa/isa-706-emphasis-of-matter]] — Emphasis of Matter and Other Matter Paragraphs
+- [[1-standards/2-isa/isa-800-special-purpose-frameworks]] — Special Purpose Frameworks
+- [[1-standards/2-isa/isa-805-single-financial-statements]] — Single Financial Statements (restrictions on unmodified opinions when adverse/disclaimer issued)
 - [[concepts/isa-standards]] — Overview of ISA standards mapped to working papers
 
 ## References

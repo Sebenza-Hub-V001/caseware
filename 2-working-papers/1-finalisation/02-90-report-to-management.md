@@ -125,11 +125,11 @@ Artifacts for working paper 02.90:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/1-finalisation/02-40]] -- Evaluation of Misstatements (uncorrected misstatements detail)
-- [[2-working-papers/1-finalisation/02-20]] -- Going Concern Conclusion (going concern findings)
-- [[2-working-papers/1-finalisation/02-55]] -- Key Audit Matters (KAM determination)
-- [[2-working-papers/1-finalisation/02-50]] -- Consideration of Assurance Report (report form and content)
-- [[2-working-papers/1-finalisation/02-92]] -- Letter of Representation (management's written representations)
+- [[2-working-papers/1-finalisation/02-40-evaluation-of-misstatements]] -- Evaluation of Misstatements (uncorrected misstatements detail)
+- [[2-working-papers/1-finalisation/02-20-going-concern]] -- Going Concern Conclusion (going concern findings)
+- [[2-working-papers/1-finalisation/02-55-key-audit-matters]] -- Key Audit Matters (KAM determination)
+- [[2-working-papers/1-finalisation/02-50-assurance-report]] -- Consideration of Assurance Report (report form and content)
+- [[2-working-papers/1-finalisation/02-92-letter-of-representation]] -- Letter of Representation (management's written representations)
 
 - [[2-working-papers/1-finalisation/index]]
 

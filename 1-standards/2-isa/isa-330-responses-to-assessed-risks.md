@@ -16,7 +16,7 @@ The objective of the auditor is to obtain sufficient appropriate audit evidence 
 
 ## Scope
 
-ISA 330 deals with the auditor's responsibility to design and implement responses to the risks of material misstatement identified and assessed by the auditor in accordance with [[1-standards/2-isa/isa-315]]. It covers overall responses at the financial statement level, further audit procedures at the assertion level (including tests of controls and substantive procedures), evaluating the adequacy of presentation of the financial statements, and evaluating the sufficiency and appropriateness of audit evidence.
+ISA 330 deals with the auditor's responsibility to design and implement responses to the risks of material misstatement identified and assessed by the auditor in accordance with [[1-standards/2-isa/isa-315-risk-identification]]. It covers overall responses at the financial statement level, further audit procedures at the assertion level (including tests of controls and substantive procedures), evaluating the adequacy of presentation of the financial statements, and evaluating the sufficiency and appropriateness of audit evidence.
 
 ## Key Requirements
 
@@ -77,10 +77,10 @@ The following CaseWare Probe working papers reference ISA 330:
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-300]] — Planning an Audit of Financial Statements (the audit plan includes further procedures per ISA 330)
-- [[1-standards/2-isa/isa-315]] — Identifying and Assessing the Risks of Material Misstatement (ISA 330 responds to the risks identified under ISA 315)
-- [[1-standards/2-isa/isa-320]] — Materiality in Planning and Performing an Audit (performance materiality affects further procedures)
-- [[1-standards/2-isa/isa-450]] — Evaluation of Misstatements Identified during the Audit
+- [[1-standards/2-isa/isa-300-planning-an-audit]] — Planning an Audit of Financial Statements (the audit plan includes further procedures per ISA 330)
+- [[1-standards/2-isa/isa-315-risk-identification]] — Identifying and Assessing the Risks of Material Misstatement (ISA 330 responds to the risks identified under ISA 315)
+- [[1-standards/2-isa/isa-320-materiality]] — Materiality in Planning and Performing an Audit (performance materiality affects further procedures)
+- [[1-standards/2-isa/isa-450-evaluation-of-misstatements]] — Evaluation of Misstatements Identified during the Audit
 - ISA 200 — Overall Objectives of the Independent Auditor
 - ISA 230 — Audit Documentation
 - ISA 705 (Revised) — Modifications to the Opinion in the Independent Auditor's Report

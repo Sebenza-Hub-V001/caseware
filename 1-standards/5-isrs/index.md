@@ -13,8 +13,8 @@ Standards for related services including agreed-upon procedures (ISRS 4400) and 
 
 ## Standards
 
-- [[1-standards/5-isrs/isrs-4400]]
-- [[1-standards/5-isrs/isrs-4410]]
+- [[1-standards/5-isrs/isrs-4400-agreed-upon-procedures]]
+- [[1-standards/5-isrs/isrs-4410-compilation-engagements]]
 
 ## Other Standard Types
 

@@ -153,13 +153,13 @@ Artifacts for working paper 02.60:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/1-finalisation/02-70]] -- Manager's Final Checklist (next level of review)
-- [[2-working-papers/1-finalisation/02-00]] -- Partner Sign-Off (final level of review)
-- [[2-working-papers/1-finalisation/02-92]] -- Letter of Representation (questions 12-16)
-- [[2-working-papers/1-finalisation/02-10]] -- Subsequent Events (questions 19-20)
-- [[2-working-papers/1-finalisation/02-20]] -- Going Concern Conclusion (question 21)
-- [[2-working-papers/1-finalisation/02-30]] -- Overall Analytical Review (question 22)
-- [[2-working-papers/1-finalisation/02-40]] -- Evaluation of Misstatements (questions 17-18)
+- [[2-working-papers/1-finalisation/02-70-managers-final-checklist]] -- Manager's Final Checklist (next level of review)
+- [[2-working-papers/1-finalisation/02-00-partner-sign-off]] -- Partner Sign-Off (final level of review)
+- [[2-working-papers/1-finalisation/02-92-letter-of-representation]] -- Letter of Representation (questions 12-16)
+- [[2-working-papers/1-finalisation/02-10-subsequent-events]] -- Subsequent Events (questions 19-20)
+- [[2-working-papers/1-finalisation/02-20-going-concern]] -- Going Concern Conclusion (question 21)
+- [[2-working-papers/1-finalisation/02-30-overall-analytical-review]] -- Overall Analytical Review (question 22)
+- [[2-working-papers/1-finalisation/02-40-evaluation-of-misstatements]] -- Evaluation of Misstatements (questions 17-18)
 
 - [[2-working-papers/1-finalisation/index]]
 

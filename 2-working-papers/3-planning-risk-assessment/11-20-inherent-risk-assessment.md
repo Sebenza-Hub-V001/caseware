@@ -67,7 +67,7 @@ This working paper documents the auditor's understanding of the entity and its e
 - Each numbered item has three columns: **Procedure/Description/Risk**. The auditor must describe their understanding and flag any identified risks.
 - For each area, consider the "Consider" sub-points as prompts — they are not exhaustive but guide the inquiry.
 - The IT environment assessment at item 5 should cross-reference to 10.55 for detailed IT understanding.
-- The conclusion at item 22 requires an overall inherent risk assessment at the financial statement level, which flows to [[2-working-papers/3-planning-risk-assessment/11-10]].
+- The conclusion at item 22 requires an overall inherent risk assessment at the financial statement level, which flows to [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]].
 - This is a 5-page document requiring thorough completion across all domains.
 - Header includes sign-off fields: Planning by, Reviewed by, Performed by, and Final review.
 
@@ -100,10 +100,10 @@ Artifacts for working paper 11.20:
 - How-To V5 draft: [[raw/how-to-drafts/3-planning-risk-assessment/How-To 11.20 Inherent Risk Assessment V5.docx]]
 
 ## Related
-- [[2-working-papers/3-planning-risk-assessment/11-10]] — Risk Analysis Summary (receives the financial statement level assessment)
-- [[2-working-papers/3-planning-risk-assessment/11-25]] — Fraud Risk Assessment (complementary assessment)
-- [[2-working-papers/3-planning-risk-assessment/11-30]] — Evaluation of System of Internal Control (complementary assessment)
-- [[2-working-papers/3-planning-risk-assessment/11-60]] — Risk Assessment at Assertion Level (detailed assertion-level assessment)
+- [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]] — Risk Analysis Summary (receives the financial statement level assessment)
+- [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment]] — Fraud Risk Assessment (complementary assessment)
+- [[2-working-papers/3-planning-risk-assessment/11-30-internal-control-evaluation]] — Evaluation of System of Internal Control (complementary assessment)
+- [[2-working-papers/3-planning-risk-assessment/11-60-risk-assessment-assertion-level]] — Risk Assessment at Assertion Level (detailed assertion-level assessment)
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]

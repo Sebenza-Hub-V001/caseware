@@ -71,9 +71,9 @@ This standard is not currently referenced by any Probe working papers. Compilati
 
 - [[1-standards/5-isrs/index]]
 
-- [[1-standards/5-isrs/isrs-4400]] — Agreed-upon procedures engagements (other type of related service)
-- [[1-standards/3-isre/isre-2400]] — Review engagements (provides limited assurance, unlike compilation which provides none)
-- [[1-standards/1-isqm/isqm-1]] — Firm-level quality management
+- [[1-standards/5-isrs/isrs-4400-agreed-upon-procedures]] — Agreed-upon procedures engagements (other type of related service)
+- [[1-standards/3-isre/isre-2400-review-historical-fs]] — Review engagements (provides limited assurance, unlike compilation which provides none)
+- [[1-standards/1-isqm/isqm-1-quality-management-firms]] — Firm-level quality management
 
 ## References
 

@@ -44,12 +44,12 @@ This ISA explains what constitutes audit evidence in an audit of financial state
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-501]] — Specific considerations for selected items (inventory, litigation, segments)
-- [[1-standards/2-isa/isa-505]] — External confirmations as audit evidence
-- [[1-standards/2-isa/isa-520]] — Analytical procedures
-- [[1-standards/2-isa/isa-530]] — Audit sampling
-- [[1-standards/2-isa/isa-540]] — Accounting estimates
-- [[1-standards/2-isa/isa-620]] — Using the work of an auditor's expert
+- [[1-standards/2-isa/isa-501-specific-audit-evidence]] — Specific considerations for selected items (inventory, litigation, segments)
+- [[1-standards/2-isa/isa-505-external-confirmations]] — External confirmations as audit evidence
+- [[1-standards/2-isa/isa-520-analytical-procedures]] — Analytical procedures
+- [[1-standards/2-isa/isa-530-audit-sampling]] — Audit sampling
+- [[1-standards/2-isa/isa-540-accounting-estimates]] — Accounting estimates
+- [[1-standards/2-isa/isa-620-auditors-expert]] — Using the work of an auditor's expert
 
 ## References
 

@@ -43,7 +43,7 @@ The essential reporting difference: for corresponding figures, the auditor's opi
 ### Reporting — Comparative Financial Statements (paras 15-19)
 
 - **Opinion refers to each period:** The auditor's opinion shall refer to each period for which financial statements are presented and on which an audit opinion is expressed.
-- **Different opinion from prior period:** If the opinion on prior period financial statements differs from the one previously expressed, disclose the substantive reasons in an Other Matter paragraph per [[1-standards/2-isa/isa-706]].
+- **Different opinion from prior period:** If the opinion on prior period financial statements differs from the one previously expressed, disclose the substantive reasons in an Other Matter paragraph per [[1-standards/2-isa/isa-706-emphasis-of-matter]].
 - **Predecessor auditor:** State in an Other Matter paragraph that the prior period was audited by a predecessor auditor, the opinion type, reasons for modification, and date.
 - **Material misstatement in predecessor-audited statements:** Communicate with management and those charged with governance, request that the predecessor auditor be informed. If amended and predecessor issues a new report, report only on the current period.
 - **Prior period not audited:** State in an Other Matter paragraph that comparative financial statements are unaudited.
@@ -56,15 +56,15 @@ The essential reporting difference: for corresponding figures, the auditor's opi
 
 ## Application to Probe Working Papers
 
-- [[2-working-papers/6-general-working-papers/17-10]] — Opening Balances and Comparatives Work Program (ref 17.10): Directly implements ISA 710 requirements for auditing comparative information and opening balances
+- [[2-working-papers/6-general-working-papers/17-10-opening-balances-comparatives]] — Opening Balances and Comparatives Work Program (ref 17.10): Directly implements ISA 710 requirements for auditing comparative information and opening balances
 
 ## Related Standards
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-700]] — Forming an Opinion and Reporting (base reporting requirements)
-- [[1-standards/2-isa/isa-705]] — Modifications to the Opinion (prior period modifications affecting comparatives)
-- [[1-standards/2-isa/isa-706]] — Emphasis of Matter and Other Matter Paragraphs (Other Matter paragraphs for predecessor auditor situations)
+- [[1-standards/2-isa/isa-700-forming-an-opinion]] — Forming an Opinion and Reporting (base reporting requirements)
+- [[1-standards/2-isa/isa-705-modified-opinions]] — Modifications to the Opinion (prior period modifications affecting comparatives)
+- [[1-standards/2-isa/isa-706-emphasis-of-matter]] — Emphasis of Matter and Other Matter Paragraphs (Other Matter paragraphs for predecessor auditor situations)
 - [[concepts/isa-standards]] — Overview of ISA standards mapped to working papers
 
 ## References

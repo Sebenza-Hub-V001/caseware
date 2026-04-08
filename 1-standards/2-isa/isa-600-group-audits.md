@@ -82,13 +82,13 @@ Effective for periods beginning on or after December 15, 2023.
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-500]] — Audit evidence
-- [[1-standards/2-isa/isa-510]] — Initial audit engagements (opening balances for new group components)
-- [[1-standards/2-isa/isa-540]] — Accounting estimates (group-level estimates)
-- [[1-standards/2-isa/isa-550]] — Related parties (intercompany transactions)
-- [[1-standards/2-isa/isa-560]] — Subsequent events
-- [[1-standards/2-isa/isa-570]] — Going concern
-- [[1-standards/2-isa/isa-610]] — Using the work of internal auditors
+- [[1-standards/2-isa/isa-500-audit-evidence]] — Audit evidence
+- [[1-standards/2-isa/isa-510-opening-balances]] — Initial audit engagements (opening balances for new group components)
+- [[1-standards/2-isa/isa-540-accounting-estimates]] — Accounting estimates (group-level estimates)
+- [[1-standards/2-isa/isa-550-related-parties]] — Related parties (intercompany transactions)
+- [[1-standards/2-isa/isa-560-subsequent-events]] — Subsequent events
+- [[1-standards/2-isa/isa-570-going-concern]] — Going concern
+- [[1-standards/2-isa/isa-610-internal-auditors]] — Using the work of internal auditors
 
 ## References
 

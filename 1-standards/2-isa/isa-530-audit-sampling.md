@@ -61,8 +61,8 @@ No specific Probe working paper mappings identified yet.
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-500]] — Audit evidence (general framework for selecting items for testing)
-- [[1-standards/2-isa/isa-520]] — Analytical procedures (alternative substantive procedures)
+- [[1-standards/2-isa/isa-500-audit-evidence]] — Audit evidence (general framework for selecting items for testing)
+- [[1-standards/2-isa/isa-520-analytical-procedures]] — Analytical procedures (alternative substantive procedures)
 
 ## References
 

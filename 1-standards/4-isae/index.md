@@ -13,11 +13,11 @@ Standards for assurance engagements other than audits or reviews, covering gener
 
 ## Standards
 
-- [[1-standards/4-isae/isae-3000]]
-- [[1-standards/4-isae/isae-3400]]
-- [[1-standards/4-isae/isae-3402]]
-- [[1-standards/4-isae/isae-3410]]
-- [[1-standards/4-isae/isae-3420]]
+- [[1-standards/4-isae/isae-3000-assurance-engagements]]
+- [[1-standards/4-isae/isae-3400-prospective-financial-info]]
+- [[1-standards/4-isae/isae-3402-service-org-controls]]
+- [[1-standards/4-isae/isae-3410-greenhouse-gas]]
+- [[1-standards/4-isae/isae-3420-pro-forma-financial-info]]
 
 ## Other Standard Types
 

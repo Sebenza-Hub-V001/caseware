@@ -96,9 +96,9 @@ Artifacts for working paper 02.10:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/1-finalisation/02-20]] -- Going Concern Conclusion
-- [[2-working-papers/1-finalisation/02-60]] -- Senior's Final Checklist (question 19-20 on subsequent events)
-- [[2-working-papers/1-finalisation/02-92]] -- Letter of Representation (section 7 on subsequent events)
+- [[2-working-papers/1-finalisation/02-20-going-concern]] -- Going Concern Conclusion
+- [[2-working-papers/1-finalisation/02-60-seniors-final-checklist]] -- Senior's Final Checklist (question 19-20 on subsequent events)
+- [[2-working-papers/1-finalisation/02-92-letter-of-representation]] -- Letter of Representation (section 7 on subsequent events)
 
 - [[2-working-papers/1-finalisation/index]]
 

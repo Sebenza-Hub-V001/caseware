@@ -62,9 +62,9 @@ The auditor has sole responsibility for the audit opinion; this responsibility i
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-500]] — Audit evidence (management's experts)
-- [[1-standards/2-isa/isa-540]] — Accounting estimates (experts for complex estimates)
-- [[1-standards/2-isa/isa-610]] — Using the work of internal auditors
+- [[1-standards/2-isa/isa-500-audit-evidence]] — Audit evidence (management's experts)
+- [[1-standards/2-isa/isa-540-accounting-estimates]] — Accounting estimates (experts for complex estimates)
+- [[1-standards/2-isa/isa-610-internal-auditors]] — Using the work of internal auditors
 
 ## References
 

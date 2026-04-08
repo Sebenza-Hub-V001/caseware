@@ -85,12 +85,12 @@ Yes/No questions with description and risk fields:
 
 ## Completion Guidance
 
-- Complete during the planning phase, informed by discussions in [[2-working-papers/2-pre-engagement-planning/10-31]] (IT Environment section)
+- Complete during the planning phase, informed by discussions in [[2-working-papers/2-pre-engagement-planning/10-31-discussions-with-tcwg]] (IT Environment section)
 - The IT environment understanding drives the identification of general IT controls (GITCs) which are assessed separately
-- If the conclusion is that the IT environment is complex, specialised IT skills may be required — this should be factored into the time budget at [[2-working-papers/2-pre-engagement-planning/10-40]]
+- If the conclusion is that the IT environment is complex, specialised IT skills may be required — this should be factored into the time budget at [[2-working-papers/2-pre-engagement-planning/10-40-time-budget]]
 - Responses about data access (Q6, Q14) and automated processing (Q17-20) directly impact the assessment of risks arising from IT
 - For entities using service organisations (Q10), consider whether SOC 1/SOC 2 reports are available
-- The assessment of complexity feeds into the overall risk assessment at [[2-working-papers/3-planning-risk-assessment/11-10]]
+- The assessment of complexity feeds into the overall risk assessment at [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]]
 
 ## Probe Project
 
@@ -103,11 +103,11 @@ Artifacts for working paper 10.55:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/2-pre-engagement-planning/10-31]] — Discussions with those charged with governance (IT environment section)
-- [[2-working-papers/2-pre-engagement-planning/10-50]] — Gathering information (IT considerations in Q6)
-- [[2-working-papers/2-pre-engagement-planning/10-51]] — Types and volumes of transactions (transaction processing context)
-- [[2-working-papers/3-planning-risk-assessment/11-10]] — Risk analysis summary (IT risks feed into overall risk)
-- [[2-working-papers/3-planning-risk-assessment/11-30]] — Evaluation of system of internal control (IT controls)
+- [[2-working-papers/2-pre-engagement-planning/10-31-discussions-with-tcwg]] — Discussions with those charged with governance (IT environment section)
+- [[2-working-papers/2-pre-engagement-planning/10-50-gathering-information]] — Gathering information (IT considerations in Q6)
+- [[2-working-papers/2-pre-engagement-planning/10-51-types-volumes-transactions]] — Types and volumes of transactions (transaction processing context)
+- [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary]] — Risk analysis summary (IT risks feed into overall risk)
+- [[2-working-papers/3-planning-risk-assessment/11-30-internal-control-evaluation]] — Evaluation of system of internal control (IT controls)
 
 - [[2-working-papers/2-pre-engagement-planning/index]]
 

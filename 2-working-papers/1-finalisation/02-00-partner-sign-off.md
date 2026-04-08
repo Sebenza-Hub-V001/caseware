@@ -131,10 +131,10 @@ Artifacts for working paper 02.00:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/1-finalisation/02-60]] -- Senior's Final Checklist
-- [[2-working-papers/1-finalisation/02-70]] -- Manager's Final Checklist
-- [[2-working-papers/1-finalisation/02-80]] -- Engagement Quality Review
-- [[2-working-papers/1-finalisation/02-50]] -- Consideration of Assurance Report
+- [[2-working-papers/1-finalisation/02-60-seniors-final-checklist]] -- Senior's Final Checklist
+- [[2-working-papers/1-finalisation/02-70-managers-final-checklist]] -- Manager's Final Checklist
+- [[2-working-papers/1-finalisation/02-80-eqr-execution-finalisation]] -- Engagement Quality Review
+- [[2-working-papers/1-finalisation/02-50-assurance-report]] -- Consideration of Assurance Report
 
 - [[2-working-papers/1-finalisation/index]]
 

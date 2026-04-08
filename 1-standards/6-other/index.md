@@ -13,8 +13,8 @@ Standalone and specialised standards including the ISA for Less Complex Entities
 
 ## Standards
 
-- [[1-standards/6-other/isa-for-lce]]
-- [[1-standards/6-other/issa-5000]]
+- [[1-standards/6-other/isa-for-lce-less-complex-entities]]
+- [[1-standards/6-other/issa-5000-sustainability-assurance]]
 
 ## Other Standard Types
 

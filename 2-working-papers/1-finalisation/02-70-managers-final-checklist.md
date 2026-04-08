@@ -159,11 +159,11 @@ Artifacts for working paper 02.70:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/1-finalisation/02-60]] -- Senior's Final Checklist (precedes this checklist)
-- [[2-working-papers/1-finalisation/02-00]] -- Partner Sign-Off (follows this checklist)
-- [[2-working-papers/1-finalisation/02-80]] -- Engagement Quality Review
-- [[2-working-papers/1-finalisation/02-50]] -- Consideration of Assurance Report (ISA 700/701/705/706)
-- [[2-working-papers/1-finalisation/02-40]] -- Evaluation of Misstatements (ISA 450)
+- [[2-working-papers/1-finalisation/02-60-seniors-final-checklist]] -- Senior's Final Checklist (precedes this checklist)
+- [[2-working-papers/1-finalisation/02-00-partner-sign-off]] -- Partner Sign-Off (follows this checklist)
+- [[2-working-papers/1-finalisation/02-80-eqr-execution-finalisation]] -- Engagement Quality Review
+- [[2-working-papers/1-finalisation/02-50-assurance-report]] -- Consideration of Assurance Report (ISA 700/701/705/706)
+- [[2-working-papers/1-finalisation/02-40-evaluation-of-misstatements]] -- Evaluation of Misstatements (ISA 450)
 
 - [[2-working-papers/1-finalisation/index]]
 

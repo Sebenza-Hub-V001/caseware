@@ -20,7 +20,7 @@ The objective of the auditor, when applying ISAs in an audit of a single financi
 
 ## Scope
 
-ISA 805 (Revised) deals with special considerations in applying the ISAs in the 100-700 series to an audit of a single financial statement or of a specific element, account or item of a financial statement. The financial statement or element may be prepared in accordance with a general or special purpose framework. If prepared under a special purpose framework, [[1-standards/2-isa/isa-800]] also applies.
+ISA 805 (Revised) deals with special considerations in applying the ISAs in the 100-700 series to an audit of a single financial statement or of a specific element, account or item of a financial statement. The financial statement or element may be prepared in accordance with a general or special purpose framework. If prepared under a special purpose framework, [[1-standards/2-isa/isa-800-special-purpose-frameworks]] also applies.
 
 This ISA does not apply to component auditor work on financial information for group audit purposes (see ISA 600 Revised). It does not override other ISA requirements.
 
@@ -60,10 +60,10 @@ No specific Probe working papers are currently mapped to ISA 805. The standard w
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-700]] — Forming an Opinion and Reporting (base reporting requirements)
-- [[1-standards/2-isa/isa-705]] — Modifications to the Opinion (restrictions when adverse/disclaimer issued on complete set)
-- [[1-standards/2-isa/isa-706]] — Emphasis of Matter and Other Matter Paragraphs
-- [[1-standards/2-isa/isa-800]] — Special Purpose Frameworks (also applies when element is prepared under special purpose framework)
+- [[1-standards/2-isa/isa-700-forming-an-opinion]] — Forming an Opinion and Reporting (base reporting requirements)
+- [[1-standards/2-isa/isa-705-modified-opinions]] — Modifications to the Opinion (restrictions when adverse/disclaimer issued on complete set)
+- [[1-standards/2-isa/isa-706-emphasis-of-matter]] — Emphasis of Matter and Other Matter Paragraphs
+- [[1-standards/2-isa/isa-800-special-purpose-frameworks]] — Special Purpose Frameworks (also applies when element is prepared under special purpose framework)
 - [[concepts/isa-standards]] — Overview of ISA standards mapped to working papers
 
 ## References

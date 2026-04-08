@@ -83,8 +83,8 @@ Artifacts for working paper 17.10:
 - [[entities/caseware-working-papers]]
 - [[entities/probe-audit-premium-plus]]
 - [[concepts/four-stage-pipeline]]
-- [[2-working-papers/6-general-working-papers/16-10]] — Accounting Records Work Program (verifies underlying records)
-- [[2-working-papers/6-general-working-papers/18-10]] — Financial Statement Preparation Work Program (uses the comparatives verified here)
+- [[2-working-papers/6-general-working-papers/16-10-accounting-records]] — Accounting Records Work Program (verifies underlying records)
+- [[2-working-papers/6-general-working-papers/18-10-financial-statement-preparation]] — Financial Statement Preparation Work Program (uses the comparatives verified here)
 
 - [[2-working-papers/6-general-working-papers/index]]
 

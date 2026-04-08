@@ -47,9 +47,9 @@ This ISA deals with the auditor's responsibilities relating to opening balances 
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-500]] — Audit evidence
-- [[1-standards/2-isa/isa-570]] — Going concern
-- [[1-standards/2-isa/isa-600]] — Group financial statements
+- [[1-standards/2-isa/isa-500-audit-evidence]] — Audit evidence
+- [[1-standards/2-isa/isa-570-going-concern]] — Going concern
+- [[1-standards/2-isa/isa-600-group-audits]] — Group financial statements
 
 ## References
 

@@ -66,9 +66,9 @@ No additional definitions specific to this ISA; the standard relies on definitio
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-560]] — Subsequent events (period definitions and subsequent event considerations)
-- [[1-standards/2-isa/isa-580]] — Written representations (going concern representations)
-- [[1-standards/2-isa/isa-540]] — Accounting estimates (going concern may affect estimates)
+- [[1-standards/2-isa/isa-560-subsequent-events]] — Subsequent events (period definitions and subsequent event considerations)
+- [[1-standards/2-isa/isa-580-written-representations]] — Written representations (going concern representations)
+- [[1-standards/2-isa/isa-540-accounting-estimates]] — Accounting estimates (going concern may affect estimates)
 
 ## References
 

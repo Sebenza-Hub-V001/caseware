@@ -27,7 +27,7 @@ Key scope points:
 - The practitioner's sole responsibility is to report on whether the pro forma financial information has been compiled in accordance with applicable criteria
 - Does **not** deal with non-assurance engagements to compile historical financial statements
 - Pro forma financial information illustrates the impact of a significant event or transaction on unadjusted financial information **as if** the event had occurred at an earlier date — it does **not** represent actual financial position, performance, or cash flows
-- The practitioner must comply with [[1-standards/4-isae/isae-3000]] in addition to this ISAE
+- The practitioner must comply with [[1-standards/4-isae/isae-3000-assurance-engagements]] in addition to this ISAE
 
 Effective for assurance reports dated on or after **March 31, 2013**.
 
@@ -62,9 +62,9 @@ This standard is not currently referenced by any Probe working papers. It is a s
 
 - [[1-standards/4-isae/index]]
 
-- [[1-standards/4-isae/isae-3000]] — Overarching assurance standard (applies alongside this ISAE)
-- [[1-standards/4-isae/isae-3400]] — Examination of prospective financial information (related but distinct — prospective looks forward, pro forma adjusts historical information)
-- [[1-standards/1-isqm/isqm-1]] — Firm-level quality management
+- [[1-standards/4-isae/isae-3000-assurance-engagements]] — Overarching assurance standard (applies alongside this ISAE)
+- [[1-standards/4-isae/isae-3400-prospective-financial-info]] — Examination of prospective financial information (related but distinct — prospective looks forward, pro forma adjusts historical information)
+- [[1-standards/1-isqm/isqm-1-quality-management-firms]] — Firm-level quality management
 
 ## References
 

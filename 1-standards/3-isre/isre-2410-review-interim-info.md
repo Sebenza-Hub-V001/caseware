@@ -21,7 +21,7 @@ The auditor makes inquiries and performs analytical and other review procedures 
 This ISRE establishes standards and provides guidance on the auditor's professional responsibilities when the auditor undertakes an engagement to review **interim financial information of an audit client**, and on the form and content of the report.
 
 Key scope points:
-- Limited to reviews performed by the **independent auditor** of the entity (not a separate practitioner — that is covered by [[1-standards/3-isre/isre-2400]])
+- Limited to reviews performed by the **independent auditor** of the entity (not a separate practitioner — that is covered by [[1-standards/3-isre/isre-2400-review-historical-fs]])
 - Interim financial information is financial information prepared for a period shorter than the entity's financial year (complete or condensed)
 - The auditor's existing understanding of the entity from the annual audit assists in focusing inquiries and procedures
 - May also be applied, adapted as necessary, to reviews of other historical financial information by the entity's auditor
@@ -61,9 +61,9 @@ This standard is not currently referenced by any Probe working papers. However, 
 
 - [[1-standards/3-isre/index]]
 
-- [[1-standards/3-isre/isre-2400]] — Reviews by a practitioner who is not the entity's auditor
-- [[1-standards/2-isa/isa-200]] — Overall objectives of the auditor (annual audit context)
-- [[1-standards/1-isqm/isqm-1]] — Firm-level quality management
+- [[1-standards/3-isre/isre-2400-review-historical-fs]] — Reviews by a practitioner who is not the entity's auditor
+- [[1-standards/2-isa/isa-200-overall-objectives]] — Overall objectives of the auditor (annual audit context)
+- [[1-standards/1-isqm/isqm-1-quality-management-firms]] — Firm-level quality management
 
 ## References
 

@@ -47,9 +47,9 @@ No specific Probe working paper mappings identified yet.
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-500]] — Audit evidence
-- [[1-standards/2-isa/isa-530]] — Audit sampling (alternative means of obtaining evidence)
-- [[1-standards/2-isa/isa-540]] — Accounting estimates (analytical procedures may be relevant)
+- [[1-standards/2-isa/isa-500-audit-evidence]] — Audit evidence
+- [[1-standards/2-isa/isa-530-audit-sampling]] — Audit sampling (alternative means of obtaining evidence)
+- [[1-standards/2-isa/isa-540-accounting-estimates]] — Accounting estimates (analytical procedures may be relevant)
 
 ## References
 

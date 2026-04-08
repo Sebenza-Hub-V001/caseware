@@ -62,8 +62,8 @@ This standard is not currently referenced by any Probe working papers. It would 
 
 - [[1-standards/4-isae/index]]
 
-- [[1-standards/4-isae/isae-3000]] — Overarching standard for assurance engagements (applies alongside this ISAE)
-- [[1-standards/4-isae/isae-3420]] — Pro forma financial information in a prospectus (related but distinct — pro forma looks backward at adjusted historical information)
+- [[1-standards/4-isae/isae-3000-assurance-engagements]] — Overarching standard for assurance engagements (applies alongside this ISAE)
+- [[1-standards/4-isae/isae-3420-pro-forma-financial-info]] — Pro forma financial information in a prospectus (related but distinct — pro forma looks backward at adjusted historical information)
 
 ## References
 

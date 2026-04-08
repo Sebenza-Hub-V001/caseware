@@ -21,7 +21,7 @@ The objectives of the auditor are:
 
 ISA 700 (Revised) deals with the auditor's responsibility to form an opinion on the financial statements and the form and content of the auditor's report issued as a result of an audit of financial statements. It applies to an audit of a complete set of general purpose financial statements. The standard promotes an appropriate balance between consistency and comparability in auditor reporting globally and the need to increase the value of auditor reporting by making information more relevant to users.
 
-Related standards deal with specific reporting situations: [[1-standards/2-isa/isa-701]] (key audit matters), [[1-standards/2-isa/isa-705]] (modified opinions), [[1-standards/2-isa/isa-706]] (emphasis of matter/other matter paragraphs), [[1-standards/2-isa/isa-800]] (special purpose frameworks), and [[1-standards/2-isa/isa-805]] (single financial statements and specific elements).
+Related standards deal with specific reporting situations: [[1-standards/2-isa/isa-701-key-audit-matters]] (key audit matters), [[1-standards/2-isa/isa-705-modified-opinions]] (modified opinions), [[1-standards/2-isa/isa-706-emphasis-of-matter]] (emphasis of matter/other matter paragraphs), [[1-standards/2-isa/isa-800-special-purpose-frameworks]] (special purpose frameworks), and [[1-standards/2-isa/isa-805-single-financial-statements]] (single financial statements and specific elements).
 
 ## Key Requirements
 
@@ -40,7 +40,7 @@ Related standards deal with specific reporting situations: [[1-standards/2-isa/i
 ### Form of Opinion (paras 16-19)
 
 - **Unmodified opinion:** Expressed when the auditor concludes the financial statements are prepared, in all material respects, in accordance with the applicable financial reporting framework.
-- **Modified opinion:** When the financial statements are not free from material misstatement or the auditor cannot obtain sufficient appropriate audit evidence, the opinion shall be modified per [[1-standards/2-isa/isa-705]].
+- **Modified opinion:** When the financial statements are not free from material misstatement or the auditor cannot obtain sufficient appropriate audit evidence, the opinion shall be modified per [[1-standards/2-isa/isa-705-modified-opinions]].
 - **Fair presentation issues:** If financial statements under a fair presentation framework do not achieve fair presentation, the auditor shall discuss with management and determine whether to modify the opinion.
 
 ### Auditor's Report (paras 20-52)
@@ -51,8 +51,8 @@ Related standards deal with specific reporting situations: [[1-standards/2-isa/i
 - **Compliance framework opinion wording:** "prepared, in all material respects, in accordance with [framework]."
 - **Basis for Opinion section:** Directly follows Opinion, states audit conducted per ISAs, refers to auditor's responsibilities section, includes independence statement, and states whether audit evidence is sufficient and appropriate.
 - **Going Concern:** Report in accordance with ISA 570 (Revised) where applicable.
-- **Key Audit Matters:** Required for listed entities per [[1-standards/2-isa/isa-701]]; otherwise when required by law/regulation or when the auditor decides to communicate them.
-- **Other Information:** Report in accordance with [[1-standards/2-isa/isa-720]] where applicable.
+- **Key Audit Matters:** Required for listed entities per [[1-standards/2-isa/isa-701-key-audit-matters]]; otherwise when required by law/regulation or when the auditor decides to communicate them.
+- **Other Information:** Report in accordance with [[1-standards/2-isa/isa-720-other-information]] where applicable.
 - **Management's responsibilities section:** Describes responsibility for preparing financial statements, internal control, and going concern assessment.
 - **Auditor's responsibilities section:** Describes objectives, reasonable assurance, material misstatement, professional judgment and skepticism, and specific responsibilities regarding internal control, accounting policies, estimates, going concern, and overall presentation.
 - **Other reporting responsibilities:** Addressed in a separate section if applicable.
@@ -68,20 +68,20 @@ Related standards deal with specific reporting situations: [[1-standards/2-isa/i
 
 ## Application to Probe Working Papers
 
-- [[2-working-papers/1-finalisation/02-50]] — Consideration of Assurance Report (ref 02.50): Directly implements ISA 700 requirements for forming and expressing the audit opinion
-- [[2-working-papers/1-finalisation/02-40]] — Evaluation of Misstatements (ref 02.40): Supports the ISA 700 requirement to consider uncorrected misstatements (via ISA 450) when forming the opinion
+- [[2-working-papers/1-finalisation/02-50-assurance-report]] — Consideration of Assurance Report (ref 02.50): Directly implements ISA 700 requirements for forming and expressing the audit opinion
+- [[2-working-papers/1-finalisation/02-40-evaluation-of-misstatements]] — Evaluation of Misstatements (ref 02.40): Supports the ISA 700 requirement to consider uncorrected misstatements (via ISA 450) when forming the opinion
 
 ## Related Standards
 
 - [[1-standards/2-isa/index]]
 
-- [[1-standards/2-isa/isa-701]] — Key Audit Matters (communicating in auditor's report)
-- [[1-standards/2-isa/isa-705]] — Modifications to the Opinion
-- [[1-standards/2-isa/isa-706]] — Emphasis of Matter and Other Matter Paragraphs
-- [[1-standards/2-isa/isa-710]] — Comparative Information
-- [[1-standards/2-isa/isa-720]] — Other Information
-- [[1-standards/2-isa/isa-800]] — Special Purpose Frameworks
-- [[1-standards/2-isa/isa-805]] — Single Financial Statements and Specific Elements
+- [[1-standards/2-isa/isa-701-key-audit-matters]] — Key Audit Matters (communicating in auditor's report)
+- [[1-standards/2-isa/isa-705-modified-opinions]] — Modifications to the Opinion
+- [[1-standards/2-isa/isa-706-emphasis-of-matter]] — Emphasis of Matter and Other Matter Paragraphs
+- [[1-standards/2-isa/isa-710-comparative-information]] — Comparative Information
+- [[1-standards/2-isa/isa-720-other-information]] — Other Information
+- [[1-standards/2-isa/isa-800-special-purpose-frameworks]] — Special Purpose Frameworks
+- [[1-standards/2-isa/isa-805-single-financial-statements]] — Single Financial Statements and Specific Elements
 - [[concepts/isa-standards]] — Overview of ISA standards mapped to working papers
 
 ## References
