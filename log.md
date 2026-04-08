@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-04-08] audit | Welcome.md — Remove Sebenza Hub references
+- File: [[Welcome]]
+- Issue: Welcome page title and heading referenced "Sebenza Hub" instead of the CaseWare Probe Project
+- Fix: Changed frontmatter title and `#` heading from "Welcome to Sebenza Hub" to "Welcome to CaseWare Probe Project"
+- No other files in the vault contained Sebenza Hub references
+
 ## [2026-04-08] tweet | Corey Ganim — Claude Code Hidden Features (5 That Change Everything)
 - Source: https://x.com/coreyganim/status/2041596621591629915
 - Tweet page: [[tweets/coreyganim-claude-code-hidden-features]]

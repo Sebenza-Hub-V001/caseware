@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Sebenza Hub"
+title: "Welcome to CaseWare Probe Project"
 type: overview
 created: 2026-04-06
 updated: 2026-04-08
@@ -7,7 +7,7 @@ tags: [welcome, navigation, hub]
 status: active
 ---
 
-# Welcome to Sebenza Hub
+# Welcome to CaseWare Probe Project
 
 A personal knowledge base for the **CaseWare Probe How-To Document Project** — building a complete library of professional training guides for the Probe audit methodology.
 
