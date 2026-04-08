@@ -1,0 +1,108 @@
+---
+title: "Accounting Records Work Program"
+type: entity
+created: 2026-04-07
+updated: 2026-04-07
+tags: [working-papers, execution, probe]
+sources: [caseview-16-10]
+ref: "16.10"
+pipeline-stage: how-to-doc
+status: active
+---
+
+# Accounting Records Work Program
+
+## Purpose
+
+The Accounting Records Work Program (16.10) provides a structured set of audit procedures to verify that the entity maintains proper accounting records as required by the Companies Act, 2008. It covers the completeness and accuracy of the general ledger, the existence and safeguarding of statutory records, and the adequacy of non-current asset and liability record-keeping. The document is 3 pages.
+
+## Key Fields & Sections
+
+### Risk Assessment (Page 1)
+
+- Financial statement level risk indicators:
+  - Inherent risk
+  - Control risk
+  - Fraud risk
+  - Overall materiality
+  - Performance materiality
+
+### Audit Procedures (Pages 1-2)
+
+- **Procedure 1:** Document how completeness and accuracy of populations were verified for all selections made for testing.
+- **Procedure 2:** Make inquiries of individuals involved in the financial reporting process about inappropriate or unusual activity relating to journal entries and other adjustments.
+- **Procedure 3:** Confirm on a test basis the postings from subsidiary records to the general ledger.
+- **Procedure 4:** Confirm that necessary accounting records are maintained per the Companies Act, 2008, including:
+  - (a) Memorandum of Incorporation and amendments, plus any company rules
+  - (b) Details of past and present directors
+  - (c) Copies of written communications sent to all holders of any class of the company's securities
+  - (d) Shareholder register
+  - (e) Auditor details: name, appointment date, registration number, registered office address, and individual appointed
+  - (f) Records of assets and liabilities
+  - (g) Records of loans from shareholders, directors, prescribed officers, employees or related persons (amount, interest rate, repayment terms, defaults, breaches, renegotiations)
+  - (h) Daily records of all money received and paid out, in sufficient detail
+  - (i) Daily records of all goods purchased/sold on credit and services received/rendered on credit
+  - (j) Statements of every account maintained in a financial institution, with supporting vouchers
+  - (k) Inventory records for the annual count, enabling year-end valuation
+- **Procedure 5:** Confirm non-current asset details are kept:
+  - (a) Date and cost of acquisition
+  - (b) Date, amount, basis, and reason for revaluation
+  - (c) Date of disposal, consideration received, and name of transferee
+- **Procedure 6:** Confirm records contain details for all assets and liabilities:
+  - (a) Loans to shareholders, directors, prescribed officers, employees or related persons (full terms)
+  - (b) Guarantees, suretyship or indemnities granted on behalf of shareholders, directors, prescribed officers, employees or related persons (Regulation 25)
+- **Procedure 7:** Confirm that the above records are:
+  - (a) Maintained in written form, or convertible to written form within a reasonable time
+  - (b) Retained for seven years, or any longer period specified by applicable regulation (Companies Act, 2008, section 24)
+  - (c) Accessible at or from the company's registered office (Companies Act, 2008, section 25)
+  - (d) Safeguarded against theft, loss, damage, destruction, and that falsification can be detected (Regulation 25)
+
+### Conclusion (Page 3)
+
+Standard conclusion section with ten questions covering:
+1. Material change in accounting policy due to new standard/interpretation (SME10.8)
+2. Material change in accounting policy due to change providing more relevant/reliable information (SME10.8)
+3. Change in accounting estimates (SME10.17)
+4. Prior period errors
+5. Subsequent events
+6. Going concern indicators
+7. Key audit matters for communication to directors and audit report
+8. Suspected non-compliance with laws and regulations (NOCLAR)
+9. Suspected irregularities reportable under Section 45 of the Auditing Profession Act, 2005
+10. Whether remaining balance of populations after tests of detail is material
+
+## ISA References
+
+- Companies Act, 2008 — Sections 24 (retention), 25 (accessibility), 29 (financial statements)
+- Companies Regulations, 2011 — Regulation 25 (safeguarding, guarantees/suretyships)
+- ISA 240 — The Auditor's Responsibilities Relating to Fraud (journal entry inquiries)
+- IFRS for SMEs — Section 10 (accounting policies, estimates, and errors)
+
+## Completion Guidance
+
+- This working paper focuses on the statutory record-keeping requirements under the Companies Act rather than substantive testing of account balances. It is primarily a compliance check.
+- Procedure 1 applies universally — for every other working paper section where items are selected for testing, this working paper requires documentation of how the population's completeness and accuracy were verified.
+- Procedure 2 specifically targets fraud risk by requiring inquiries about unusual journal entries, linking to ISA 240 requirements.
+- Procedures 4-6 form the core of the working paper — a detailed checklist of Companies Act record-keeping requirements. Each sub-item should be individually confirmed and referenced.
+- Procedure 7 addresses the quality and accessibility of records rather than their content — records must be in written or convertible form, retained for 7+ years, accessible from the registered office, and safeguarded.
+- The conclusion section is standardised across all execution working papers. Each "Yes" answer requires follow-up documentation and cross-referencing to the relevant working paper.
+
+## Probe Project
+
+Artifacts for working paper 16.10:
+
+- CaseView source: [[2-working-papers/6-general-working-papers/16-10-accounting-records/16.10 Accounting Records Work Program CaseView Document.pdf]]
+
+## Related
+
+- [[entities/caseware-working-papers]]
+- [[entities/probe-audit-premium-plus]]
+- [[concepts/four-stage-pipeline]]
+- [[2-working-papers/6-general-working-papers/18-10-financial-statement-preparation/18-10-financial-statement-preparation Wiki Page]] — Financial Statement Preparation Work Program (uses the records verified here)
+- [[2-working-papers/6-general-working-papers/17-10-opening-balances-comparatives/17-10-opening-balances-comparatives Wiki Page]] — Opening Balances and Comparatives Work Program (relies on prior year records)
+
+- [[2-working-papers/6-general-working-papers/index]]
+
+## References
+
+- CaseView source: [[2-working-papers/6-general-working-papers/16-10-accounting-records/16.10 Accounting Records Work Program CaseView Document.pdf]]

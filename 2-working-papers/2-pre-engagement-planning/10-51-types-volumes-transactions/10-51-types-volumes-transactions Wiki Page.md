@@ -1,0 +1,131 @@
+---
+title: "Types and Volumes of Transactions"
+type: entity
+created: 2026-04-07
+updated: 2026-04-07
+tags: [working-papers, pre-engagement, probe]
+sources: [caseview-10-51]
+ref: "10.51"
+pipeline-stage: how-to-doc
+status: active
+---
+
+# Types and Volumes of Transactions
+
+## Purpose
+
+This is a comprehensive 20-page working paper that documents the types and volumes of transactions for each class of transactions, account balance, and disclosure (COTABD) in the entity's financial statements. For each COTABD, it presents comparative financial data, identifies possible risks of material misstatement (ROMM), and captures the nature of transactions and balances. It is the primary document for understanding the entity's transaction landscape and feeds directly into risk assessment.
+
+## Key Fields & Sections
+
+### Risk Assessment Procedures Header
+- Type of procedures performed (Inquiries, Observations, Inspections, Analytical review)
+- Source(s) from which information was obtained
+
+### Structure per COTABD
+Each COTABD section follows a consistent format:
+1. **Account balance table** — Current year (2023), prior year (2022), percentage change, and comment
+2. **Categories breakdown** — Sub-categories within the account balance with comparative figures
+3. **Transactions directly related** — Related income statement items (gains/losses, expenses)
+4. **Identify possible ROMM** — Structured steps:
+   - Review trial balance accounts for incorrect mapping/classification
+   - Review for unusual accounts
+   - Review underlying accounting records for unusual items
+   - Evaluate accounting policies against IFRS for SMEs
+5. **Transactions and balances** — Description and estimated value of transactions (R)
+6. **Specific transaction types** — Nature-specific questions (e.g. does entity maintain asset register, measurement model used)
+
+### COTABDs Covered (20 pages)
+
+**Assets:**
+- Property, plant and equipment (with categories: plant/machinery, furniture/fixtures, motor vehicles, IT equipment)
+- Investment property on the cost model
+- Investment property at fair value
+- Biological assets on the cost model
+- Biological assets at fair value
+- Intangible assets
+- Goodwill
+- Investments in subsidiaries
+- Investments in associates
+- Prepayments
+- Other financial assets
+- Finance lease receivables
+- Operating lease assets
+- Retirement benefit asset
+- Deferred tax asset
+- Municipal deposits
+- Inventories (raw materials, work in progress, finished goods)
+- Cash and cash equivalents (cash on hand, bank balances, short-term deposits)
+- Trade and other receivables
+- Loans to directors, managers and employees
+
+**Liabilities:**
+- Other financial liabilities
+- Finance lease liabilities
+- Retirement benefit obligation
+- Deferred tax liability
+- Provisions
+- Bank overdraft
+- Trade and other payables
+- Current tax payable
+- Dividends payable
+
+**Equity:**
+- Capital or contributions
+- Retained income
+
+**Income Statement:**
+- Revenue
+- Cost of sales
+- Operating gains/losses
+- Operating expenses
+- Finance costs
+- Taxation
+
+**Disclosures:**
+- Related parties
+- Commitments and contingencies
+- Statement of cash flows
+
+## ISA References
+
+- ISA 315 — Identifying and Assessing the Risks of Material Misstatement (understanding classes of transactions, account balances, and disclosures)
+- ISA 320 — Materiality in Planning and Performing an Audit (significance of account balances)
+- ISA 330 — The Auditor's Responses to Assessed Risks (designing responses based on ROMM)
+- ISA 540 — Auditing Accounting Estimates (fair value measurements, estimates)
+- ISA 550 — Related Parties (related party disclosures section)
+- IFRS for SMEs — Various sections referenced for accounting policy evaluation
+
+## Completion Guidance
+
+- This document is auto-populated with trial balance data from the CaseWare mapping
+- The percentage change column highlights accounts requiring attention (significant movements)
+- Review each COTABD systematically; do not skip sections even if balances are zero (new transactions may arise)
+- The "Identify possible ROMM" steps are standardised but the comments should be entity-specific
+- Estimated value of transactions should be populated based on inquiries and analytical review
+- Decision on whether to document per-COTABD or consolidated is made at Q7 in [[2-working-papers/2-pre-engagement-planning/10-50-gathering-information/10-50-gathering-information Wiki Page]]
+- Q8 in [[2-working-papers/2-pre-engagement-planning/10-50-gathering-information/10-50-gathering-information Wiki Page]] determines whether 10.52 analytical procedures supplement or replace this document
+- Risk indicators from this document feed into [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary/11-10-risk-analysis-summary Wiki Page]] and the inherent risk assessment at [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment/11-20-inherent-risk-assessment Wiki Page]]
+- Focus attention on COTABDs with large percentage changes, unusual accounts, or new categories
+
+## Probe Project
+
+Artifacts for working paper 10.51:
+
+- CaseView source: [[2-working-papers/2-pre-engagement-planning/10-51-types-volumes-transactions/10.51 Types and Volumes of Transactions CaseView Document.pdf]]
+
+## Related
+
+- [[entities/caseware-working-papers]]
+- [[entities/probe-audit-premium-plus]]
+- [[concepts/four-stage-pipeline]]
+- [[2-working-papers/2-pre-engagement-planning/10-50-gathering-information/10-50-gathering-information Wiki Page]] — Gathering information (drives scope and documentation approach)
+- [[2-working-papers/2-pre-engagement-planning/10-60-overall-materiality/10-60-overall-materiality Wiki Page]] — Overall materiality (materiality benchmarks for significance)
+- [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary/11-10-risk-analysis-summary Wiki Page]] — Risk analysis summary (ROMM identified here flows to risk analysis)
+- [[2-working-papers/3-planning-risk-assessment/11-20-inherent-risk-assessment/11-20-inherent-risk-assessment Wiki Page]] — Inherent risk assessment (inherent risk per COTABD)
+
+- [[2-working-papers/2-pre-engagement-planning/index]]
+
+## References
+
+- CaseView source: [[2-working-papers/2-pre-engagement-planning/10-51-types-volumes-transactions/10.51 Types and Volumes of Transactions CaseView Document.pdf]]

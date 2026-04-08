@@ -24,7 +24,7 @@ No broken wiki-links found. All `[[wiki-link]]` targets resolve to existing `.md
 18 working papers tracked in [[2-working-papers/progress]] do not have their own wiki page. These are papers that appear in the project plan but were not among the CaseView PDFs ingested.
 
 ### Pre-Engagement (missing pages)
-- [ ] 10.30 — Discussions with those charged with governance (has a wiki page at [[2-working-papers/2-pre-engagement-planning/10-31-discussions-with-tcwg/10-31-discussions-with-tcwg]] but 10.30 is listed separately in progress tracker)
+- [ ] 10.30 — Discussions with those charged with governance (has a wiki page at [[2-working-papers/2-pre-engagement-planning/10-31-discussions-with-tcwg/10-31-discussions-with-tcwg Wiki Page]] but 10.30 is listed separately in progress tracker)
 - [ ] 10.50G — Plan extent of risk assessment procedures (Group)
 - [ ] 10.52 — Preliminary analytical review
 - [ ] 10.53 — Understanding of accounting estimates
@@ -49,7 +49,7 @@ No broken wiki-links found. All `[[wiki-link]]` targets resolve to existing `.md
 - [ ] 750.11 — Wage payout work program
 - [ ] 750.60 — Director's remuneration certificate
 
-> **Note:** Three additional Leadsheets items (Sections work programs, General work programs, Probe Firm settings, All Probe features, Minutes/01.60) appear in the tracker. Minutes has a page at [[2-working-papers/1-finalisation/01-60-minutes/01-60-minutes]]; the others have no reference number and no wiki page.
+> **Note:** Three additional Leadsheets items (Sections work programs, General work programs, Probe Firm settings, All Probe features, Minutes/01.60) appear in the tracker. Minutes has a page at [[2-working-papers/1-finalisation/01-60-minutes/01-60-minutes Wiki Page]]; the others have no reference number and no wiki page.
 
 ## One-Way Links (Missing Backlinks)
 

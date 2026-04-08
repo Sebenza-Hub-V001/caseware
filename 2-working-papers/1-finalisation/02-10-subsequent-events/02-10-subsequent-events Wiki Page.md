@@ -1,0 +1,107 @@
+---
+title: "Subsequent Events Work Program"
+type: entity
+created: 2026-04-07
+updated: 2026-04-07
+tags: [working-papers, finalisation, probe, how-to-draft]
+sources: [caseview-02-10, howto-02-10-v5]
+ref: "02.10"
+pipeline-stage: how-to-doc
+how-to-draft: "2-working-papers/1-finalisation/02-10-subsequent-events/How-To 02.10 Subsequent Events Work Program V5.docx"
+status: active
+---
+
+# Subsequent Events Work Program
+
+## Purpose
+
+The Subsequent Events Work Program (02.10) documents the audit procedures performed to identify and evaluate events occurring between the date of the financial statements and the date of the auditor's report. It ensures that adjusting events are properly reflected and non-adjusting events are adequately disclosed in the financial statements.
+
+## Key Fields & Sections
+
+### Procedures to Identify Events (with Comment and Event/Ref columns)
+
+1. **Management's procedures** -- Explain procedures established by management to ensure subsequent events are identified
+2. **Enquiries about post-year-end events** -- Enquire about events with material effect, specifically:
+   - (a) Substantial commitments or uncertainties arising after year end
+   - (b) Significant changes in share capital, long-term debt or working capital
+3. **Going concern beyond initial assessment** -- Enquire about events/conditions and business risks beyond the initial going concern assessment period
+4. **Review of interim documents** -- Read latest available interim financial statements, budgets, cash-flow forecasts and related management reports
+5. **Written representation** -- Obtain management representation that all subsequent events were appropriately treated
+6. **Meeting enquiries** -- Enquire about matters discussed at important meetings held after the financial statement date
+7. **Legal counsel enquiries** -- Enquire of or extend enquiries to the entity's legal counsel regarding litigation and claims
+8. **Additional written representations** -- Consider whether representations covering particular subsequent events are needed
+9. **Adjusting events review (IFRS for SMEs Section 32.5)** -- Ensure all adjusting events are recognised:
+   - (a) Court case settlements confirming present obligations
+   - (b) Sales invoices for inventory net realisable values
+   - (c) Proceeds from asset sales for price determination
+   - (d) Costs of assets bought for price determination
+   - (e) Employee benefit/bonus payments determined after reporting period
+   - (f) Fraud or errors detected on draft financial statements
+10. **Non-adjusting events disclosure (SME 32.6-.7)** -- Review draft financial statements for adequate disclosure
+11. **Dividends declared (SME 32.8)** -- Ensure post-reporting-period dividends are not recognised as a liability
+
+### Conclusion
+- Standard conclusion: "No subsequent events were identified that need to be recorded in the financial statements"
+- Space for alternative conclusions if events are identified
+
+## ISA References
+
+- **ISA 560** -- Subsequent Events
+- **IFRS for SMEs Section 32.5** -- Adjusting events after the reporting period
+- **IFRS for SMEs Section 32.6-.7** -- Non-adjusting events after the reporting period
+- **IFRS for SMEs Section 32.8** -- Dividends declared after the reporting period
+
+## Completion Guidance
+
+- Procedures should be performed as close to the date of the auditor's report as practicable
+- Each procedure requires a Comment (documenting the work done / findings) and an Event column (cross-reference to any identified events)
+- The IFRS for SMEs references relate to the accounting framework; the audit procedures are driven by ISA 560
+- If subsequent events are identified, they must be traced through to the financial statements (adjusting) or disclosures (non-adjusting)
+- This is a 2-page document covering 11 main procedures
+
+## How-To Document Summary
+
+The How-To V5 document for 02.10 Subsequent Events Work Program explains the functionality and features of this CaseView work program within Probe Audit Premium+. It describes the structured procedures for identifying and evaluating events occurring between the financial statement date and the audit report date.
+
+### Key Topics Addressed
+
+- **Document placement** -- located in the Finalisation folder in CaseWare document manager
+- **Procedures to identify events** -- 11 pre-populated audit procedures covering management enquiries, review of interim financial information, reading of minutes, obtaining written representations, enquiries of legal counsel, and evaluation of adjusting and non-adjusting events per IFRS for SMEs Section 32
+- **Input columns** -- Comment (work performed and findings), Event (description of any subsequent event identified), and Ref (cross-reference to working papers) for each procedure
+- **Conclusion** -- pre-populated default conclusion: "No subsequent events were identified that need to be recorded in the financial statements"; editable where events are identified
+- **Document outcomes** -- engagement team performs all 11 procedures and documents comments, events, and cross-references; reviews and confirms or amends the pre-populated conclusion
+- **Group audits** -- procedures apply at both group and component level when engagement type is Group Audit Single or Group Audit Multiple
+
+### ISA References in How-To
+
+- ISA 560 (Subsequent Events)
+- IFRS for SMEs Accounting Standard Section 32 (Events after the End of the Reporting Period)
+
+### Document Features
+
+- Insert or delete a comment, insert or delete a row at the end, guidance pop-ups, freeze functionality
+
+> **Status: Draft V5 -- due 30-Apr-26**
+
+## Probe Project
+
+Artifacts for working paper 02.10:
+
+- CaseView source: [[2-working-papers/1-finalisation/02-10-subsequent-events/02.10 Subsequent Events Work Program CaseView Document.pdf]]
+- How-To V5 draft: [[2-working-papers/1-finalisation/02-10-subsequent-events/How-To 02.10 Subsequent Events Work Program V5.docx]]
+
+## Related
+
+- [[entities/caseware-working-papers]]
+- [[entities/probe-audit-premium-plus]]
+- [[concepts/four-stage-pipeline]]
+- [[2-working-papers/1-finalisation/02-20-going-concern/02-20-going-concern Wiki Page]] -- Going Concern Conclusion
+- [[2-working-papers/1-finalisation/02-60-seniors-final-checklist/02-60-seniors-final-checklist Wiki Page]] -- Senior's Final Checklist (question 19-20 on subsequent events)
+- [[2-working-papers/1-finalisation/02-92-letter-of-representation/02-92-letter-of-representation Wiki Page]] -- Letter of Representation (section 7 on subsequent events)
+
+- [[2-working-papers/1-finalisation/index]]
+
+## References
+
+- CaseView source: [[2-working-papers/1-finalisation/02-10-subsequent-events/02.10 Subsequent Events Work Program CaseView Document.pdf]]

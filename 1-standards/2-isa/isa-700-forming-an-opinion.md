@@ -68,8 +68,8 @@ Related standards deal with specific reporting situations: [[1-standards/2-isa/i
 
 ## Application to Probe Working Papers
 
-- [[2-working-papers/1-finalisation/02-50-assurance-report/02-50-assurance-report]] — Consideration of Assurance Report (ref 02.50): Directly implements ISA 700 requirements for forming and expressing the audit opinion
-- [[2-working-papers/1-finalisation/02-40-evaluation-of-misstatements/02-40-evaluation-of-misstatements]] — Evaluation of Misstatements (ref 02.40): Supports the ISA 700 requirement to consider uncorrected misstatements (via ISA 450) when forming the opinion
+- [[2-working-papers/1-finalisation/02-50-assurance-report/02-50-assurance-report Wiki Page]] — Consideration of Assurance Report (ref 02.50): Directly implements ISA 700 requirements for forming and expressing the audit opinion
+- [[2-working-papers/1-finalisation/02-40-evaluation-of-misstatements/02-40-evaluation-of-misstatements Wiki Page]] — Evaluation of Misstatements (ref 02.40): Supports the ISA 700 requirement to consider uncorrected misstatements (via ISA 450) when forming the opinion
 
 ## Related Standards
 

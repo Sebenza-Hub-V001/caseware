@@ -1,0 +1,132 @@
+---
+title: "Consideration of Assurance Report"
+type: entity
+created: 2026-04-07
+updated: 2026-04-07
+tags: [working-papers, finalisation, probe, how-to-draft]
+sources: [caseview-02-50, howto-02-50-v5]
+ref: "02.50"
+pipeline-stage: how-to-doc
+how-to-draft: "2-working-papers/1-finalisation/02-50-assurance-report/How-To 02.50 Consideration of Assurance Report V5.docx"
+status: active
+---
+
+# Consideration of Assurance Report
+
+## Purpose
+
+The Consideration of Assurance Report (02.50) is a detailed checklist that guides the engagement team through determining the type of audit opinion to issue and verifying that the auditor's report complies with all applicable ISA requirements. It comprises two main parts: qualifying questions that determine the opinion type, and a comprehensive review of the draft report's content and format.
+
+## Key Fields & Sections
+
+### Qualifying Questions (Yes/No with Detail)
+15 questions that determine the form of the auditor's report:
+1. Evidence of material misstatement in financial statements?
+2. Material misstatement in comparative figures?
+3. Inability to obtain sufficient appropriate audit evidence?
+4. Multiple uncertainties making it impossible to form an opinion?
+5. Necessary to draw users' attention to an important matter (Emphasis of Matter)?
+6. Necessary to communicate other matters relevant to users' understanding?
+7. Separate reference to prior period figures in report?
+8. Specific audit report layout required by law or regulation?
+9. Financial statements prepared in accordance with a fair presentation framework?
+10. Other auditing standards followed in addition to ISA?
+11. Planning to report a reportable irregularity with IRBA?
+12. Is this entity a Public Interest Entity?
+13. Is it necessary to report Key Audit Matters?
+14. Is management's use of going concern basis inappropriate?
+15. Does a material uncertainty related to going concern exist?
+
+Based on answers, the system determines the opinion type (e.g. unmodified, qualified, adverse, disclaimer).
+
+### Consideration of Report (Exceptions, Initials/Date, Ref)
+Detailed checklist verifying the draft auditor's report contains all required elements:
+- (a) Title indicating report of independent auditor (ISA 700.21)
+- (b) Appropriate addressee (ISA 700.22)
+- (c) Opinion as first section with heading "Opinion" (ISA 700.23)
+- (d)-(h) Client identification, audit statement, financial statement titles, notes reference, period covered (ISA 700.24)
+- (i) Correct opinion wording for fair presentation framework (ISA 700.25)
+- (j)-(o) Basis for Opinion section requirements (ISA 700.28)
+- (p)-(s) Responsibilities of the director section (ISA 700.32-35)
+- (t)-(z) Auditor's Responsibilities section requirements (ISA 700.36-38)
+- (aa)-(ab) Communication with directors and KAM determination (ISA 700.39)
+- (ac) Report on Other Legal and Regulatory Requirements (ISA 700.42-44)
+- (ad) Audit tenure disclosure (IRBA Rule, Government Gazette 39475)
+- (ae) Location of practice (ISA 700.47)
+- (af) Report date requirements (ISA 700.48)
+
+### Key Audit Matters (Exceptions, Initials/Date, Ref)
+Checklist for the KAM section of the report (ISA 701.11, ISA 701.13, ISA 701.16):
+- (a) Correct introductory statement
+- (b) Appropriate subheadings per KAM
+- (c) Reference to related financial statement disclosures
+- (d) Description of why the matter was significant and how it was addressed
+- (e) Language directly relating to specific entity circumstances
+- (f) Statement if there are no KAMs to report
+
+## ISA References
+
+- **ISA 700** -- Forming an Opinion and Reporting on Financial Statements (extensively referenced throughout)
+- **ISA 701** -- Communicating Key Audit Matters in the Independent Auditor's Report
+- **ISA 705** -- Modifications to the Opinion in the Independent Auditor's Report
+- **ISA 706** -- Emphasis of Matter Paragraphs and Other Matter Paragraphs
+- **ISA 570** -- Going Concern (material uncertainty considerations)
+- **IRBA Rule** (Government Gazette 39475, 4 December 2015) -- Audit tenure disclosure
+
+## Completion Guidance
+
+- Start with the qualifying questions to determine the opinion type before reviewing the draft report
+- The qualifying questions drive which sections of the report are relevant
+- Every element of the report checklist should be ticked off with initials and date
+- For Public Interest Entities, the KAM section is mandatory (question 12 and 13)
+- South Africa-specific requirements include IRBA reportable irregularity considerations (question 11) and audit tenure disclosure (item ad)
+- This is a 3-page document with comprehensive ISA cross-references
+
+## How-To Document Summary
+
+The How-To V5 document for 02.50 Consideration of Assurance Report explains the functionality and features of this CaseView questionnaire document within Probe Audit Premium+. It describes how the engagement team determines the audit opinion type and reviews the draft audit report against ISA requirements.
+
+### Key Topics Addressed
+
+- **Document placement** -- located in the Finalisation folder in CaseWare document manager
+- **Qualifying questions** -- 15 pre-populated Yes/No questions addressing: material misstatement, comparative figures, sufficiency of audit evidence, multiple uncertainties, emphasis of matter, other matter, prior period figures, specific report layout, fair presentation framework, other auditing standards, reportable irregularities, public interest entity status, key audit matters, going concern, and material uncertainty
+- **Opinion type determination** -- automatically determined based on the combination of answers to the qualifying questions
+- **Consideration of report** -- detailed checklist for reviewing the draft audit report covering: title, addressee, opinion section, basis for opinion, responsibilities of the director, auditor's responsibilities, ethical requirements, other legal and regulatory requirements, audit tenure, and report dating, with ISA 700 paragraph references
+- **Key audit matters checklist** -- checklist items for reviewing the KAM section including introduction, subheadings, references to disclosures, and descriptions, with ISA 701 paragraph references
+- **Input columns** -- Detail (for qualifying questions), Exceptions, Initials and date, and Ref (for report review and KAM sections)
+- **Group audits** -- report evaluation includes group audit requirements and references to component auditors where applicable
+
+### ISA References in How-To
+
+- ISA 700 (Forming an Opinion and Reporting on Financial Statements)
+- ISA 701 (Communicating Key Audit Matters in the Independent Auditor's Report)
+- ISA 705 (Modifications to the Opinion in the Independent Auditor's Report)
+
+### Document Features
+
+- Insert or delete a comment, guidance pop-ups, freeze functionality
+
+> **Status: Draft V5 -- due 30-Apr-26**
+
+## Probe Project
+
+Artifacts for working paper 02.50:
+
+- CaseView source: [[2-working-papers/1-finalisation/02-50-assurance-report/02.50 Consideration of Assurance Report CaseView Document.pdf]]
+- How-To V5 draft: [[2-working-papers/1-finalisation/02-50-assurance-report/How-To 02.50 Consideration of Assurance Report V5.docx]]
+
+## Related
+
+- [[entities/caseware-working-papers]]
+- [[entities/probe-audit-premium-plus]]
+- [[concepts/four-stage-pipeline]]
+- [[2-working-papers/1-finalisation/02-55-key-audit-matters/02-55-key-audit-matters Wiki Page]] -- Key Audit Matters (detailed KAM determination)
+- [[2-working-papers/1-finalisation/02-20-going-concern/02-20-going-concern Wiki Page]] -- Going Concern Conclusion (feeds into questions 14-15)
+- [[2-working-papers/1-finalisation/02-40-evaluation-of-misstatements/02-40-evaluation-of-misstatements Wiki Page]] -- Evaluation of Misstatements (feeds into question 1)
+- [[2-working-papers/1-finalisation/02-00-partner-sign-off/02-00-partner-sign-off Wiki Page]] -- Partner Sign-Off
+
+- [[2-working-papers/1-finalisation/index]]
+
+## References
+
+- CaseView source: [[2-working-papers/1-finalisation/02-50-assurance-report/02.50 Consideration of Assurance Report CaseView Document.pdf]]

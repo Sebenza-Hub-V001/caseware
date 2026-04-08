@@ -1,0 +1,117 @@
+---
+title: "Information System and Control Activities"
+type: entity
+created: 2026-04-07
+updated: 2026-04-07
+tags: [working-papers, planning-risk, probe]
+sources: [caseview-11-50]
+ref: "11.50"
+pipeline-stage: how-to-doc
+status: active
+---
+
+# Information System and Control Activities
+
+## Purpose
+This working paper documents the auditor's understanding of the entity's information system (including the accounting records and financial statement preparation process) and the control activities in place over key risk areas. It addresses how transactions are initiated, recorded, and processed into financial statements, and documents controls that address significant risks — particularly fraud in revenue recognition.
+
+## Key Fields & Sections
+
+### Risk Assessment Procedures (Item 1)
+- Selection of procedure types: Inquiries, Observations, Inspections
+- Guidance on less complex entities where communication may be informal or oral
+
+### Election to Identify and Evaluate Controls (Item 2)
+Decision point on whether to identify and evaluate controls beyond the mandatory minimum:
+- **Mandatory controls to assess:**
+  - Controls that address significant risks
+  - Controls that address risks where substantive procedures alone are insufficient
+  - Controls over journal entries
+  - Controls planned for operating effectiveness testing
+- **Additional controls to consider:**
+  - Controls addressing risks assessed as high on the inherent risk spectrum (not yet significant risks)
+  - Controls relating to reconciling detailed records to the general ledger
+
+### Accounting Records
+**Systems Description (Items 1-2):**
+- Description of processes and policies within the information system (automatic and manual) for initiating journal transactions, including standard and non-standard journal entries for non-recurring, unusual transactions or adjustments
+- Whether management established controls over journal entries — considers authorisation/approval, independent review, segregation of duties between authorisation and accounting
+
+### Financial Statement Preparation
+**Systems Description (Items 1-6):**
+- Financial reporting process for preparing financial statements under IFRS for SMEs, including disclosures — considers formal organisation chart, identification of new/revised standards
+- How management ensures disclosures are complete, relevant, consistent, and comparable — considers disclosure checklists, non-transaction disclosures (commitments, contingencies)
+- How management identifies the need for and applies specialised skills for accounting estimates — considers management experts, specialised nature, model complexity, unusual transactions
+- Procedures for identifying subsequent events
+- How entity communicates significant matters supporting financial statement preparation:
+  - (a) Within the entity, including financial reporting roles and responsibilities
+  - (b) With external parties, such as regulatory authorities
+- Whether operating effectiveness of controls will be tested
+
+### Revenue — Control Activities
+Controls to address risks table with columns:
+- Description of risk
+- Inherent risk level
+- Significant risk (Yes/No)
+- Non-substantive indicator
+- Record control selection
+- Description of control
+- Reliance intended (Yes/No)
+
+**Pre-populated risks:**
+- Fraud in revenue recognition — Revenue stream 1 (per ISA 240.26)
+- Fraud in revenue recognition — Revenue stream 2 (per ISA 240.26)
+- Fraud in revenue recognition — Revenue stream 3 (per ISA 240.26)
+
+Each references revenue streams identified on 10.51 and requires evaluation of which types of revenue, transactions, or assertions give rise to the presumed fraud risk.
+
+### Investment Income — Control Activities
+Same structure as Revenue, with pre-populated fraud in revenue recognition risk per ISA 240.26, referencing revenue streams on 10.51.
+
+### Probe Project
+
+Artifacts for working paper 11.50:
+
+- CaseView source: [[2-working-papers/3-planning-risk-assessment/11-50-information-system-controls/11.50 - Information System and Control Activities CaseView Document.pdf]]
+- CaseView source: [[2-working-papers/3-planning-risk-assessment/11-50-information-system-controls/11.50 Information System and Control Activities CaseView Document.pdf]]
+
+## Related Parties
+Noted as a section but without pre-populated risks in the template.
+
+### Overall Conclusion (Item 1)
+- Evaluate whether the information system and communication appropriately support preparation of financial statements under IFRS for SMEs.
+
+## ISA References
+- **ISA 315 (Revised)** — Understanding the information system and control activities
+- **ISA 240.26** — Presumed significant risk of fraud in revenue recognition (drives the Revenue and Investment Income sections)
+- Cross-references to working paper 10.51 (Types and volumes of transactions — revenue streams)
+
+## Completion Guidance
+- This is a 5-page document with distinct sections for the information system and for control activities.
+- The journal entry controls documented here are referenced by [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment/11-25-fraud-risk-assessment Wiki Page]] (fraud risk assessment) for the management override of controls risk.
+- For each revenue stream (up to 3), the auditor must either document the control addressing the presumed fraud risk or rebut the presumption with documented reasons (rebuttal is recorded on [[2-working-papers/3-planning-risk-assessment/11-60-risk-assessment-assertion-level/11-60-risk-assessment-assertion-level Wiki Page]]).
+- The "Reliance intended?" column determines whether control testing will be performed, which flows into the audit strategy.
+- Two versions of this document exist in the source files (dated Dec 2025 and Mar 2026) — they are structurally identical. A third version exists as a Probe Audit Premium screenshot showing the working paper in its CaseWare interface context.
+
+## Probe Project
+
+Artifacts for working paper 11.50:
+
+- CaseView source: [[2-working-papers/3-planning-risk-assessment/11-50-information-system-controls/11.50 - Information System and Control Activities CaseView Document.pdf]]
+- CaseView source: [[2-working-papers/3-planning-risk-assessment/11-50-information-system-controls/11.50 Information System and Control Activities CaseView Document.pdf]]
+
+## Related
+- [[2-working-papers/3-planning-risk-assessment/11-10-risk-analysis-summary/11-10-risk-analysis-summary Wiki Page]] — Risk Analysis Summary
+- [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment/11-25-fraud-risk-assessment Wiki Page]] — Fraud Risk Assessment (references journal entry controls documented here)
+- [[2-working-papers/3-planning-risk-assessment/11-30-internal-control-evaluation/11-30-internal-control-evaluation Wiki Page]] — Evaluation of System of Internal Control (broader control assessment)
+- [[2-working-papers/3-planning-risk-assessment/11-60-risk-assessment-assertion-level/11-60-risk-assessment-assertion-level Wiki Page]] — Risk Assessment at Assertion Level (revenue fraud risk rebuttal recorded there)
+- [[entities/caseware-working-papers]]
+- [[entities/probe-audit-premium-plus]]
+- [[concepts/four-stage-pipeline]]
+
+- [[2-working-papers/3-planning-risk-assessment/index]]
+
+## References
+- CaseView source: [[2-working-papers/3-planning-risk-assessment/11-50-information-system-controls/11.50 - Information System and Control Activities CaseView Document.pdf]]
+- CaseView source (alternate version): [[2-working-papers/3-planning-risk-assessment/11-50-information-system-controls/11.50 Information System and Control Activities CaseView Document.pdf]]
+- Probe interface screenshot: [[2-working-papers/3-planning-risk-assessment/11-50-information-system-controls/ProbeAuditPremium - Audit Single Version XXXX 20 23 - Information system and control activities CaseView Document.pdf]]

@@ -1,0 +1,133 @@
+---
+title: "Engagement Quality Review - Execution and Finalisation"
+type: entity
+created: 2026-04-07
+updated: 2026-04-07
+tags: [working-papers, finalisation, probe, how-to-draft]
+sources: [caseview-02-80, howto-02-80-v5]
+ref: "02.80"
+isa: "ISQM 2"
+pipeline-stage: how-to-doc
+how-to-draft: "2-working-papers/1-finalisation/02-80-eqr-execution-finalisation/How-To 02.80 Engagement Quality Review - Execution and Finalisation V5.docx"
+status: active
+---
+
+# Engagement Quality Review - Execution and Finalisation
+
+## Purpose
+
+The Engagement Quality Review (EQR) - Execution and Finalisation (02.80) documents the engagement quality reviewer's independent evaluation of the significant judgments made by the engagement team and the conclusions reached during the execution and completion phases of the audit. This is a mandatory quality control mechanism for certain engagements (e.g. Public Interest Entities) and provides an additional layer of assurance before the auditor's report is issued.
+
+## Key Fields & Sections
+
+### Significant Judgments and Matters (Ref, Detail, Yes/No)
+
+1. **Discussions with engagement partner:**
+   - (a) Significant judgments made by the engagement team
+   - (b) Significant matters identified by the engagement team
+   - (c) Basis for determination that ethical requirements relating to independence have been fulfilled
+2. **Discussions with other team members** -- Significant judgments and matters during execution and completion (where deemed appropriate)
+3. **Review of selected documentation** -- Documentation relating to significant judgments
+4. **Evaluation of audit evidence** relating to significant judgments:
+   - (a) Basis for making judgments is appropriate
+   - (b) Appropriate level of professional skepticism applied
+   - (c) Engagement documentation supports conclusion reached
+   - (d) Conclusions reached are appropriate
+5. **Independence determination** -- Basis for engagement partner's independence conclusion is appropriate
+
+### Firm Mandatory Items
+- Based on events and conditions present (entity-specific requirements)
+
+### Other Responsibilities (Ref, Detail, Yes/No)
+
+6. **Consultations** -- Appropriate consultations on difficult/contentious matters and differences of opinion
+7. **Engagement partner involvement** -- Basis for concluding that the partner's involvement has been sufficient throughout the engagement
+8. **Sufficiency of partner involvement** -- EQ reviewer's own assessment of partner involvement
+9. **Draft financial statements review** -- Review for non-compliance with IFRS for SMEs, including:
+   - Presentation and disclosure consistency with understanding of significant judgments
+   - Other areas where significant judgments would have been expected
+10. **Draft auditor's report review** -- Including description of key audit matters
+
+### Conclusion (Ref, Detail, Yes/No)
+
+11. **Perception of independence** -- Likely not perceived as making decisions on behalf of the engagement team
+12. **Eligibility** -- No circumstances impairing eligibility to perform the EQR, considering:
+    - Changes in engagement circumstances affecting required competence
+    - Changes in EQ reviewer's other responsibilities affecting available time
+13. **Sufficiency of EQR procedures** -- Procedures provide sufficient basis for objective evaluation, considering:
+    - Concerns about quality of engagement team work
+    - Co-operation of engagement team with EQ reviewer
+14. **Documentation of EQR** -- Satisfied that documentation includes:
+    - (a) Nature, timing and extent of EQR procedures and conclusions
+    - (b) Which engagement documentation was reviewed
+    - (c) Notification(s) to the engagement partner
+
+### Engagement Quality Reviewer Sign-Off
+- Comment field
+- Name
+- Signature
+- Date
+
+## ISA References
+
+- **ISQM 2** -- Engagement Quality Reviews
+- **ISA 220** -- Quality Management for an Audit of Financial Statements
+- **ISQM 1** -- Quality Management for Firms (System of Quality Management)
+
+## Completion Guidance
+
+- This document is completed by the engagement quality reviewer, not the engagement team
+- The EQ reviewer must be independent of the engagement team and must not have been involved in making the judgments being reviewed
+- The EQR must be completed before the auditor's report is dated
+- All 14 questions must be answered; a "No" to any question requires resolution before the report can be issued
+- The EQ reviewer's sign-off at the end represents their notification to the engagement partner that the EQR is complete
+- This is a 3-page document
+
+## How-To Document Summary
+
+The How-To V5 document for 02.80 Engagement Quality Review -- Execution and Finalisation explains the functionality and features of this CaseView questionnaire document within Probe Audit Premium+. It describes how the engagement quality reviewer performs and documents the EQR of the execution and finalisation phase of the audit.
+
+### Key Topics Addressed
+
+- **Document placement** -- located in the Finalisation folder in CaseWare document manager
+- **Significant judgments and matters** -- questions addressing discussions with the engagement partner (significant judgments, significant matters, independence determination), review of documentation, and evaluation of audit evidence (appropriateness of judgment basis, professional skepticism, documentation support, and conclusions)
+- **Firm mandatory section** -- tick box for firm mandatory procedures based on events and conditions present
+- **Other responsibilities** -- questions on consultations on difficult/contentious matters, engagement partner's involvement, review of draft financial statements for IFRS for SMEs compliance, and review of draft auditor's report including KAMs
+- **Conclusion** -- questions on perception of independence, eligibility (competence and available time), sufficiency of EQR procedures, and completeness of EQR documentation
+- **Engagement quality reviewer sign-off** -- comment, name, signature, and date fields
+- **Input columns** -- Ref, Detail, and Yes/No for each question across all sections
+- **Group audits** -- additional questions for group audit engagement covering components, component auditors, access, and sufficiency of involvement; includes red warnings and blue guidance text
+
+### ISA References in How-To
+
+- ISQM 2 (Engagement Quality Reviews)
+- ISA 220 (Quality Management for an Audit of Financial Statements)
+
+### Document Features
+
+- Insert or delete a comment, guidance pop-ups, freeze functionality
+
+> **Status: Draft V5 -- due 30-Apr-26**
+
+## Probe Project
+
+Artifacts for working paper 02.80:
+
+- CaseView source: [[2-working-papers/1-finalisation/02-80-eqr-execution-finalisation/02.80 Engagement Quality Review - Execution and Finalisation CaseView Document.pdf]]
+- How-To V5 draft: [[2-working-papers/1-finalisation/02-80-eqr-execution-finalisation/How-To 02.80 Engagement Quality Review - Execution and Finalisation V5.docx]]
+
+## Related
+
+- [[entities/caseware-working-papers]]
+- [[entities/probe-audit-premium-plus]]
+- [[concepts/four-stage-pipeline]]
+- [[2-working-papers/1-finalisation/02-00-partner-sign-off/02-00-partner-sign-off Wiki Page]] -- Partner Sign-Off (includes EQR-related questions for the partner)
+- [[2-working-papers/1-finalisation/02-05-engagement-team-declaration/02-05-engagement-team-declaration Wiki Page]] -- Engagement Team Declaration
+- [[2-working-papers/1-finalisation/02-70-managers-final-checklist/02-70-managers-final-checklist Wiki Page]] -- Manager's Final Checklist
+- [[2-working-papers/1-finalisation/02-50-assurance-report/02-50-assurance-report Wiki Page]] -- Consideration of Assurance Report
+
+- [[2-working-papers/1-finalisation/index]]
+
+## References
+
+- CaseView source: [[2-working-papers/1-finalisation/02-80-eqr-execution-finalisation/02.80 Engagement Quality Review - Execution and Finalisation CaseView Document.pdf]]
