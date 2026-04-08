@@ -2,7 +2,7 @@
 title: "Tweet Insights Index"
 type: overview
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-08
 tags: [tweets, ai, insights, probe-project]
 status: active
 ---
@@ -29,6 +29,7 @@ status: active
 - [[tweets/aiedge-claude-skills-guide]] — Ultimate guide to building and optimising Claude Skills (AI Edge, 2026-03-25)
 - [[tweets/explorax-20-agentic-skills]] — 20 agentic skills in .md format for Claude, ChatGPT & Gemini (m0h, 2026-04-01)
 - [[tweets/farzapedia-personal-wiki]] — Personal wiki as agent knowledge base (Farza, 2026-04-04)
+- [[tweets/coreyganim-claude-code-hidden-features]] — 5 hidden Claude Code features: /batch, agent teams, TaskCompleted hook, /loop + skills, channels (Corey Ganim, 2026-04-07)
 
 ## Recommendation Summary
 
@@ -45,6 +46,11 @@ status: active
 | 9 | [[tweets/farzapedia-personal-wiki]] | More aggressive auto-update on ingest across related pages | Medium | High |
 | 10 | [[tweets/farzapedia-personal-wiki]] | Add visual/media tracking (screenshots, storyboards) | Medium | Medium |
 | 11 | [[tweets/farzapedia-personal-wiki]] | Query-driven page creation in questions/ | Low | High |
+| 12 | [[tweets/coreyganim-claude-code-hidden-features]] | Use `/batch` for parallel Stage 1→2 generation across audit phases | Medium | Very High |
+| 13 | [[tweets/coreyganim-claude-code-hidden-features]] | Implement `TaskCompleted` hook for pipeline quality gates | Medium | High |
+| 14 | [[tweets/coreyganim-claude-code-hidden-features]] | Set up `/loop` with wiki lint skill for continuous health checks | Low | High |
+| 15 | [[tweets/coreyganim-claude-code-hidden-features]] | Design agent team workflow for multi-agent How-To document review | High | Very High |
+| 16 | [[tweets/coreyganim-claude-code-hidden-features]] | Combine `/batch` + `TaskCompleted` hook for quality-gated batch generation | High | Very High |
 
 ## Related
 

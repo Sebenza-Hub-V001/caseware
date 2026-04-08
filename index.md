@@ -157,6 +157,7 @@ status: active
 - [[tweets/aiedge-claude-skills-guide]] — Ultimate guide to building and optimising Claude Skills (AI Edge, 2026-03-25)
 - [[tweets/explorax-20-agentic-skills]] — 20 agentic skills in .md format for Claude, ChatGPT & Gemini (m0h, 2026-04-01)
 - [[tweets/farzapedia-personal-wiki]] — Personal wiki as agent knowledge base (Farza, 2026-04-04)
+- [[tweets/coreyganim-claude-code-hidden-features]] — 5 hidden Claude Code features: /batch, agent teams, TaskCompleted hook, /loop + skills, channels (Corey Ganim, 2026-04-07)
 
 ### Questions
 - [[questions/wiki-health]] — Wiki health check and lint results (2026-04-07) — Status: open
