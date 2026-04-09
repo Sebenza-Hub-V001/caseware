@@ -160,6 +160,7 @@ status: active
 - [[tweets/coreyganim-claude-code-hidden-features]] — 5 hidden Claude Code features: /batch, agent teams, TaskCompleted hook, /loop + skills, channels (Corey Ganim, 2026-04-07)
 - [[tweets/roundtablespace-debugging-prompt]] — 8-step structured debugging methodology prompt (0xMarioNawfal, 2026-03-22)
 - [[tweets/nickspisak-claude-managed-agents]] — Claude Managed Agents: deploy your first agent in under 10 minutes (Nick Spisak, 2026-04-08)
+- [[tweets/aiedge-claude-code-obsidian-guide]] — Claude Code + Obsidian Ultimate Guide: build an AI second brain (AI Edge, 2026-04-08)
 
 ### Questions
 - [[questions/wiki-health]] — Wiki health check and lint results (2026-04-07) — Status: open

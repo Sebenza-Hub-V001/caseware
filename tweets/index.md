@@ -2,8 +2,7 @@
 title: "Tweet Insights Index"
 type: overview
 created: 2026-04-07
-updated: 2026-04-09
-tags: [tweets, ai, insights, probe-project]
+updated: 2026-04-09tags: [tweets, ai, insights, probe-project]
 status: active
 ---
 
@@ -32,6 +31,7 @@ status: active
 - [[tweets/coreyganim-claude-code-hidden-features]] — 5 hidden Claude Code features: /batch, agent teams, TaskCompleted hook, /loop + skills, channels (Corey Ganim, 2026-04-07)
 - [[tweets/roundtablespace-debugging-prompt]] — 8-step structured debugging methodology prompt (0xMarioNawfal, 2026-03-22)
 - [[tweets/nickspisak-claude-managed-agents]] — Claude Managed Agents: deploy your first agent in under 10 minutes (Nick Spisak, 2026-04-08)
+- [[tweets/aiedge-claude-code-obsidian-guide]] — Claude Code + Obsidian Ultimate Guide: build an AI second brain (AI Edge, 2026-04-08)
 
 ## Recommendation Summary
 
@@ -60,6 +60,10 @@ status: active
 | 21 | [[tweets/nickspisak-claude-managed-agents]] | Use `always_ask` permission mode as the production quality gate (replaces custom TaskCompleted hook) | Medium | High |
 | 22 | [[tweets/nickspisak-claude-managed-agents]] | Pilot a document-scoped agent for one working paper end-to-end (read → draft → script → wiki → progress) | High | Very High |
 | 23 | [[tweets/nickspisak-claude-managed-agents]] | Cost-model the pipeline on $0.08/session-hour + token rates to set the automation budget | Low | Medium |
+| 24 | [[tweets/aiedge-claude-code-obsidian-guide]] | Pair Claude Code + Obsidian vault with the Skills layer as one coherent stack | Low | High |
+| 25 | [[tweets/aiedge-claude-code-obsidian-guide]] | Audit `CLAUDE.md` against the "context lives in files" principle | Low | Medium |
+| 26 | [[tweets/aiedge-claude-code-obsidian-guide]] | Add a `memory.md` or equivalent session-continuity page | Low | Medium |
+| 27 | [[tweets/aiedge-claude-code-obsidian-guide]] | Retrieve and ingest the full X Article once an authenticated session is available | Low | Medium |
 
 ## Related
 
