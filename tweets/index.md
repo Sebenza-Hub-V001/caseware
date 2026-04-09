@@ -2,7 +2,7 @@
 title: "Tweet Insights Index"
 type: overview
 created: 2026-04-07
-updated: 2026-04-08
+updated: 2026-04-09
 tags: [tweets, ai, insights, probe-project]
 status: active
 ---
@@ -31,6 +31,7 @@ status: active
 - [[tweets/farzapedia-personal-wiki]] — Personal wiki as agent knowledge base (Farza, 2026-04-04)
 - [[tweets/coreyganim-claude-code-hidden-features]] — 5 hidden Claude Code features: /batch, agent teams, TaskCompleted hook, /loop + skills, channels (Corey Ganim, 2026-04-07)
 - [[tweets/roundtablespace-debugging-prompt]] — 8-step structured debugging methodology prompt (0xMarioNawfal, 2026-03-22)
+- [[tweets/nickspisak-claude-managed-agents]] — Claude Managed Agents: deploy your first agent in under 10 minutes (Nick Spisak, 2026-04-08)
 
 ## Recommendation Summary
 
@@ -54,6 +55,11 @@ status: active
 | 16 | [[tweets/coreyganim-claude-code-hidden-features]] | Combine `/batch` + `TaskCompleted` hook for quality-gated batch generation | High | Very High |
 | 17 | [[tweets/roundtablespace-debugging-prompt]] | Adapt as a "Pipeline Debugger" skill for automated error handling | Low | Medium |
 | 18 | [[tweets/roundtablespace-debugging-prompt]] | Incorporate "verify before fixing" into `TaskCompleted` hooks | Low | High |
+| 19 | [[tweets/nickspisak-claude-managed-agents]] | Run `start onboarding for managed agents in Claude API` against this repo to scope the pilot | Low | High |
+| 20 | [[tweets/nickspisak-claude-managed-agents]] | Stand up one Managed Agent per audit phase with skills + ISA standards pre-loaded | High | Very High |
+| 21 | [[tweets/nickspisak-claude-managed-agents]] | Use `always_ask` permission mode as the production quality gate (replaces custom TaskCompleted hook) | Medium | High |
+| 22 | [[tweets/nickspisak-claude-managed-agents]] | Pilot a document-scoped agent for one working paper end-to-end (read → draft → script → wiki → progress) | High | Very High |
+| 23 | [[tweets/nickspisak-claude-managed-agents]] | Cost-model the pipeline on $0.08/session-hour + token rates to set the automation budget | Low | Medium |
 
 ## Related
 
