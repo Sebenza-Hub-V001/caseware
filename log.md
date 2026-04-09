@@ -209,3 +209,15 @@
 - Results filed: [[questions/wiki-health]]
 - New pages created: [[questions/wiki-health]]
 - Pages touched: [[index]], [[log]]
+
+## [2026-04-09] tweet | AI Edge — Claude Code + Obsidian Ultimate Guide (Build an AI Second Brain)
+- Source: https://x.com/aiedge_/status/2041908011078447222
+- Linked X Article: "Claude Code + Obsidian Ultimate Guide (build an AI second brain)" (x.com/i/article/2041263299497791488)
+- Tweet page: [[tweets/aiedge-claude-code-obsidian-guide]]
+- Raw: `raw/tweets/2026-04-08-aiedge-claude-code-obsidian-guide.md`
+- Key insight: Claude Code + Obsidian is a file-system-native agent knowledge base — plain markdown vault, `CLAUDE.md` as schema, context lives in files rather than model memory, self-evolving on ingest. External validation of the architecture this repo already uses.
+- Relevance: Very high — the Probe wiki is a reference implementation of this pattern. Same author as [[tweets/aiedge-claude-skills-guide]], so pairs with the Skills tweet as one coherent `aiedge_` stack (vault = memory, skills = capabilities).
+- Confidence: medium — full X Article body could not be retrieved (authenticated session required); page is provisional and flagged for re-ingest once the article is accessible.
+- Recommendations: 4 (pair vault + skills as one stack; audit CLAUDE.md against "context in files" principle; add memory.md / session-continuity page; fetch and re-ingest the full article)
+- Pages touched: [[tweets/index]], [[index]], [[log]]
+- New pages created: [[tweets/aiedge-claude-code-obsidian-guide]], `raw/tweets/2026-04-08-aiedge-claude-code-obsidian-guide.md`
