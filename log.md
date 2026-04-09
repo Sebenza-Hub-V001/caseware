@@ -1,5 +1,14 @@
 # Activity Log
 
+## [2026-04-09] tweet | Nick Spisak — Claude Managed Agents: Deploy Your First One in Under 10 Minutes
+- Source: https://x.com/NickSpisak_/status/2041949191887262164
+- Tweet page: [[tweets/nickspisak-claude-managed-agents]]
+- Raw: `raw/tweets/2026-04-08-nickspisak-claude-managed-agents.md`
+- Key insight: Claude Managed Agents is Anthropic's hosted platform for production agents — four primitives (Agent, Environment, Session, Events), built-in tool execution, per-tool permission scoping (`always_allow` / `always_ask`), MCP connectivity, and a one-command Claude Code onboarding (`start onboarding for managed agents in Claude API`). Pricing is Claude API token rates + $0.08 per session-hour.
+- Relevance: Very high — replaces the local Claude Code + custom hooks automation pattern (see coreyganim tweet) with a managed platform; enables phase-scoped and document-scoped agents for the Probe pipeline; `always_ask` is a native quality gate
+- Recommendations: 5 (run onboarding, phase-scoped agents, always_ask gates, document-scoped pilot agent, session-hour cost model)
+- Pages touched: [[tweets/index]], [[index]], [[log]]
+
 ## [2026-04-08] tweet | RoundtableSpace — The Most Important Prompt for Debugging
 - Source: https://x.com/RoundtableSpace/status/2035631314691387534
 - Tweet page: [[tweets/roundtablespace-debugging-prompt]]

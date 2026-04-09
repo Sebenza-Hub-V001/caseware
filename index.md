@@ -2,14 +2,14 @@
 title: "Wiki Index"
 type: overview
 created: 2026-04-06
-updated: 2026-04-08
+updated: 2026-04-09
 tags: [index, navigation]
 status: active
 ---
 
 # Wiki Index
 
-> Last updated: 2026-04-08 | Pages: ~100 | Sources: 3
+> Last updated: 2026-04-09 | Pages: ~101 | Sources: 3
 
 ## 1 — Standards (Know the Rules)
 
@@ -159,6 +159,7 @@ status: active
 - [[tweets/farzapedia-personal-wiki]] — Personal wiki as agent knowledge base (Farza, 2026-04-04)
 - [[tweets/coreyganim-claude-code-hidden-features]] — 5 hidden Claude Code features: /batch, agent teams, TaskCompleted hook, /loop + skills, channels (Corey Ganim, 2026-04-07)
 - [[tweets/roundtablespace-debugging-prompt]] — 8-step structured debugging methodology prompt (0xMarioNawfal, 2026-03-22)
+- [[tweets/nickspisak-claude-managed-agents]] — Claude Managed Agents: deploy your first agent in under 10 minutes (Nick Spisak, 2026-04-08)
 
 ### Questions
 - [[questions/wiki-health]] — Wiki health check and lint results (2026-04-07) — Status: open
