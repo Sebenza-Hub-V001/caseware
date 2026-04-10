@@ -1,0 +1,284 @@
+name: Daily Vault Digest
+
+on:
+  schedule:
+    # 04:00 Africa/Johannesburg (UTC+2) = 02:00 UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo with full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install jq and pandoc
+        run: sudo apt-get update && sudo apt-get install -y jq pandoc
+
+      - name: Collect raw git activity
+        id: collect
+        run: |
+          set -euo pipefail
+
+          # Pathspec exclusions for editor cache / regenerated files
+          EXCLUDES=(
+            ":(exclude).smart-env"
+            ":(exclude).smart-env/**"
+            ":(exclude).makemd"
+            ":(exclude).makemd/**"
+            ":(exclude).obsidian/workspace.json"
+            ":(exclude).obsidian/workspace-mobile.json"
+            ":(exclude).obsidian/cache"
+            ":(exclude).obsidian/graph.json"
+            ":(exclude).trash"
+            ":(exclude).trash/**"
+            ":(exclude).claude"
+            ":(exclude).claude/**"
+          )
+
+          git log --since="24 hours ago" \
+            --pretty=format:'commit %h by %an%n%s%n%b%n---' \
+            --reverse -- . "${EXCLUDES[@]}" > commits.txt || true
+
+          git log --since="24 hours ago" --numstat --pretty=format:'' \
+            -- . "${EXCLUDES[@]}" \
+            | awk 'NF==3 {add[$3]+=$1; del[$3]+=$2}
+                   END {for (f in add) printf "%s\t+%s\t-%s\n", f, add[f], del[f]}' \
+            | sort > diffstat.txt || true
+
+          git log -p --since="24 hours ago" -- . "${EXCLUDES[@]}" \
+            | head -c 60000 > diffcontent.txt || true
+
+          # Decide if we have any activity
+          if [ ! -s commits.txt ]; then
+            echo "has_activity=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_activity=true" >> "$GITHUB_OUTPUT"
+          fi
+
+          echo "----- commits.txt -----"
+          cat commits.txt || true
+          echo "----- diffstat.txt -----"
+          cat diffstat.txt || true
+          echo "----- diffcontent.txt size -----"
+          wc -c diffcontent.txt || true
+
+      - name: Build prose digest with Claude
+        id: prose
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          set -euo pipefail
+
+          # Write the system prompt to its own file via heredoc to avoid escaping pain.
+          cat > system.txt <<'EOF'
+          You are Wes's personal assistant — think a friend who knows their work intimately and writes them a quick scannable morning rundown. Each day you read what changed in an Obsidian knowledge base for the CaseWare Probe Project over the past 24 hours and write a casual, structured update.
+
+          Format:
+          - Open with a single short line like "Morning. Here's what went down yesterday:" — never anything fancier.
+          - Then 3 to 6 H2 sections (## Heading), each with a few bullet points underneath.
+          - Section headings must be descriptive of what happened, not generic. Name them based on the actual work. Examples: "## The big win", "## The oh-no moment", "## Quiet cleanup", "## Showed up overnight", "## Loose ends". Never use "## Commits" or "## Summary" or "## Changes".
+          - Always end with a "## Today" section that gives one short recommendation about the day ahead, based on what the activity suggests. Don't invent plans — if nothing's obvious, just say "nothing on fire, pick something light".
+          - Bullets should be short and punchy. Use **bold** for the numbers, names, and findings that matter.
+          - No emoji. No horizontal rules. No code blocks unless quoting an actual filename or command.
+
+          Voice:
+          - Casual, like a mate texting over coffee. Contractions everywhere. Refer to Wes as "you".
+          - Opinionated asides are encouraged: "actually shippable now", "this one's interesting", "worth a proper read".
+          - If something is embarrassing or surprising in the diffs, say so plainly — that's the whole point of a friend reading the work for you.
+          - Group related commits as one piece of work, not as a commit list. The user can read git log themselves; your job is the synthesis.
+          - Mention concrete specifics: which file, which feature, which bug, which numbers changed. Vague briefings are useless.
+          - If there were corrections to earlier work, contradictions resolved, or course-corrections, those go in their own section — they're the most valuable thing to surface.
+          - Never thank the user, never apologise, never explain what you are doing. Just deliver the rundown.
+          EOF
+
+          # Strip the leading 10-space indent applied by the YAML block scalar.
+          sed -i 's/^          //' system.txt
+
+          # Build the user message: the raw activity dump.
+          {
+            echo "Here is the last 24 hours of activity in the repo."
+            echo
+            echo "=== COMMITS ==="
+            cat commits.txt
+            echo
+            echo "=== PER-FILE DIFFSTAT ==="
+            cat diffstat.txt
+            echo
+            echo "=== DIFF CONTENT (truncated to 60KB) ==="
+            cat diffcontent.txt
+          } > user.txt
+
+          # Quiet day branch — still call the model so it can write a "nothing happened" note,
+          # but only if we actually have activity. If not, write the prose ourselves.
+          if [ "${{ steps.collect.outputs.has_activity }}" = "false" ]; then
+            cat > prose.md <<'EOF'
+          Morning. Here's what went down yesterday:
+
+          ## Quiet one
+          - **Zero commits** in the last 24 hours. Nothing landed, nothing broke.
+
+          ## Today
+          - Nothing on fire — pick something light, or knock out one of the loose ends from earlier in the week.
+          EOF
+            sed -i 's/^          //' prose.md
+            exit 0
+          fi
+
+          # Build the JSON payload safely.
+          jq -n \
+            --rawfile system system.txt \
+            --rawfile user user.txt \
+            '{
+              model: "claude-sonnet-4-6",
+              max_tokens: 1500,
+              system: $system,
+              messages: [
+                { role: "user", content: $user }
+              ]
+            }' > payload.json
+
+          HTTP_CODE=$(curl -sS -o response.json -w "%{http_code}" \
+            https://api.anthropic.com/v1/messages \
+            -H "x-api-key: $ANTHROPIC_API_KEY" \
+            -H "anthropic-version: 2023-06-01" \
+            -H "content-type: application/json" \
+            -d @payload.json) || HTTP_CODE="000"
+
+          echo "Anthropic API returned HTTP $HTTP_CODE"
+
+          if [ "$HTTP_CODE" != "200" ]; then
+            echo "::group::Anthropic API error response"
+            cat response.json || true
+            echo
+            echo "::endgroup::"
+
+            ERR_MSG=$(jq -r '.error.message // "no message in response body"' response.json 2>/dev/null || echo "could not parse response")
+
+            DIAG=""
+            case "$HTTP_CODE" in
+              401) DIAG="HTTP 401: ANTHROPIC_API_KEY is missing, malformed, or revoked. Check Settings → Secrets and variables → Actions and confirm it starts with sk-ant-." ;;
+              429) DIAG="HTTP 429: Rate limited or out of credit. Check console.anthropic.com billing and usage." ;;
+              404) DIAG="HTTP 404: Model name 'claude-sonnet-4-6' was rejected. The API may have moved on; check the current model ID at docs.anthropic.com." ;;
+              000) DIAG="HTTP 000: curl failed entirely — network or DNS issue inside the runner." ;;
+              *)   DIAG="HTTP $HTTP_CODE: unexpected status. See the grouped log above for the full response body." ;;
+            esac
+
+            cat > prose.md <<EOF
+          Morning. Here's what went down yesterday:
+
+          ## The digest is broken
+          - The Anthropic API call failed with **HTTP $HTTP_CODE** so there's no real briefing today.
+          - API said: **$ERR_MSG**
+          - Diagnostic: $DIAG
+
+          ## Raw activity is still in the repo
+          - Check the workflow run logs for the full commit list and diffstat — they were collected fine, the model just didn't get to write them up.
+
+          ## Today
+          - Fix the digest pipeline before it rots. Check the secret, then re-run the workflow manually.
+          EOF
+            sed -i 's/^          //' prose.md
+            exit 0
+          fi
+
+          # Happy path: extract the model's text.
+          jq -r '.content[0].text' response.json > prose.md
+
+          if [ ! -s prose.md ] || [ "$(cat prose.md)" = "null" ]; then
+            echo "Model response was empty or unparseable; writing fallback."
+            cat > prose.md <<'EOF'
+          Morning. Here's what went down yesterday:
+
+          ## Something weird happened
+          - The API call returned 200 but the response body had no text content. Check the workflow logs.
+
+          ## Today
+          - Re-run the digest workflow manually and see if it was a transient blip.
+          EOF
+            sed -i 's/^          //' prose.md
+          fi
+
+          echo "----- prose.md -----"
+          cat prose.md
+
+      - name: Convert markdown to styled HTML
+        run: |
+          set -euo pipefail
+
+          cp prose.md digest.md
+          pandoc digest.md -f gfm -t html5 -o digest_inner.html
+
+          cat > digest.html <<'HTMLEOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+          <meta charset="utf-8">
+          <style>
+            body {
+              font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+              color: #222;
+              line-height: 1.6;
+              max-width: 680px;
+              margin: 0 auto;
+              padding: 24px;
+              font-size: 16px;
+            }
+            h1 { font-size: 22px; margin-top: 0; }
+            h2 {
+              font-size: 18px;
+              margin-top: 28px;
+              padding-bottom: 6px;
+              border-bottom: 1px solid #e5e5e5;
+            }
+            ul { padding-left: 22px; }
+            li { margin: 4px 0; }
+            strong { color: #000; }
+            code {
+              font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+              font-size: 14px;
+              background: #f4f4f4;
+              padding: 1px 5px;
+              border-radius: 3px;
+            }
+            a { color: #1a5fb4; }
+          </style>
+          </head>
+          <body>
+          __INNER__
+          </body>
+          </html>
+          HTMLEOF
+          sed -i 's/^          //' digest.html
+
+          # Inject the pandoc output where the placeholder is.
+          python3 -c "
+          with open('digest.html') as f: tpl = f.read()
+          with open('digest_inner.html') as f: inner = f.read()
+          with open('digest.html','w') as f: f.write(tpl.replace('__INNER__', inner))
+          "
+
+          echo "----- digest.html (head) -----"
+          head -c 2000 digest.html
+
+      - name: Compute subject line
+        id: subject
+        run: |
+          DATE_STR=$(TZ='Africa/Johannesburg' date +'%A, %-d %B %Y')
+          echo "subject=Wes, Your Daily CaseWare Probe Project Update - ${DATE_STR}" >> "$GITHUB_OUTPUT"
+
+      - name: Send email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: ${{ steps.subject.outputs.subject }}
+          to: ${{ secrets.MAIL_TO || secrets.SMTP_USERNAME }}
+          from: ${{ secrets.MAIL_FROM || secrets.SMTP_USERNAME }}
+          html_body: file://digest.html
+          body: file://digest.md
