@@ -2,14 +2,14 @@
 title: "Wiki Index"
 type: overview
 created: 2026-04-06
-updated: 2026-04-09
+updated: 2026-04-10
 tags: [index, navigation]
 status: active
 ---
 
 # Wiki Index
 
-> Last updated: 2026-04-09 | Pages: ~101 | Sources: 3
+> Last updated: 2026-04-10 | Pages: ~140 | Sources: 3
 
 ## 1 — Standards (Know the Rules)
 
@@ -149,6 +149,15 @@ status: active
 
 ## Links
 - [[links/index]] — Curated external links and resources
+- [[links/probe-documents-project-plan-2026]] — SharePoint link to Probe Project Plan 2026 spreadsheet
+
+## Notes
+- [[notes/obsidian-sidebar-layout-for-caseware]] — Obsidian file explorer layout reference
+
+## Tasks
+- [[tasks/todo]] — Current active tasks
+- [[tasks/how-to-documents-to-still-create]] — Outstanding How-To documents (11.21, 12.26)
+- [[tasks/lessons]] — Patterns and corrections
 
 ## Research & Ideas
 

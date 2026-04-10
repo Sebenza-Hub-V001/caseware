@@ -1,3 +1,12 @@
+---
+title: "Activity Log"
+type: overview
+created: 2026-04-06
+updated: 2026-04-10
+tags: [log, activity]
+status: active
+---
+
 # Activity Log
 
 ## [2026-04-09] tweet | Nick Spisak — Claude Managed Agents: Deploy Your First One in Under 10 Minutes
@@ -221,3 +230,15 @@
 - Recommendations: 4 (pair vault + skills as one stack; audit CLAUDE.md against "context in files" principle; add memory.md / session-continuity page; fetch and re-ingest the full article)
 - Pages touched: [[tweets/index]], [[index]], [[log]]
 - New pages created: [[tweets/aiedge-claude-code-obsidian-guide]], `raw/tweets/2026-04-08-aiedge-claude-code-obsidian-guide.md`
+
+## [2026-04-10] lint | Wiki health check and fixes
+- Issues found: 22
+- Fixed: 22
+- Deferred: 0
+- **Renamed 4 non-kebab-case files:** `Sharepoint Version.md` → `sharepoint-version.md`, `Probe documents Project Plan 2026.md` → `probe-documents-project-plan-2026.md`, `Obsidian Sidebar Layout for CaseWare.md` → `obsidian-sidebar-layout-for-caseware.md`, `How To Documents To Still Create.md` → `how-to-documents-to-still-create.md`
+- **Added frontmatter** to 5 pages: `log.md`, `tweets/index.md` (fixed broken YAML), `sharepoint-version.md`, `probe-documents-project-plan-2026.md`, `obsidian-sidebar-layout-for-caseware.md`
+- **Fixed 4 broken wiki links:** trailing slashes in coreyganim and farzapedia tweets, placeholder `[[wiki-link]]`/`[[wiki-links]]` in wiki-health and tweet pages
+- **Linked 5 orphan pages** into index.md (links, notes, tasks sections)
+- **Deleted** empty junk file `raw/articles/Untitled.md`
+- **Updated** index.md page count (101 → 140) and date
+- Pages touched: [[index]], [[log]], [[tweets/index]], [[tweets/coreyganim-claude-code-hidden-features]], [[tweets/farzapedia-personal-wiki]], [[tweets/aiedge-claude-code-obsidian-guide]], [[questions/wiki-health]], 4 renamed files, 1 working paper wiki page

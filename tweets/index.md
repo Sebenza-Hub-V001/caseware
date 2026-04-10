@@ -2,7 +2,8 @@
 title: "Tweet Insights Index"
 type: overview
 created: 2026-04-07
-updated: 2026-04-09tags: [tweets, ai, insights, probe-project]
+updated: 2026-04-09
+tags: [tweets, ai, insights, probe-project]
 status: active
 ---
 

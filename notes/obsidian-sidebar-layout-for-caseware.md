@@ -1,3 +1,14 @@
+---
+title: "Obsidian Sidebar Layout for CaseWare"
+type: concept
+created: 2026-04-08
+updated: 2026-04-10
+tags: [notes, obsidian, structure]
+status: active
+---
+
+# Obsidian Sidebar Layout for CaseWare
+
 Done. Here's the new Obsidian sidebar layout:
 
 

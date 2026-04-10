@@ -92,7 +92,7 @@ Builds directly on recommendations from [[tweets/explorax-20-agentic-skills]] an
 
 A multi-agent review workflow for How-To documents:
 - **Content agent** — generates the How-To document from the CaseView PDF
-- **ISA compliance agent** — verifies all relevant ISA requirements from [[1-standards/2-isa/]] are addressed
+- **ISA compliance agent** — verifies all relevant ISA requirements from [[1-standards/2-isa/index]] are addressed
 - **Formatting agent** — checks [[concepts/ooxml-document-structure]] compliance
 - **Devil's advocate agent** — challenges assumptions, flags gaps in practical guidance
 

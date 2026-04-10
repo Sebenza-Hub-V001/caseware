@@ -44,7 +44,7 @@ The result is an agent-native "second brain" where context lives in files rather
 - A vault of plain markdown files on disk
 - A root `CLAUDE.md` that defines schema, directory layout, frontmatter rules, and the Ingest / Query / Lint / Evolve / Filing / Tweets operations
 - An `index.md` catalog and a `log.md` append-only activity log
-- `[[wiki-links]]` between every entity, concept, standard, working paper, source, and tweet
+- `wiki links` between every entity, concept, standard, working paper, source, and tweet
 - Bidirectional cross-referencing as a hard rule
 - Self-evolving behaviour on ingest — a new source touches multiple pages and spawns new ones
 
