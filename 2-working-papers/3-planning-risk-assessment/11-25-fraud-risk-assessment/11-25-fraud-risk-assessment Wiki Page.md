@@ -125,3 +125,4 @@ Artifacts for working paper 11.25:
 
 ## References
 - CaseView source: [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment/11.25 Fraud Risk Assessment CaseView Document.pdf]]
+- SharePoint V2: [[2-working-papers/3-planning-risk-assessment/11-25-fraud-risk-assessment/sharepoint-version]]

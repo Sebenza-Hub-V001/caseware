@@ -13,11 +13,11 @@ status: active
 
 ## Orphan Pages
 
-No orphan pages found. All wiki pages have at least one inbound `[[wiki-link]]` from another page.
+No orphan pages found. All wiki pages have at least one inbound `wiki link` from another page.
 
 ## Missing Pages (Broken Links)
 
-No broken wiki-links found. All `[[wiki-link]]` targets resolve to existing `.md` files.
+No broken wiki-links found. All `wiki link` targets resolve to existing `.md` files.
 
 ## Missing Working Paper Wiki Pages
 
