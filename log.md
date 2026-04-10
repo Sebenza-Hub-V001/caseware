@@ -221,3 +221,15 @@
 - Recommendations: 4 (pair vault + skills as one stack; audit CLAUDE.md against "context in files" principle; add memory.md / session-continuity page; fetch and re-ingest the full article)
 - Pages touched: [[tweets/index]], [[index]], [[log]]
 - New pages created: [[tweets/aiedge-claude-code-obsidian-guide]], `raw/tweets/2026-04-08-aiedge-claude-code-obsidian-guide.md`
+
+## [2026-04-10] tweet | Defileo — "Claude + Obsidian Have to Be Illegal"
+- Source: https://x.com/defileo/status/2042241063612502162
+- Linked X Article: "Claude + Obsidian have to be illegal" (x.com/i/article/2041858771123617793)
+- Tweet page: [[tweets/defileo-claude-obsidian-illegal]]
+- Raw: `raw/tweets/2026-04-09-defileo-claude-obsidian-illegal.md`
+- Key insight: Zero-prompt morning — a Claude + Obsidian setup where the agent has persistent context about user identity and current work before any interaction. Emphasis on the user-experience layer (agent "knows you") vs the architecture layer covered by [[tweets/aiedge-claude-code-obsidian-guide]].
+- Relevance: High — the Probe wiki has the structural ingredients but lacks a session-start summary mechanism. Main gap identified: no `status.md` / `memory.md` file to surface current focus and recent activity on session start.
+- Confidence: medium — full X Article body could not be retrieved (authenticated session required).
+- Recommendations: 4 (add `status.md` session-start file; add session-start instruction to CLAUDE.md; auto-update status.md at end of operations; fetch full article)
+- Pages touched: [[tweets/index]], [[index]], [[log]]
+- New pages created: [[tweets/defileo-claude-obsidian-illegal]], `raw/tweets/2026-04-09-defileo-claude-obsidian-illegal.md`

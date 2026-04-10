@@ -2,7 +2,7 @@
 title: "Tweet Insights Index"
 type: overview
 created: 2026-04-07
-updated: 2026-04-09tags: [tweets, ai, insights, probe-project]
+updated: 2026-04-10tags: [tweets, ai, insights, probe-project]
 status: active
 ---
 
@@ -32,6 +32,7 @@ status: active
 - [[tweets/roundtablespace-debugging-prompt]] — 8-step structured debugging methodology prompt (0xMarioNawfal, 2026-03-22)
 - [[tweets/nickspisak-claude-managed-agents]] — Claude Managed Agents: deploy your first agent in under 10 minutes (Nick Spisak, 2026-04-08)
 - [[tweets/aiedge-claude-code-obsidian-guide]] — Claude Code + Obsidian Ultimate Guide: build an AI second brain (AI Edge, 2026-04-08)
+- [[tweets/defileo-claude-obsidian-illegal]] — "Claude + Obsidian have to be illegal" — zero-prompt persistent context (Defileo, 2026-04-09)
 
 ## Recommendation Summary
 
@@ -64,6 +65,10 @@ status: active
 | 25 | [[tweets/aiedge-claude-code-obsidian-guide]] | Audit `CLAUDE.md` against the "context lives in files" principle | Low | Medium |
 | 26 | [[tweets/aiedge-claude-code-obsidian-guide]] | Add a `memory.md` or equivalent session-continuity page | Low | Medium |
 | 27 | [[tweets/aiedge-claude-code-obsidian-guide]] | Retrieve and ingest the full X Article once an authenticated session is available | Low | Medium |
+| 28 | [[tweets/defileo-claude-obsidian-illegal]] | Add a `status.md` / `memory.md` session-start file for zero-prompt mornings | Low | High |
+| 29 | [[tweets/defileo-claude-obsidian-illegal]] | Add a session-start instruction in `CLAUDE.md` to proactively surface context | Low | High |
+| 30 | [[tweets/defileo-claude-obsidian-illegal]] | Auto-update `status.md` at end of every operation for rolling session summary | Low | Medium |
+| 31 | [[tweets/defileo-claude-obsidian-illegal]] | Retrieve and ingest the full X Article once an authenticated session is available | Low | Medium |
 
 ## Related
 
