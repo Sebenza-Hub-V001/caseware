@@ -2,14 +2,14 @@
 title: "Wiki Index"
 type: overview
 created: 2026-04-06
-updated: 2026-04-10
+updated: 2026-04-12
 tags: [index, navigation]
 status: active
 ---
 
 # Wiki Index
 
-> Last updated: 2026-04-10 | Pages: ~140 | Sources: 3
+> Last updated: 2026-04-12 | Pages: ~140 | Sources: 3
 
 ## 1 — Standards (Know the Rules)
 
@@ -170,6 +170,7 @@ status: active
 - [[tweets/roundtablespace-debugging-prompt]] — 8-step structured debugging methodology prompt (0xMarioNawfal, 2026-03-22)
 - [[tweets/nickspisak-claude-managed-agents]] — Claude Managed Agents: deploy your first agent in under 10 minutes (Nick Spisak, 2026-04-08)
 - [[tweets/aiedge-claude-code-obsidian-guide]] — Claude Code + Obsidian Ultimate Guide: build an AI second brain (AI Edge, 2026-04-08)
+- [[tweets/bloggersarvesh-claude-cowork-seo]] — Claude Cowork as Chief of SEO: 20-prompt audit system (Sarvesh Shrivastava, 2026-03-25)
 
 ### Questions
 - [[questions/wiki-health]] — Wiki health check and lint results (2026-04-07) — Status: open

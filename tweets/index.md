@@ -2,7 +2,7 @@
 title: "Tweet Insights Index"
 type: overview
 created: 2026-04-07
-updated: 2026-04-09
+updated: 2026-04-12
 tags: [tweets, ai, insights, probe-project]
 status: active
 ---
@@ -33,6 +33,7 @@ status: active
 - [[tweets/roundtablespace-debugging-prompt]] — 8-step structured debugging methodology prompt (0xMarioNawfal, 2026-03-22)
 - [[tweets/nickspisak-claude-managed-agents]] — Claude Managed Agents: deploy your first agent in under 10 minutes (Nick Spisak, 2026-04-08)
 - [[tweets/aiedge-claude-code-obsidian-guide]] — Claude Code + Obsidian Ultimate Guide: build an AI second brain (AI Edge, 2026-04-08)
+- [[tweets/bloggersarvesh-claude-cowork-seo]] — Claude Cowork as Chief of SEO: 20-prompt audit system (Sarvesh Shrivastava, 2026-03-25)
 
 ## Recommendation Summary
 
@@ -65,6 +66,9 @@ status: active
 | 25 | [[tweets/aiedge-claude-code-obsidian-guide]] | Audit `CLAUDE.md` against the "context lives in files" principle | Low | Medium |
 | 26 | [[tweets/aiedge-claude-code-obsidian-guide]] | Add a `memory.md` or equivalent session-continuity page | Low | Medium |
 | 27 | [[tweets/aiedge-claude-code-obsidian-guide]] | Retrieve and ingest the full X Article once an authenticated session is available | Low | Medium |
+| 28 | [[tweets/bloggersarvesh-claude-cowork-seo]] | Write Probe skills to assume working paper folder context is pre-loaded | Low | Medium |
+| 29 | [[tweets/bloggersarvesh-claude-cowork-seo]] | Adopt "ranked execution plan" output contract for pipeline review skills | Low | Medium |
+| 30 | [[tweets/bloggersarvesh-claude-cowork-seo]] | Use named "role" framing for main Probe skills (e.g. ISA Compliance Checker) | Low | Low |
 
 ## Related
 

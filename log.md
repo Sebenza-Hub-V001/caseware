@@ -2,12 +2,21 @@
 title: "Activity Log"
 type: overview
 created: 2026-04-06
-updated: 2026-04-10
+updated: 2026-04-12
 tags: [log, activity]
 status: active
 ---
 
 # Activity Log
+
+## [2026-04-12] tweet | Sarvesh Shrivastava — My Chief of SEO, Claude Cowork
+- Source: https://x.com/bloggersarvesh/status/2036795618090520592
+- Tweet page: [[tweets/bloggersarvesh-claude-cowork-seo]]
+- Raw: `raw/tweets/2026-03-25-bloggersarvesh-claude-cowork-seo.md`
+- Key insight: The transferable pattern (separate from the SEO domain) is Claude Cowork as a context-loaded prompt library — business/project context loaded once into files, a prompt library of one-file-per-task that assumes that context, competitor files as first-class inputs, and a ranked-execution-plan output contract. The agent is framed as a named role ("Chief of SEO").
+- Relevance: Moderate — SEO domain is off-topic for CaseWare Probe, but the Cowork architecture maps directly onto our `CLAUDE.md` + working-paper-folder + planned Skills-layer stack. Useful precisely because it's off-domain: confirms the architecture generalises.
+- Recommendations: 4 (assume working-paper folder context in skill descriptions, ranked-execution-plan output contract for pipeline review skills, named-role framing for main Probe skills, re-ingest article when authenticated access available)
+- Pages touched: [[tweets/index]], [[index]], [[log]]
 
 ## [2026-04-09] tweet | Nick Spisak — Claude Managed Agents: Deploy Your First One in Under 10 Minutes
 - Source: https://x.com/NickSpisak_/status/2041949191887262164
